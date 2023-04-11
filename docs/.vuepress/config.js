@@ -1,3 +1,5 @@
+const { itList } = require('./title-list');
+
 module.exports = {
   title: '一条有梦想的咸鱼',
   base: '/blog/',
@@ -16,7 +18,7 @@ module.exports = {
         {
           title: '前端',
           collapsable: true,
-          children: ['ES6', 'js-modules', 'npm-registry'],
+          children: itList.map((item) => item.value),
         },
         {
           title: '后端',

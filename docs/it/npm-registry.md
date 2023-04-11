@@ -20,14 +20,13 @@ npm config set registry https://registry.npmmirror.com/
 npm config set registry https://registry.npmjs.org/
 ```
 
-使用 [nrm](https://github.com/Pana/nrm)
+使用 `nrm`
 
-```bash
-//安装
+```sh
 $ npm install -g nrm
 
-//查看可用的源
 $ nrm ls
+
 * npm ---------- https://registry.npmjs.org/
   yarn --------- https://registry.yarnpkg.com/
   tencent ------ https://mirrors.cloud.tencent.com/npm/
@@ -35,11 +34,13 @@ $ nrm ls
   taobao ------- https://registry.npmmirror.com/
   npmMirror ---- https://skimdb.npmjs.com/registry/
 
-//使用
 $ nrm use cnpm  //switch registry to cnpm
 
     Registry has been set to: http://r.cnpmjs.org/
+
 ```
+
+官网地址 [https://github.com/Pana/nrm](https://github.com/Pana/nrm)
 
 ### 修改 yarn 源
 

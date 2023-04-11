@@ -2,7 +2,7 @@
   <div class="content">
     <Navbar />
     <main>
-      <div>一条有梦想的咸鱼</div>
+      <div>欢迎来到我的主页</div>
     </main>
   </div>
 </template>
