@@ -1,14 +1,21 @@
 {
-  "name": "blog",
+  "name": "vuepress2",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.9.9"
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1",
+    "vuepress": "^2.0.0-beta.61"
   },
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "sh": "bash deploy.sh"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "echarts": "^5.4.2",
+    "jquery": "^3.6.4",
+    "lodash": "^4.17.21"
   }
 }
