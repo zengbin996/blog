@@ -1,15 +1,17 @@
 <template>
   <div class="md:container md:mx-auto">
-    <div id="charts" class="charts-map"></div>
+    <div class="charts-map" ref="chartDomRef"></div>
   </div>
 </template>
 
 <script setup>
-import { nextTick } from 'vue';
+import { nextTick, ref } from 'vue';
 import * as echarts from 'echarts';
 import { IsMedia } from '../../utils/index';
 import china from './china.json';
 echarts.registerMap('china', china);
+
+const chartDomRef = ref(null);
 
 //https://www.google.com/maps 查询坐标
 const footprint = [
@@ -33,7 +35,8 @@ const footprint = [
 ];
 
 const echartsDraw = () => {
-  const chartDom = document.getElementById('charts');
+  const chartDom = chartDomRef.value;
+
   const myChart = echarts.init(chartDom);
   chartDom.removeAttribute('_echarts_instance_');
 
