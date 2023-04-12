@@ -6,9 +6,9 @@
 
 <script setup>
 import { nextTick, ref } from 'vue';
-import * as echarts from 'echarts';
 import { IsMedia } from '../../utils/index';
 import china from './china.json';
+import * as echarts from 'echarts';
 echarts.registerMap('china', china);
 
 const chartDomRef = ref(null);
@@ -100,6 +100,7 @@ const echartsDraw = () => {
 };
 
 nextTick(() => {
+  return;
   echartsDraw();
 });
 </script>
