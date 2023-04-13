@@ -33,7 +33,7 @@
 
 <script setup>
 import _ from 'lodash';
-import $ from 'jquery';
+// import $ from 'jquery';
 import { onMounted, ref, reactive } from 'vue';
 
 const photos = {
@@ -86,13 +86,13 @@ const calcHeight = () => {
 };
 
 // 图片显示动画效果
-$('.img-box').each(function () {
-  if ($(this).css('display') === 'block') {
-    $(this).find('img').css('opacity', '1');
-  } else {
-    $(this).find('img').css('opacity', '0');
-  }
-});
+// $('.img-box').each(function () {
+//   if ($(this).css('display') === 'block') {
+//     $(this).find('img').css('opacity', '1');
+//   } else {
+//     $(this).find('img').css('opacity', '0');
+//   }
+// });
 
 onMounted(() => {
   if (typeof window !== 'undefined') {
