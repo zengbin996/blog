@@ -6,7 +6,7 @@ export default defineUserConfig({
   title: '一条有梦想的咸鱼',
   port: '9906',
   base: '/blog/',
-  head: [['link', { rel: 'icon', href: '/ico.svg' }]],
+  head: [['link', { rel: 'icon', href: '/blog/ico.svg' }]],
   theme: defaultTheme({
     logo: '/ico.svg',
     navbar: [
@@ -80,23 +80,23 @@ export default defineUserConfig({
       '/it/after/': [
         {
           text: '后端',
-          children: ['/it/before/sql'],
+          children: ['/it/after/sql'],
         },
       ],
       '/it/network/': [
         {
           text: '网络/运维',
-          children: ['/it/before/webhooks-git-auto', '/it/before/Nginx-reverse-proxy', '/it/before/web-deploy'],
+          children: ['/it/network/webhooks-git-auto', '/it/network/Nginx-reverse-proxy', '/it/network/web-deploy'],
         },
       ],
       '/it/other/': [
         {
           text: '其他',
           children: [
-            '/it/before/vscode-del-annotation',
-            '/it/before/vscode-setting',
-            '/it/before/shortcut',
-            '/it/before/prettierrc',
+            '/it/other/vscode-del-annotation',
+            '/it/other/vscode-setting',
+            '/it/other/shortcut',
+            '/it/other/prettierrc',
           ],
         },
       ],
