@@ -1,5 +1,6 @@
 import { defaultTheme } from 'vuepress';
 import { defineUserConfig } from 'vuepress';
+import { docsearchPlugin } from '@vuepress/plugin-docsearch';
 
 export default defineUserConfig({
   title: '一条有梦想的咸鱼',
@@ -12,6 +13,23 @@ export default defineUserConfig({
       { text: 'IT', children: ['/it/before/', '/it/after/', '/it/network/', '/it/other/'] },
       { text: '英语', children: ['/en/grammar/', '/en/sentence/', '/en/article/'] },
       { text: '日语', children: ['/jp/grammar/', '/jp/sentence/', '/jp/article/'] },
+      {
+        text: '外部链接',
+        children: [
+          {
+            text: 'MusicPC-Vue',
+            link: 'https://gitee.com/zengbin996/music-vue3-pc',
+          },
+          {
+            text: 'MusicMobile-React',
+            link: 'https://gitee.com/zengbin996/music-react-mobile',
+          },
+        ],
+      },
+      {
+        text: 'GitHub',
+        link: 'https://github.com/zengbin996/blog',
+      },
     ],
     sidebar: {
       '/it/before/': [
@@ -126,4 +144,5 @@ export default defineUserConfig({
       ],
     },
   }),
+  plugins: [docsearchPlugin({})],
 });

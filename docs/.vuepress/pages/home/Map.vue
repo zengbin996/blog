@@ -1,5 +1,6 @@
 <template>
   <div class="md:container md:mx-auto">
+    <!-- <h3 class="text-center text-2xl my-4">我的足迹</h3> -->
     <div class="charts-map" ref="chartDomRef"></div>
   </div>
 </template>
@@ -38,16 +39,13 @@ const echartsDraw = () => {
   const chartDom = chartDomRef.value;
   const myChart = echarts.init(chartDom);
   chartDom.removeAttribute('_echarts_instance_');
-
   const frequencyScatter = footprint.map((item) => ({ value: item }));
-
   const option = {
     title: {
       show: true,
-
       text: '我的足跡',
       textStyle: {
-        fontSize: 18,
+        fontSize: 16,
         color: '#999',
       },
       left: 'center',
