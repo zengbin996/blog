@@ -3,9 +3,11 @@ import { defineUserConfig } from 'vuepress';
 
 export default defineUserConfig({
   title: '一条有梦想的咸鱼',
-  description: '一条有梦想的咸鱼',
+  port: '9906',
   base: '/blog/',
+  head: [['link', { rel: 'icon', href: '/ico.svg' }]],
   theme: defaultTheme({
+    logo: '/ico.svg',
     navbar: [
       { text: 'IT', children: ['/it/before/', '/it/after/', '/it/network/', '/it/other/'] },
       { text: '英语', children: ['/en/grammar/', '/en/sentence/', '/en/article/'] },

@@ -49,7 +49,7 @@
 </template>
 
 <script setup>
-import { nextTick, reactive, ref, onMounted } from 'vue';
+import { reactive, ref, onMounted } from 'vue';
 import $ from 'jquery';
 import _ from 'lodash';
 
@@ -84,12 +84,10 @@ const calcHeight = () => {
 };
 
 onMounted(() => {
-  nextTick(() => {
-    if (process.client) {
-      calcHeight();
-      window.onresize = _.throttle(() => calcHeight(), 300);
-    }
-  });
+  if (typeof window !== 'undefined') {
+    calcHeight();
+    window.onresize = _.throttle(() => calcHeight(), 300);
+  }
 });
 </script>
 

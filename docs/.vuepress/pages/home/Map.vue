@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-import { nextTick, ref } from 'vue';
+import { onMounted, ref } from 'vue';
 import { IsMedia } from '../../utils/index';
 import china from './china.json';
 import * as echarts from 'echarts';
@@ -36,7 +36,6 @@ const footprint = [
 
 const echartsDraw = () => {
   const chartDom = chartDomRef.value;
-
   const myChart = echarts.init(chartDom);
   chartDom.removeAttribute('_echarts_instance_');
 
@@ -99,9 +98,10 @@ const echartsDraw = () => {
   });
 };
 
-nextTick(() => {
-  return;
-  echartsDraw();
+onMounted(() => {
+  if (typeof window !== 'undefined') {
+    echartsDraw();
+  }
 });
 </script>
 
