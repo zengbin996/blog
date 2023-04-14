@@ -7,23 +7,20 @@ echo ===========================
 
 
 echo 正在生成静态文件...
-yarn run build
+call yarn run build
 
-echo 正在切换到 deploy 分支...
-git checkout -B deploy
+echo 正在初始化git仓库...
+cd docs/.vuepress/dist
 
-echo 正在删除旧文件...
-git rm -rf .
+git init
 
-echo 正在复制静态文件...
-xcopy /E /Y .\docs\.vuepress\dist\* .
+git add -A
 
-echo 正在提交更改...
-git add .
-git commit -m "Update GitHub Pages"
+git commit -m 'deploy'
 
-echo 正在推送到 deploy 分支...
-git push origin deploy --force
+git push -f https://github.com/zengbin996/blog.git master:deploy
+
+cd -
 
 echo 发布完成！
 pause
