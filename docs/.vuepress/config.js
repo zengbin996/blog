@@ -144,5 +144,9 @@ export default defineUserConfig({
       ],
     },
   }),
-  plugins: [docsearchPlugin({})],
+  plugins: [
+    docsearchPlugin({
+      apiKey: '7fbc1515410cc9b5d6f756b7e53230c8',
+    }),
+  ],
 });
