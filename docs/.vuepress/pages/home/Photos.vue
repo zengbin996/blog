@@ -12,8 +12,8 @@
 
     <div ref="imgSecondContainer" :style="`height: ${imgHeight.value[1]}px`" class="flex gap-2 w-full mt-2">
       <div class="w-3/12 img-box"><img :src="photos.h[3]" /></div>
-      <div class="w-4/12 img-box"><img :src="photos.w[1]" /></div>
-      <div class="w-5/12 img-box"><img :src="photos.w[2]" /></div>
+      <div class="w-4/12 img-box"><img :src="photos.w[7]" /></div>
+      <div class="w-5/12 img-box"><img :src="photos.w[4]" /></div>
     </div>
 
     <div class="flex gap-2 w-full mt-2" :style="`height: ${imgHeight.value[0]}px`">
