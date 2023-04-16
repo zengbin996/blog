@@ -102,10 +102,10 @@ export default defineUserConfig({
       ],
 
       //英语
-      '/en/grammar/': [
+      '/en/grammar': [
         {
           text: '语法',
-          children: ['/en/grammar/grammar-sentence', '/en/grammar/grammar-basic-patterns'],
+          children: ['/en/grammar/', '/en/grammar/grammar-basic-patterns', '/en/grammar/nouns'],
         },
       ],
 
