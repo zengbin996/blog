@@ -11,7 +11,17 @@ export default defineUserConfig({
     logo: '/ico.svg',
     navbar: [
       { text: 'IT', children: ['/it/before/', '/it/after/', '/it/network/', '/it/other/'] },
-      { text: '英语', children: ['/en/grammar/', '/en/sentence/', '/en/article/'] },
+      {
+        text: '英语',
+        children: [
+          {
+            text: '语法',
+            link: '/en/grammar/',
+          },
+          '/en/sentence/',
+          '/en/article/',
+        ],
+      },
       { text: '日语', children: ['/jp/grammar/', '/jp/sentence/', '/jp/article/'] },
       {
         text: '外部链接',
@@ -86,7 +96,12 @@ export default defineUserConfig({
       '/it/network/': [
         {
           text: '网络/运维',
-          children: ['/it/network/webhooks-git-auto', '/it/network/Nginx-reverse-proxy', '/it/network/web-deploy'],
+          children: [
+            '/it/network/webhooks-git-auto',
+            '/it/network/Nginx-reverse-proxy',
+            '/it/network/web-deploy',
+            '/it/network/git443',
+          ],
         },
       ],
       '/it/other/': [
@@ -105,14 +120,14 @@ export default defineUserConfig({
       '/en/grammar': [
         {
           text: '语法',
-          children: ['/en/grammar/', '/en/grammar/grammar-basic-patterns', '/en/grammar/nouns'],
+          children: ['/en/grammar/', '/en/grammar/grammar-basic-patterns', '/en/grammar/nouns', '/en/grammar/pronouns'],
         },
       ],
 
       '/en/sentence/': [
         {
           text: '句子练习',
-          children: ['/en/sentence/word-address'],
+          children: ['/en/sentence/word-address', '/en/sentence/word-live'],
         },
       ],
 
