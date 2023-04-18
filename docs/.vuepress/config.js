@@ -22,7 +22,17 @@ export default defineUserConfig({
           '/en/article/',
         ],
       },
-      { text: '日语', children: ['/jp/grammar/', '/jp/sentence/', '/jp/article/'] },
+      {
+        text: '日语',
+        children: [
+          {
+            text: '语法',
+            link: '/jp/grammar/',
+          },
+          '/jp/sentence/',
+          '/jp/article/',
+        ],
+      },
       {
         text: '外部链接',
         children: [
@@ -142,7 +152,7 @@ export default defineUserConfig({
       '/jp/grammar/': [
         {
           text: '语法',
-          children: ['/jp/grammar/pronounce-jp'],
+          children: ['/jp/grammar/'],
         },
       ],
       '/jp/sentence/': [
