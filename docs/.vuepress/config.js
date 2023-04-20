@@ -179,7 +179,7 @@ export default defineUserConfig({
       '/jp/grammar/': [
         {
           text: '语法',
-          children: ['/jp/grammar/'],
+          children: ['/jp/grammar/', '/jp/grammar/daily/'],
         },
       ],
       '/jp/sentence/': [
