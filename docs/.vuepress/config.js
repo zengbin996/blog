@@ -10,7 +10,27 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: '/ico.svg',
     navbar: [
-      { text: 'IT', children: ['/it/before/', '/it/after/', '/it/network/', '/it/other/'] },
+      {
+        text: 'IT',
+        children: [
+          {
+            text: '前端',
+            link: '/it/before/',
+          },
+          {
+            text: '后端',
+            link: '/it/after/',
+          },
+          {
+            text: '网络',
+            link: '/it/network/',
+          },
+          {
+            text: '其他',
+            link: '/it/other/',
+          },
+        ],
+      },
       {
         text: '英语',
         children: [
@@ -18,8 +38,14 @@ export default defineUserConfig({
             text: '语法',
             link: '/en/grammar/',
           },
-          '/en/sentence/',
-          '/en/article/',
+          {
+            text: '句子练习',
+            link: '/en/sentence/',
+          },
+          {
+            text: '文章练习',
+            link: '/en/article/',
+          },
         ],
       },
       {
@@ -29,8 +55,14 @@ export default defineUserConfig({
             text: '语法',
             link: '/jp/grammar/',
           },
-          '/jp/sentence/',
-          '/jp/article/',
+          {
+            text: '句子练习',
+            link: '/jp/sentence/',
+          },
+          {
+            text: '文章练习',
+            link: '/jp/article/',
+          },
         ],
       },
       {
@@ -56,7 +88,7 @@ export default defineUserConfig({
         {
           text: '前端',
           children: [
-            '/it/before/web',
+            '/it/before/',
             '/it/before/node-nvm-nrm',
             '/it/before/js-modules',
             '/it/before/npm-registry',
@@ -100,16 +132,16 @@ export default defineUserConfig({
       '/it/after/': [
         {
           text: '后端',
-          children: ['/it/after/sql'],
+          children: ['/it/after/'],
         },
       ],
       '/it/network/': [
         {
           text: '网络/运维',
           children: [
+            '/it/network/',
             '/it/network/webhooks-git-auto',
             '/it/network/Nginx-reverse-proxy',
-            '/it/network/web-deploy',
             '/it/network/git443',
           ],
         },
@@ -117,12 +149,7 @@ export default defineUserConfig({
       '/it/other/': [
         {
           text: '其他',
-          children: [
-            '/it/other/vscode-del-annotation',
-            '/it/other/vscode-setting',
-            '/it/other/shortcut',
-            '/it/other/prettierrc',
-          ],
+          children: ['/it/other/', '/it/other/vscode-del-annotation', '/it/other/shortcut', '/it/other/prettierrc'],
         },
       ],
 
@@ -137,14 +164,14 @@ export default defineUserConfig({
       '/en/sentence/': [
         {
           text: '句子练习',
-          children: ['/en/sentence/word-address', '/en/sentence/word-live'],
+          children: ['/en/sentence/', '/en/sentence/word-address', '/en/sentence/word-live'],
         },
       ],
 
       '/en/article/': [
         {
           text: '文章练习',
-          children: ['/en/article/the-garden-fairy'],
+          children: ['/en/article/', '/en/article/the-garden-fairy'],
         },
       ],
 

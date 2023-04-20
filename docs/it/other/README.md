@@ -1,5 +1,117 @@
-# 其他
+# vscode-配置
 
-记录一下日常工作遇到的一些问题，坚持写作，坚持更新
+```json
+{
+  "workbench.sideBar.location": "right",
+  "workbench.colorTheme": "One Dark Pro",
+  "window.zoomLevel": 1,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "minapp-vscode.disableAutoConfig": true,
+  "editor.minimap.enabled": false,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
 
-部分图片可能无法展示，请访问[我的简书主页](https://www.jianshu.com/u/070de5be57da)
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  //prettier 配置
+  "prettier.printWidth": 200,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": true,
+  "prettier.arrowParens": "always",
+  "prettier.bracketSpacing": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "es5",
+
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript"
+  },
+  "emmet.includeLanguages": {
+    "wxml": "html"
+  }
+}
+```
+
+.prettierrc.js 配置
+
+```js
+module.exports = {
+  // 一行最多 120 字符
+  printWidth: 120,
+
+  // 使用 2 个空格缩进
+  tabWidth: 2,
+
+  // 不使用缩进符，而使用空格
+  useTabs: false,
+
+  // 行尾需要有分号
+  semi: true,
+
+  // 使用单引号
+  singleQuote: true,
+
+  // 对象的 key 仅在必要时用引号
+  quoteProps: 'as-needed',
+
+  // jsx 不使用单引号，而使用双引号
+  jsxSingleQuote: false,
+
+  // 末尾需要有逗号
+  trailingComma: 'all',
+
+  // 大括号内的首尾需要空格
+  bracketSpacing: true,
+
+  // jsx 标签的反尖括号需要换行
+  jsxBracketSameLine: false,
+
+  // 箭头函数，只有一个参数的时候，也需要括号
+  arrowParens: 'always',
+
+  // 每个文件格式化的范围是文件的全部内容
+  rangeStart: 0,
+  rangeEnd: Infinity,
+
+  // 不需要写文件开头的 @prettier
+  requirePragma: false,
+
+  // 不需要自动在文件开头插入 @prettier
+  insertPragma: false,
+
+  // 使用默认的折行标准
+  proseWrap: 'preserve',
+
+  // 根据显示样式决定 html 要不要折行
+  htmlWhitespaceSensitivity: 'css',
+
+  // vue 文件中的 script 和 style 内不用缩进
+  vueIndentScriptAndStyle: false,
+
+  // 换行符使用 lf
+  endOfLine: 'lf',
+};
+```
