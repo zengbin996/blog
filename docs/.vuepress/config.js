@@ -201,6 +201,17 @@ export default defineUserConfig({
       appId: 'LMVCIOU3J9',
       apiKey: '7fbc1515410cc9b5d6f756b7e53230c8',
       indexName: 'zengbin996io',
+      locales: {
+        '/': {
+          placeholder: '搜索文档',
+          translations: {
+            button: {
+              buttonText: '搜索文档',
+            },
+          },
+        },
+      },
+      indexBase: '/blog',
     }),
   ],
 });
