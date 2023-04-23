@@ -157,7 +157,13 @@ export default defineUserConfig({
       '/en/grammar': [
         {
           text: '语法',
-          children: ['/en/grammar/', '/en/grammar/grammar-basic-patterns', '/en/grammar/nouns', '/en/grammar/pronouns'],
+          children: [
+            '/en/grammar/',
+            '/en/grammar/grammar-basic-patterns',
+            '/en/grammar/nouns',
+            '/en/grammar/pronouns',
+            '/en/grammar/adjective',
+          ],
         },
       ],
 
