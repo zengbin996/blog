@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto motto-con py-10">
     <h3 class="text-center text-2xl my-4">为什么要旅游？</h3>
-    <div class="grid grid-cols-4 gap-9 pt-10">
+    <div class="grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-4 gap-9 pt-10 mx-4">
       <div>
         <svg
           t="1681374952519"
