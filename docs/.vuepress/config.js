@@ -206,7 +206,7 @@ export default defineUserConfig({
     docsearchPlugin({
       appId: 'LMVCIOU3J9',
       apiKey: '101fa5c67b66ef8823b7c6d61dad808c',
-      indexName: 'zbblog',
+      indexName: 'zengbinblog',
     }),
   ],
 });
