@@ -6,12 +6,12 @@ VSCode 一键删除项目中的打印日志语句
 
 1. console.log()加了分号
 
-```
+```js
 console\.log\(.*?\);
 ```
 
 2. console.log()没加分号
 
-```
+```js
 console\.log\(.*?\)
 ```
