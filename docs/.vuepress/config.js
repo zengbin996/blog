@@ -197,7 +197,7 @@ export default defineUserConfig({
       '/jp/article/': [
         {
           text: '文章练习',
-          children: ['/jp/article/'],
+          children: ['/jp/article/', '/jp/article/unit1'],
         },
       ],
     },
