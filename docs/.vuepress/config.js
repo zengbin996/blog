@@ -170,7 +170,13 @@ export default defineUserConfig({
       '/en/sentence/': [
         {
           text: '句子练习',
-          children: ['/en/sentence/', '/en/sentence/word-address', '/en/sentence/word-live'],
+          children: [
+            '/en/sentence/',
+            '/en/sentence/word-potential',
+            '/en/sentence/word-engage',
+            '/en/sentence/word-live',
+            '/en/sentence/word-address',
+          ],
         },
       ],
 

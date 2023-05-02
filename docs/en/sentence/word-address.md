@@ -1,5 +1,9 @@
 # 每周一词-Address
 
+2023 年 5 月 2 日 17:55:44
+
+[BBC](https://www.bbc.co.uk/learningenglish/chinese/features/english-in-a-minute/ep-230317)
+
 ## 简介
 
 名词 “address” 的意思是 “地址，住址”。除此之外，“address” 还可以作动词用，意思包括 “（在信封或包裹上）写上地址”、在正式场合中 “（向他人）讲话，致词” 、“称呼（某人）”。看视频，学习 “address” 的这些用法。

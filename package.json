@@ -13,7 +13,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "prod": "deploy.bat"
+    "deploy": "deploy.bat"
   },
   "dependencies": {
     "@vuepress/plugin-docsearch": "^2.0.0-beta.61",
