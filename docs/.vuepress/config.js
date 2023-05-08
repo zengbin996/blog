@@ -60,7 +60,7 @@ export default defineUserConfig({
             link: '/jp/sentence/',
           },
           {
-            text: '文章练习',
+            text: '新标日',
             link: '/jp/article/',
           },
         ],
@@ -202,8 +202,12 @@ export default defineUserConfig({
       ],
       '/jp/article/': [
         {
-          text: '文章练习',
-          children: ['/jp/article/', '/jp/article/unit1'],
+          text: '课外练习',
+          children: ['/jp/article/'],
+        },
+        {
+          text: '新标日课文',
+          children: [{ text: '第 1 课', link: '/jp/article/unit1' }],
         },
       ],
     },
