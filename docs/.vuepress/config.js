@@ -213,6 +213,7 @@ export default defineUserConfig({
       ],
     },
   }),
+
   plugins: [
     docsearchPlugin({
       appId: 'LMVCIOU3J9',

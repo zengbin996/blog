@@ -830,6 +830,11 @@
   dependencies:
     vue-demi "*"
 
+"@xmldom/xmldom@^0.8.6":
+  version "0.8.7"
+  resolved "https://registry.yarnpkg.com/@xmldom/xmldom/-/xmldom-0.8.7.tgz#8b1e39c547013941974d83ad5e9cf5042071a9a0"
+  integrity sha512-sI1Ly2cODlWStkINzqGrZ8K6n+MTSbAeQnAipGyL+KZCXuHaRlj2gyyy8B/9MvsFFqN7XHryQnB2QwhzvJXovg==
+
 algoliasearch@^4.0.0:
   version "4.17.0"
   resolved "https://registry.yarnpkg.com/algoliasearch/-/algoliasearch-4.17.0.tgz#46ed58b2b99509d041f11cd1ea83623edf84355f"
@@ -1025,6 +1030,13 @@ connect-history-api-fallback@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/connect-history-api-fallback/-/connect-history-api-fallback-2.0.0.tgz#647264845251a0daf25b97ce87834cace0f5f1c8"
   integrity sha512-U73+6lQFmfiNPrYbXqr6kZ1i1wiRqXnp2nhMsINseWXO8lDau0LGEffJ8kQi4EjLZympVgRdvqjAgiZ1tgzDDA==
+
+cos-js-sdk-v5@^1.4.17:
+  version "1.4.17"
+  resolved "https://registry.yarnpkg.com/cos-js-sdk-v5/-/cos-js-sdk-v5-1.4.17.tgz#b8db1c533999415de85fa4014e3abe6de3daecbd"
+  integrity sha512-QIHgeEhlK3JrEeBz2qHD61wcN33M4NDfok2LrVdkGkyKXX86xMsBVBGqiVB0hG2BMpmb3AK9F6aAE6zBjndIqg==
+  dependencies:
+    "@xmldom/xmldom" "^0.8.6"
 
 cross-spawn@^7.0.3:
   version "7.0.3"
@@ -1994,6 +2006,11 @@ util-deprecate@^1.0.1, util-deprecate@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
+
+uuid@^9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-9.0.0.tgz#592f550650024a38ceb0c562f2f6aa435761efb5"
+  integrity sha512-MXcSTerfPa4uqyzStbRoTgt5XIe3x5+42+q1sDuy3R5MDk66URdLMOZe5aPX/SQd+kuYAh0FdP/pO28IkQyTeg==
 
 vite@~4.1.4:
   version "4.1.4"
