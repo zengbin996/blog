@@ -163,6 +163,7 @@ export default defineUserConfig({
             '/en/grammar/nouns',
             '/en/grammar/pronouns',
             '/en/grammar/adjective',
+            '/en/grammar/verb',
           ],
         },
       ],
