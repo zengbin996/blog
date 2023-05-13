@@ -89,6 +89,7 @@ export default defineUserConfig({
           text: '前端',
           children: [
             '/it/before/',
+            '/it/before/cos',
             '/it/before/node-nvm-nrm',
             '/it/before/js-modules',
             '/it/before/npm-registry',
@@ -213,6 +214,7 @@ export default defineUserConfig({
       ],
     },
   }),
+
   plugins: [
     docsearchPlugin({
       appId: 'LMVCIOU3J9',
