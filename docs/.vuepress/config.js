@@ -1,7 +1,7 @@
 import { defaultTheme } from 'vuepress';
 import { defineUserConfig } from 'vuepress';
-import navbarConfig from './navbarConfig';
-import sidebarConfig from './sidebarConfig';
+import navbarConfig from './config/navbarConfig';
+import sidebarConfig from './config/sidebarConfig';
 
 export default defineUserConfig({
   title: '一条有梦想的咸鱼',
