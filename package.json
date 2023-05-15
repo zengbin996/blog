@@ -13,13 +13,14 @@
   "scripts": {
     "dev": "vuepress dev docs ",
     "build": "vuepress build docs",
-    "build:blog": "vuepress build docs --dest /blog/",
+    "build:blog": "cross-env base=/blog/ vuepress build docs",
     "start-backend": "nodemon ./server/index.js"
   },
   "dependencies": {
     "@vuepress/plugin-docsearch": "^2.0.0-beta.61",
     "cos-js-sdk-v5": "^1.4.17",
     "cos-nodejs-sdk-v5": "^2.12.0",
+    "cross-env": "^7.0.3",
     "echarts": "^5.4.2",
     "express": "^4.18.2",
     "jquery": "^3.6.4",
