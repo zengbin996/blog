@@ -11,9 +11,9 @@
     "vuepress": "^2.0.0-beta.61"
   },
   "scripts": {
-    "start": "concurrently \"npm run dev\" \"npm run start-backend\"",
     "dev": "vuepress dev docs ",
     "build": "vuepress build docs",
+    "build:blog": "vuepress build docs --base /blog/",
     "start-backend": "nodemon ./server/index.js"
   },
   "dependencies": {
