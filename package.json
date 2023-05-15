@@ -13,7 +13,7 @@
   "scripts": {
     "dev": "vuepress dev docs ",
     "build": "vuepress build docs",
-    "build:blog": "vuepress build docs --base /blog/",
+    "build:blog": "vuepress build docs --dest /blog/",
     "start-backend": "nodemon ./server/index.js"
   },
   "dependencies": {
