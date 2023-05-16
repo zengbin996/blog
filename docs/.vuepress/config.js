@@ -12,5 +12,6 @@ export default defineUserConfig({
     logo: 'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/ico.svg',
     navbar: navbarConfig,
     sidebar: sidebarConfig,
+    lastUpdated: process.env.NODE_ENV === 'production',
   }),
 });
