@@ -1,5 +1,4 @@
-import { defaultTheme } from 'vuepress';
-import { defineUserConfig } from 'vuepress';
+import { defaultTheme, defineUserConfig } from 'vuepress';
 import navbarConfig from './config/navbarConfig';
 import sidebarConfig from './config/sidebarConfig';
 
@@ -13,7 +12,7 @@ export default defineUserConfig({
     logo: 'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/ico.svg',
     navbar: navbarConfig,
     sidebar: sidebarConfig,
-    lastUpdated: process.env.NODE_ENV === 'production',
+    lastUpdated: false,
     contributors: false,
   }),
 });
