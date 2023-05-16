@@ -13,5 +13,6 @@ export default defineUserConfig({
     navbar: navbarConfig,
     sidebar: sidebarConfig,
     lastUpdated: process.env.NODE_ENV === 'production',
+    contributors: false,
   }),
 });
