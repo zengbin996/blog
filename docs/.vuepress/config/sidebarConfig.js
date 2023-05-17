@@ -131,8 +131,10 @@ export default {
     },
     {
       text: '新标日课文',
-      children: [{ text: '第 1 课', link: '/jp/article/unit1' }],
-      children: [{ text: '第 2 课', link: '/jp/article/unit2' }],
+      children: [
+        { text: '第 1 课', link: '/jp/article/unit1' },
+        { text: '第 2 课', link: '/jp/article/unit2' },
+      ],
     },
   ],
 };

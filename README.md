@@ -24,7 +24,7 @@
 ![首页展示](https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E7%BD%91%E7%AB%99%E9%A6%96%E9%A1%B5%E5%B1%95%E7%A4%BA)
 
 首页展示
-![首页展示](https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E7%BD%91%E7%AB%99%E9%A6%96%E9%A1%B5%E5%B1%95%E7%A4%BA2.png)
+![首页展示](https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E9%A6%96%E9%A1%B52.png)
 
 文章展示
 ![文章展示](https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E6%96%87%E7%AB%A0%E5%B1%95%E7%A4%BA.png)
