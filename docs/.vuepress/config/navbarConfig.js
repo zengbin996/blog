@@ -59,11 +59,11 @@ export default [
     children: [
       {
         text: 'MusicPC-Vue',
-        link: 'https://gitee.com/zengbin996/music-vue3-pc',
+        link: 'https://github.com/zengbin996/music-vue3-pc',
       },
       {
         text: 'MusicMobile-React',
-        link: 'https://gitee.com/zengbin996/music-react-mobile',
+        link: 'https://github.com/zengbin996/music-react-mobile',
       },
     ],
   },
