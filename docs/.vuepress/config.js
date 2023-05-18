@@ -2,6 +2,8 @@ import { defaultTheme, defineUserConfig } from 'vuepress';
 import navbarConfig from './config/navbarConfig';
 import sidebarConfig from './config/sidebarConfig';
 
+console.log(process.env.NODE_ENV);
+
 export default defineUserConfig({
   title: '一条有梦想的咸鱼',
   lang: 'zh-CN',
