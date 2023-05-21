@@ -87,6 +87,7 @@ export default {
         '/en/grammar/pronouns',
         '/en/grammar/adjective',
         '/en/grammar/verb',
+        '/en/grammar/article',
       ],
     },
   ],
@@ -96,6 +97,8 @@ export default {
       text: '句子练习',
       children: [
         '/en/sentence/',
+        '/en/sentence/word-right',
+        '/en/sentence/word-common',
         '/en/sentence/word-potential',
         '/en/sentence/word-engage',
         '/en/sentence/word-live',
