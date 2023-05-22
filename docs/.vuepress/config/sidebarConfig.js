@@ -79,15 +79,23 @@ export default {
   //英语
   '/en/grammar': [
     {
-      text: '语法',
+      text: '从零开始',
       children: [
-        '/en/grammar/',
-        '/en/grammar/grammar-basic-patterns',
-        '/en/grammar/nouns',
-        '/en/grammar/pronouns',
-        '/en/grammar/adjective',
-        '/en/grammar/verb',
-        '/en/grammar/article',
+        { text: '句子成分', link: '/en/grammar/' },
+        { text: '基本句型', link: '/en/grammar/grammar-basic-patterns' },
+        { text: '名词', link: '/en/grammar/nouns' },
+        { text: '代词', link: '/en/grammar/pronouns' },
+        { text: '形容词', link: '/en/grammar/adjective' },
+        { text: '动词', link: '/en/grammar/verb' },
+        { text: '冠词', link: '/en/grammar/article' },
+        { text: '副词', link: '/en/grammar/adverb' },
+        { text: '介词', link: '/en/grammar/preposition' },
+        { text: '一般现在时态', link: '/en/grammar/present-tense' },
+        { text: '一般现在时态作业', link: '/en/grammar/present-tense-exercises' },
+        { text: '一般过去时态', link: '/en/grammar/past-tense' },
+        { text: '一般将来时态', link: '/en/grammar/future-tense' },
+        { text: '现在进行时态', link: '/en/grammar/present-tense-2' },
+        { text: '现在完成时态', link: '/en/grammar/present-tense-3' },
       ],
     },
   ],
@@ -128,10 +136,10 @@ export default {
     },
   ],
   '/jp/article/': [
-    {
-      text: '课外练习',
-      children: ['/jp/article/'],
-    },
+    // {
+    //   text: '课外练习',
+    //   children: ['/jp/article/'],
+    // },
     {
       text: '新标日课文',
       children: [
