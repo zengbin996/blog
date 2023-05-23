@@ -24,7 +24,7 @@ export default [
     text: '英语',
     children: [
       {
-        text: '语法',
+        text: '从零开始',
         link: '/en/grammar/',
       },
       {
@@ -41,7 +41,7 @@ export default [
     text: '日语',
     children: [
       {
-        text: '语法',
+        text: '从零开始',
         link: '/jp/grammar/',
       },
       {
