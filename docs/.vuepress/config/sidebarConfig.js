@@ -77,7 +77,7 @@ export default {
   ],
 
   //英语
-  '/en/grammar': [
+  '/en/grammar/': [
     {
       text: '从零开始',
       children: [
@@ -99,26 +99,29 @@ export default {
       ],
     },
   ],
-
-  '/en/sentence/': [
+  '/en/practice/': [
     {
-      text: '句子练习',
+      text: '每周一词',
+      collapsible: true,
       children: [
-        '/en/sentence/',
-        '/en/sentence/word-right',
-        '/en/sentence/word-common',
-        '/en/sentence/word-potential',
-        '/en/sentence/word-engage',
-        '/en/sentence/word-live',
-        '/en/sentence/word-address',
+        { text: 'Right', link: '/en/practice/word-right' },
+        { text: 'Common', link: '/en/practice/word-common' },
+        { text: 'Potential', link: '/en/practice/word-potential' },
+        { text: 'Engage', link: '/en/practice/word-engage' },
+        { text: 'Live', link: '/en/practice/word-live' },
+        { text: 'Address', link: '/en/practice/word-address' },
       ],
     },
-  ],
 
-  '/en/article/': [
     {
       text: '文章练习',
-      children: ['/en/article/', '/en/article/the-garden-fairy'],
+      collapsible: true,
+      children: [
+        {
+          text: 'The Garden Fairy',
+          link: '/en/practice/the-garden-fairy',
+        },
+      ],
     },
   ],
 

@@ -28,13 +28,18 @@ export default [
         link: '/en/grammar/',
       },
       {
-        text: '句子练习',
-        link: '/en/sentence/',
+        text: '日常练习',
+        link: '/en/practice/',
       },
-      {
-        text: '文章练习',
-        link: '/en/article/',
-      },
+
+      // {
+      //   text: '句子练习',
+      //   link: '/en/sentence/',
+      // },
+      // {
+      //   text: '文章练习',
+      //   link: '/en/article/',
+      // },
     ],
   },
   {
@@ -45,13 +50,17 @@ export default [
         link: '/jp/grammar/',
       },
       {
-        text: '句子练习',
-        link: '/jp/sentence/',
+        text: '日常练习',
+        link: '/en/practice/',
       },
-      {
-        text: '新标日',
-        link: '/jp/article/',
-      },
+      // {
+      //   text: '句子练习',
+      //   link: '/jp/sentence/',
+      // },
+      // {
+      //   text: '新标日',
+      //   link: '/jp/article/',
+      // },
     ],
   },
   {
