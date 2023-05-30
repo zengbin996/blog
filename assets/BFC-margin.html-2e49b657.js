@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-219bc4d0","path":"/it/before/BFC-margin.html","title":"关于 margin 塌陷和 margin 合并问题解决","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"margin 塌陷","slug":"margin-塌陷","link":"#margin-塌陷","children":[]}],"git":{},"filePathRelative":"it/before/BFC-margin.md"}');export{e as data};

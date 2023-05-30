@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-08d5399e","path":"/it/before/node-nvm-nrm.html","title":"node-管理工具","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/before/node-nvm-nrm.md"}');export{e as data};

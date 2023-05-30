@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as c}from"./framework-822ca1a4.js";const s={},o=e("h1",{id:"副词",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#副词","aria-hidden":"true"},"#"),c(" 副词")],-1),n=[o];function _(d,i){return a(),r("div",null,n)}const l=t(s,[["render",_],["__file","adverb.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7f532254","path":"/it/before/HTML5.html","title":"HTML5 新增语义化标签","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/before/HTML5.md"}');export{t as data};

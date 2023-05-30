@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-54632757","path":"/en/practice/word-potential.html","title":"每周一词-Potential","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"简介","slug":"简介","link":"#简介","children":[]},{"level":2,"title":"用法总结","slug":"用法总结","link":"#用法总结","children":[]}],"git":{},"filePathRelative":"en/practice/word-potential.md"}');export{e as data};

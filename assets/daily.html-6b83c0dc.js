@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f2feb8b8","path":"/jp/practice/daily.html","title":"日常用语","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"jp/practice/daily.md"}');export{t as data};

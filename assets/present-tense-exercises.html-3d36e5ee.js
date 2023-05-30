@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-72954643","path":"/en/grammar/present-tense-exercises.html","title":"一般现在时态 作业","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/present-tense-exercises.md"}');export{e as data};

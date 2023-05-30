@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8987d8ee","path":"/it/before/CSS-Hack.html","title":"CSS-Hack","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/before/CSS-Hack.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fc9a0a14","path":"/it/before/ES6.html","title":"ES6 新增","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"新增数据作用域","slug":"新增数据作用域","link":"#新增数据作用域","children":[]},{"level":3,"title":"新增数据类型","slug":"新增数据类型","link":"#新增数据类型","children":[]}],"git":{},"filePathRelative":"it/before/ES6.md"}');export{e as data};

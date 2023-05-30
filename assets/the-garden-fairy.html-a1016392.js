@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-650680d9","path":"/en/practice/the-garden-fairy.html","title":"The-Garden-Fairy","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/practice/the-garden-fairy.md"}');export{e as data};

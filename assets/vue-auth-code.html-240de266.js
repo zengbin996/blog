@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-aaa4971a","path":"/it/before/vue-auth-code.html","title":"vue-登录验证码","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/before/vue-auth-code.md"}');export{e as data};

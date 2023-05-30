@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-35dcef65","path":"/it/before/","title":"前端职业素养","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"web 发展史","slug":"web-发展史","link":"#web-发展史","children":[]},{"level":2,"title":"浏览器","slug":"浏览器","link":"#浏览器","children":[]}],"git":{},"filePathRelative":"it/before/README.md"}');export{e as data};

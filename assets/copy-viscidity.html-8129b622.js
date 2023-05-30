@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-518d755c","path":"/it/before/copy-viscidity.html","title":"在网页中实现截屏粘贴的功能","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/before/copy-viscidity.md"}');export{t as data};

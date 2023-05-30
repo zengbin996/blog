@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3404b054","path":"/it/before/ReactRouterV6.html","title":"ReactRouterV6-使用方法","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/before/ReactRouterV6.md"}');export{t as data};

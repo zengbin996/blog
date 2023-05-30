@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-51faee15","path":"/en/grammar/nouns.html","title":"名词","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"名词定义","slug":"名词定义","link":"#名词定义","children":[]},{"level":2,"title":"名词所有格","slug":"名词所有格","link":"#名词所有格","children":[]}],"git":{},"filePathRelative":"en/grammar/nouns.md"}');export{e as data};

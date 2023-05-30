@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-a740f010","path":"/it/before/download-a.html","title":"利用 a 标签下载文件","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/before/download-a.md"}');export{a as data};

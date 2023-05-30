@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7c054b45","path":"/en/grammar/verb.html","title":"动词","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"谓语动词","slug":"谓语动词","link":"#谓语动词","children":[]}],"git":{},"filePathRelative":"en/grammar/verb.md"}');export{e as data};

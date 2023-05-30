@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-97f70d6e","path":"/it/before/CSS-extension.html","title":"CSS 预处理","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/before/CSS-extension.md"}');export{e as data};

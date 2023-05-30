@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9dfde0de","path":"/en/grammar/present-tense.html","title":"一般现在时","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/present-tense.md"}');export{e as data};

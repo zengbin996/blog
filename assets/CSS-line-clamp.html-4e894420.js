@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ba5e15f0","path":"/it/before/CSS-line-clamp.html","title":"CSS-文本溢出隐藏显示省略号","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/before/CSS-line-clamp.md"}');export{e as data};

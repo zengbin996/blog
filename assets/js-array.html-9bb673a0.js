@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-73a4c1df","path":"/it/before/js-array.html","title":"JavaScript 数组","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/before/js-array.md"}');export{a as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-960f653c","path":"/it/other/vscode-setting.html","title":"vscode-配置","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/other/vscode-setting.md"}');export{t as data};

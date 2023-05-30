@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4db5eacf","path":"/it/before/web-layout2.html","title":"网页常用布局方式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/before/web-layout2.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3296fa95","path":"/it/before/npm-registry.html","title":"修改 NPM 源","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"修改 yarn 源","slug":"修改-yarn-源","link":"#修改-yarn-源","children":[]}],"git":{},"filePathRelative":"it/before/npm-registry.md"}');export{e as data};

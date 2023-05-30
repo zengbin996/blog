@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as a,R as e,t as r}from"./framework-822ca1a4.js";const s={},c=e("h1",{id:"介词",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#介词","aria-hidden":"true"},"#"),r(" 介词")],-1),n=[c];function _(i,d){return o(),a("div",null,n)}const l=t(s,[["render",_],["__file","preposition.html.vue"]]);export{l as default};

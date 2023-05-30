@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-409c9b6b","path":"/it/other/prettierrc.html","title":"prettierrc 配置","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/other/prettierrc.md"}');export{t as data};

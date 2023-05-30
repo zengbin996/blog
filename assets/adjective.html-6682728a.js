@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c34f1f76","path":"/en/grammar/adjective.html","title":"形容词","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"形容词用法","slug":"形容词用法","link":"#形容词用法","children":[]},{"level":2,"title":"比较级和最高级","slug":"比较级和最高级","link":"#比较级和最高级","children":[]}],"git":{},"filePathRelative":"en/grammar/adjective.md"}');export{e as data};

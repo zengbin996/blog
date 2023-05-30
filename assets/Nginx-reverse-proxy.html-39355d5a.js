@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-33872bb5","path":"/it/network/Nginx-reverse-proxy.html","title":"Nginx-反向代理","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"it/network/Nginx-reverse-proxy.md"}');export{e as data};

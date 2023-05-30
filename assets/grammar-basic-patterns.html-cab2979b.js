@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-71abf0bc","path":"/en/grammar/grammar-basic-patterns.html","title":"基本句型","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/grammar-basic-patterns.md"}');export{a as data};

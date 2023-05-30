@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3c7058aa","path":"/en/grammar/present-tense-3.html","title":"现在完成时","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/present-tense-3.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-26d2507c","path":"/en/grammar/adverb.html","title":"副词","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/adverb.md"}');export{a as data};
