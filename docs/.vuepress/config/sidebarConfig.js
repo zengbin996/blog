@@ -101,6 +101,11 @@ export default {
   ],
   '/en/practice/': [
     {
+      text: '劝学',
+      link: '/en/practice/',
+    },
+
+    {
       text: '每周一词',
       collapsible: true,
       children: [
@@ -129,25 +134,35 @@ export default {
   '/jp/grammar/': [
     {
       text: '语法',
-      children: ['/jp/grammar/', '/jp/grammar/daily/'],
+      children: [
+        {
+          text: '基础发音',
+          link: '/jp/grammar/',
+        },
+      ],
     },
-  ],
-  '/jp/sentence/': [
-    {
-      text: '句子练习',
-      children: [],
-    },
-  ],
-  '/jp/article/': [
-    // {
-    //   text: '课外练习',
-    //   children: ['/jp/article/'],
-    // },
     {
       text: '新标日课文',
       children: [
-        { text: '第 1 课', link: '/jp/article/unit1' },
-        { text: '第 2 课', link: '/jp/article/unit2' },
+        { text: '第 1 课', link: '/jp/grammar/unit1' },
+        { text: '第 2 课', link: '/jp/grammar/unit2' },
+      ],
+    },
+  ],
+
+  '/jp/practice/': [
+    {
+      text: '日常用语',
+      link: '/jp/practice/',
+    },
+
+    {
+      text: '日语歌曲',
+      children: [
+        {
+          text: '未来へ',
+          link: '/jp/practice/music-future',
+        },
       ],
     },
   ],
