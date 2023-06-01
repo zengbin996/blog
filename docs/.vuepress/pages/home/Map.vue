@@ -33,13 +33,15 @@ const footprint = [
   [118.13967444423031, 24.494326102214718], //厦门
   [117.43557011619761, 23.687177337241792], //东山岛
   [118.17532735830969, 30.142162418139925], //黄山
+  [114.17575248396336, 22.32851658753095], //香港
+  [113.54105162106022, 22.196944412030653], //澳门
 ];
 
 const echartsDraw = () => {
   const chartDom = chartDomRef.value;
   const myChart = echarts.init(chartDom);
   chartDom.removeAttribute('_echarts_instance_');
-  const frequencyScatter = footprint.map((item) => ({ value: item }));
+  const frequencyScatter = footprint.map(item => ({ value: item }));
   const option = {
     title: {
       show: true,
