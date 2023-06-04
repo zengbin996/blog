@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-610cb982","path":"/en/grammar/adjective-list.html","title":"常见形容词（115 个）","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/adjective-list.md"}');export{t as data};
