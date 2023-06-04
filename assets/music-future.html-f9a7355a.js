@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-c4cf90ec","path":"/jp/practice/music-future.html","title":"未来へ","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"jp/practice/music-future.md"}');export{t as data};
