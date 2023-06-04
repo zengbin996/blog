@@ -87,6 +87,7 @@ export default {
         { text: '代词', link: '/en/grammar/pronouns' },
         { text: '形容词', link: '/en/grammar/adjective' },
         { text: '动词', link: '/en/grammar/verb' },
+        { text: '基本动词表', link: '/en/grammar/verb-list' },
         { text: '冠词', link: '/en/grammar/article' },
         { text: '副词', link: '/en/grammar/adverb' },
         { text: '介词', link: '/en/grammar/preposition' },

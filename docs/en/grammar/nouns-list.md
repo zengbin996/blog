@@ -1,0 +1,76 @@
+# 常见名词（396 个）
+
+## 表示人的名词（72 个）
+
+- father 父亲
+- mother 母亲
+- uncle 伯父
+- aunt 阿姨
+- sister 姐妹
+- brother 兄弟
+- husband 丈夫
+- wife 妻子
+- son 儿子
+- daughter 女儿
+- man 男人
+- woman 女人
+- boy 男孩
+- girl 女孩
+- baby 婴儿
+- friend 朋友
+- girlfriend 女朋友
+- boyfriend 男朋友
+- net friend 网友
+- classmate 同学
+- roommate 室友
+- colleague 同事
+- co-worker 同事
+- host 主人
+- hostess 女主人
+- guest 客人
+- partner 伙伴
+- fan 粉丝
+- detective 刑警
+- firefighter 消防人员
+- mailman 邮差
+- taxi driver 出租车司机
+- milkman 送奶人
+- baker 面包师
+- butcher 肉贩,屠夫
+- saleswoman 女店员
+- stewardess 空姐
+- air-hostess 空姐
+- dentist 牙医
+- doctor 医生
+- nurse 护士
+- designer 设计师
+- tailor 裁缝
+- secretary 秘书
+- policeman 警察
+- painter 画家
+- musician 音乐家
+- singer 歌手
+- typist 打字员
+- accountant 会计
+- actor 男演员
+- actress 女演员
+- cleaner 清洁工
+- dancer 跳舞者
+- engineer 工程师,技师
+- farmer 农民
+- film 导演
+- lawyer 律师
+- manager 经理
+- nanny 保姆
+- reporter 记者
+- sailor 手上,船员
+- scientist 科学家
+- soldier 士兵
+- teacher 教师
+- student 学生
+- worker 工人
+- waiter 男服务员
+- writer 作家
+- guide 导游
+
+## 表示物体的名词（共 324 个）
