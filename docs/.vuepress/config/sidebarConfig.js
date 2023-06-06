@@ -112,6 +112,7 @@ export default {
       text: '每周一词',
       collapsible: true,
       children: [
+        { text: 'Subject', link: '/en/practice/word-subject' },
         { text: 'Right', link: '/en/practice/word-right' },
         { text: 'Common', link: '/en/practice/word-common' },
         { text: 'Potential', link: '/en/practice/word-potential' },
