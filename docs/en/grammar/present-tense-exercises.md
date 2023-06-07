@@ -164,4 +164,12 @@ Sailors catch fish every day.
 Do sailors catch fish every day?
 Sailors don't catch fish every day.
 
+Reporters learn English every day.
+Do reporters learn English every day?
+Reporters don't learn English every day.
+
 主谓宾(单三)
+
+He watches TV every day.
+Does he watch TV every day?
+He doesn't watch TV every day.

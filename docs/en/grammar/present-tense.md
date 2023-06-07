@@ -167,3 +167,21 @@
 
 - She doesn't like flowers.
 - My leader doesn't believe me.
+
+## 时间状语
+
+1. every + 表示时间的名词单数
+
+表示时间的名词有：
+
+second 秒 / minute 分钟 / hour 小时 / morning 早上
+
+noon 中午 / afternoon 下午 / evening 晚上 / night 夜晚
+
+day 天 / year 天 / week 周 / month 月 / season 季度
+
+2. 频度副词
+
+always 总是 / often 经常 / usually 通常 / something 有时候
+
+seldom 很少 / occasionally 偶尔 / never 从不
