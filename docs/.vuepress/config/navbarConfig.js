@@ -51,11 +51,11 @@ export default [
     children: [
       {
         text: 'MusicPC-Vue',
-        link: 'https://github.com/zengbin996/music-vue3-pc',
+        link: 'https://music-vue3-pc.vercel.app',
       },
       {
         text: 'MusicMobile-React',
-        link: 'https://github.com/zengbin996/music-react-mobile',
+        link: 'https://music-react-mobile.vercel.app',
       },
     ],
   },

@@ -170,6 +170,88 @@ Reporters don't learn English every day.
 
 主谓宾(单三)
 
+She bathes every day.
+Does she bathe every day?
+She doesn't bathe every day.
+
+She rests every day.
+Does she rest every day?
+She doesn't rest every day.
+
+He travels every week.
+Dose he travel every week?
+He doesn't travel every week.
+
+He walks every day.
+Does he walk every day.
+He doesn't walk every day.
+
+It dances every day.
+Does it dance every day?
+It doesn't dance every day.
+
+---
+
+The man stands every day.
+Does the man stand every day?
+The man doesn't stand every day.
+
+That girl sits every day.
+Does that girl sit every day?
+That girl doesn't sit every day.
+
+My classmate smiles every day.
+Does my classmate smile every day.
+My classmate doesn't smile every day.
+
+Her fan swims every day.
+Does her fan swim every day?
+Her fan doesn't swim every day.
+
+Our roommate chats every day.
+Does our roommate chat every day.
+Our roommate doesn't chat every day.
+
+---
+
+She bakes a piece of beef at night every weekend.
+Does she bake a piece of beef at night every weekend?
+She doesn't bake a piece of beef at night every weekend.
+
+She borrows a book every month.
+Does she borrow a book every month?
+She doesn't borrow a book every month.
+
+He brushes that boat every quarter.
+Does he brush that boat every quarter?
+He brush that boat every quarter.
+
 He watches TV every day.
 Does he watch TV every day?
 He doesn't watch TV every day.
+
+Nick buys an apple every day.
+Does Nick buy an apple every day?
+Nick doesn't buy an apple every day.
+
+---
+
+The father calls his son every week.
+Does the father call his son every week?
+The father doesn't call his son every week.
+
+This baby finds a chicken just now.
+Does this baby find a chicken just now?
+This baby did not find a chicken just now.
+
+My friend cooks noodles every day.
+Does my friend cook noodles every day?
+My friend doesn't cook noodles every day.
+
+Its host corrects mistakes every day.
+Does its host correct mistakes every day?
+Its host doesn't correct mistakes every day.
+
+Jack drinks a glass of water every hour.
+Does Jack drink a glass of water every hour?
+Jack doesn't drink a glass of water every hour.
