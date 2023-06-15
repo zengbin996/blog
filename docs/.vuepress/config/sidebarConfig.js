@@ -6,7 +6,10 @@ export default {
       children: [
         '/it/before/',
         '/it/before/cos',
-        '/it/before/node-nvm-nrm',
+        {
+          text: 'Node.js 和 NPM',
+          link: '/it/before/node-nvm-nrm',
+        },
         '/it/before/js-modules',
         '/it/before/npm-registry',
         '/it/before/BFC-margin',
@@ -112,6 +115,7 @@ export default {
       text: '每周一词',
       collapsible: true,
       children: [
+        { text: 'Subject', link: '/en/practice/word-subject' },
         { text: 'Right', link: '/en/practice/word-right' },
         { text: 'Common', link: '/en/practice/word-common' },
         { text: 'Potential', link: '/en/practice/word-potential' },
