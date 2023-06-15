@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-21acd209","path":"/en/practice/word-subject.html","title":"每周一词-Subject","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"用法总结","slug":"用法总结","link":"#用法总结","children":[]}],"git":{},"filePathRelative":"en/practice/word-subject.md"}');export{e as data};
