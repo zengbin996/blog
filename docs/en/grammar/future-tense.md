@@ -95,3 +95,49 @@
 be going to 可以代替住助动词 will。它有三种格式，分别是 is going to / are going to / am going to, 用的时候需要按照主语的不同格式进行变化。
 
 主语是单数概念的词语，都用“is going to”，主语是复数概念或者 you ， 都用 “are going to”， 主语是 I 才能用 “am going to”。
+
+1. 主语 + is/are/am + going + to + be + 表语 + 状语
+
+- I am going to be busy tomorrow.
+- You are going to be tired tonight.
+- She is going to be famous next year.
+- He is going to be strong next year.
+- It is going to be cheap tomorrow.
+- We are going to be rich in the future.
+- The are going to be healthy in the future.
+
+- My leader is going to be busy tomorrow.
+- My fans are going to be rich in the future.
+
+- I am going to be a leader in the future.
+- She is going to be a singer in the future.
+- They are going to be drivers tomorrow.
+
+- My friend is going to be a leader in the future.
+- My fans are going to be leaders in the future.
+
+2. 主语 + is/are/am + going + to + 动词原型 + 宾语 + 状语
+
+- I am going to bathe tonight.
+- You are going to work tomorrow.
+- She is going to run tomorrow.
+
+- My leader is going to work tomorrow.
+- My fans are going to dance tonight.
+
+- I am going to help her tomorrow.
+- She is going to buy a book next week.
+- They are going to clean the classroom tomorrow.
+
+- My leader is going to help her tonight.
+- My fans are going to buy gifts next month.
+
+变否定句，把“is going to/are going to/am going to”变成“is not going to/are not going to/am not going to”就可以了。
+
+- I am not going to be busy tomorrow.
+- She is not going to buy a house next year.
+
+变一般疑问句，把“is/are/am going to”的“is/are/am”移到句首，句尾加问号。
+
+- Are you going to be busy tomorrow?
+- Is she going to buy a house next year?
