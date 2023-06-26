@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3044b8e0","path":"/en/grammar/past-tense.html","title":"一般过去时态","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/past-tense.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-45503b02","path":"/en/grammar/future-tense.html","title":"一般将来时态","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/future-tense.md"}');export{e as data};
