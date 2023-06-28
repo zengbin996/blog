@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-68e42782","path":"/en/grammar/past-tense-exercises.html","title":"一般过去时态 作业","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/past-tense-exercises.md"}');export{e as data};

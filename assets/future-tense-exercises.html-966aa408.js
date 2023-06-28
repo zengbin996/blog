@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9aa8709e","path":"/en/grammar/future-tense-exercises.html","title":"一般将来时态 作业","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/future-tense-exercises.md"}');export{e as data};

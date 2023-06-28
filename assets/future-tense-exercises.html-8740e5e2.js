@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as r,R as e,t as a}from"./framework-822ca1a4.js";const c={},n=e("h1",{id:"一般将来时态-作业",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#一般将来时态-作业","aria-hidden":"true"},"#"),a(" 一般将来时态 作业")],-1),o=[n];function _(d,i){return s(),r("div",null,o)}const h=t(c,[["render",_],["__file","future-tense-exercises.html.vue"]]);export{h as default};
