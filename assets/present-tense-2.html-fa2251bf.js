@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3fda09e8","path":"/en/grammar/present-tense-2.html","title":"现在进行时","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/present-tense-2.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6d4f0921","path":"/jp/grammar/unit4.html","title":"部屋に机といすがあります","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"基本课文","slug":"基本课文","link":"#基本课文","children":[]}],"git":{},"filePathRelative":"jp/grammar/unit4.md"}');export{t as data};
