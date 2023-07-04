@@ -117,6 +117,10 @@ export default {
       text: '每周一词',
       collapsible: true,
       children: [
+        { text: 'Kind', link: '/en/practice/word-kind' },
+        { text: 'This', link: '/en/practice/word-this' },
+        { text: 'Head', link: '/en/practice/word-head' },
+        { text: 'Field', link: '/en/practice/word-field' },
         { text: 'Subject', link: '/en/practice/word-subject' },
         { text: 'Right', link: '/en/practice/word-right' },
         { text: 'Common', link: '/en/practice/word-common' },
