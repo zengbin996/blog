@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-eb4c9c10","path":"/en/practice/Template.html","title":"每周一词-","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"用法总结","slug":"用法总结","link":"#用法总结","children":[]}],"git":{},"filePathRelative":"en/practice/Template.md"}');export{e as data};

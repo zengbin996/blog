@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ebfe372e","path":"/en/practice/word-kind.html","title":"每周一词-Kind","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"用法总结","slug":"用法总结","link":"#用法总结","children":[]}],"git":{},"filePathRelative":"en/practice/word-kind.md"}');export{e as data};

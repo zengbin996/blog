@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-69a1279f","path":"/en/practice/word-this.html","title":"每周一词-This","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"用法总结","slug":"用法总结","link":"#用法总结","children":[]}],"git":{},"filePathRelative":"en/practice/word-this.md"}');export{t as data};
