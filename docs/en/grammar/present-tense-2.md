@@ -42,7 +42,7 @@
 
 变否定句，在 be 动词后面加 not 即可。
 
-- I am cleaning my office.
+- I am not cleaning my office.
 - She is not baking beef.
 - These bodyguards aren't pushing a car.
 
