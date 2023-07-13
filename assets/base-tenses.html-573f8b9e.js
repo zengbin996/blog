@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-36b700ae","path":"/en/grammar/base-tenses.html","title":"四个基本时态","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"一般现在时态","slug":"一般现在时态","link":"#一般现在时态","children":[]}],"git":{},"filePathRelative":"en/grammar/base-tenses.md"}');export{e as data};
