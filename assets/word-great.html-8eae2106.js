@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-49fd1448","path":"/en/practice/word-great.html","title":"每周一词-Great","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"用法总结","slug":"用法总结","link":"#用法总结","children":[]}],"git":{},"filePathRelative":"en/practice/word-great.md"}');export{e as data};
