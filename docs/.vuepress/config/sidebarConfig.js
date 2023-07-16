@@ -119,6 +119,8 @@ export default {
       text: '每周一词',
       collapsible: true,
       children: [
+        { text: 'For', link: '/en/practice/word-for' },
+        { text: 'Great', link: '/en/practice/word-great' },
         { text: 'Kind', link: '/en/practice/word-kind' },
         { text: 'This', link: '/en/practice/word-this' },
         { text: 'Head', link: '/en/practice/word-head' },
