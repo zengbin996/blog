@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-443a3720","path":"/en/grammar/base-tenses-exercises.html","title":"四个基本时态 练习","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"一般现在时态","slug":"一般现在时态","link":"#一般现在时态","children":[]}],"git":{},"filePathRelative":"en/grammar/base-tenses-exercises.md"}');export{e as data};
