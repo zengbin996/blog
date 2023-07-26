@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-443a3720","path":"/en/grammar/base-tenses-exercises.html","title":"每日句子练习","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"2023 年 7 月 20 日 17:31:28","slug":"_2023-年-7-月-20-日-17-31-28","link":"#_2023-年-7-月-20-日-17-31-28","children":[]}],"git":{},"filePathRelative":"en/grammar/base-tenses-exercises.md"}');export{e as data};
