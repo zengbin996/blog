@@ -5,7 +5,14 @@ export default {
       text: '前端',
       children: [
         '/it/before/',
-        '/it/before/cos',
+        {
+          text: '微信授权登录',
+          link: '/it/before/weixin-login',
+        },
+        {
+          text: '腾讯云 OSS 上传文件',
+          link: '/it/before/cos',
+        },
         {
           text: 'Node.js 和 NPM',
           link: '/it/before/node-nvm-nrm',
@@ -116,6 +123,12 @@ export default {
     },
 
     {
+      text: '每日练习',
+      collapsible: true,
+      link: '/en/practice/every-day',
+    },
+
+    {
       text: '每周一词',
       collapsible: true,
       children: [
@@ -171,12 +184,19 @@ export default {
 
   '/jp/practice/': [
     {
-      text: '日常用语',
+      text: '劝学',
       link: '/jp/practice/',
     },
 
     {
+      text: '每日练习',
+      collapsible: true,
+      link: '/jp/practice/every-day',
+    },
+
+    {
       text: '日语歌曲',
+      collapsible: true,
       children: [
         {
           text: '未来へ',
