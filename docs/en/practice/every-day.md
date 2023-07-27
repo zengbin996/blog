@@ -1,3 +1,31 @@
+## 2023 年 7 月 27 日 17:06:46
+
+I like the girl under the tree.
+
+I looked at a dog here just now. It's gone now.
+
+The car under the tree is Nick's.
+
+The car outside is the one Jack bought in 2019.
+
+I'm learning English now.
+
+She is tired now.
+
+I will go home soon.
+
+I ate an apple ago every day.
+
+The man was my English teacher ago.
+
+I ate two apples today.
+
+They held a party here last night.
+
+We will play games upstairs tonight.
+
+He became a doctor two years ago.
+
 ## 2023 年 7 月 26 日 09:00:56
 
 I learned to play the piano in Xi 'an last week.
