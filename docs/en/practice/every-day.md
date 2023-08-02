@@ -1,3 +1,59 @@
+## 2023 年 8 月 2 日 17:24:31
+
+She was in gray today. She is so beautiful.
+I set up my website in 2021.
+I will be a rich man in one hundred years.
+I will get off work in three minutes.
+I will buy the big house next to the hospital in fifty years.
+He will come back in a week.
+He was in short sleeve yesterday.
+I'm life in danger now.
+
+## 2023-08-01
+
+They will make shoes in the factory.
+The girls in the factory are young.
+These handsome men are in the factory.
+We will take a walk in the park tonight.
+KUN was born in 1998.
+We are going to swim in the river in the summer.
+Most people in the world were poor in the 20th century.
+Most students start in China in September.
+I started learning English in December 2021.
+I am working in the company.
+
+## 2023 年 7 月 28 日 15:47:39
+
+I can help you learn JavaScript.
+
+I can't help you learn JavaScript.Can you help me learn JavaScript?
+
+I saw the sunshine after the rain in the field just now.
+
+I don't see the sunshine after the rain in the field just now.
+
+Do you see the sunshine after the rain in the field just now?
+
+You were a funny man before.
+
+I'm going home on my motorcycle tomorrow.
+
+He often swims in a river at night.
+
+He sings pretty well.
+
+I teach English very patiently.
+
+He often helps others in the hospital at night.
+
+We are playing basketball on the playground.
+
+We will go shopping this afternoon.
+
+I bought a computer last November. Its price is $1200.
+
+Apple will launch the iPhone 14 in September.
+
 ## 2023 年 7 月 27 日 17:06:46
 
 I like the girl under the tree.
