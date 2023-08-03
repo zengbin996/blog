@@ -1,25 +1,73 @@
+## 2023 年 8 月 3 日 10:13:33
+
+I bathe at home every night.
+
+I don't bathe at home every night.
+
+Do you bathe at home every night?
+
+She cries at school every day.
+
+She doesn't cry at school.
+
+Does she cry at school?
+
+He sited at the company yesterday.
+
+He didn't sit at the company yesterday.
+
+Did he sit at the company yesterday?
+
+I will work in Japan.
+
+I will not work in Japan.
+
+Will you work in Japan?
+
+I am standing in the park.
+
+I am not standing in the park.
+
+Are you standing in the park?
+
 ## 2023 年 8 月 2 日 17:24:31
 
 She was in gray today. She is so beautiful.
+
 I set up my website in 2021.
+
 I will be a rich man in one hundred years.
+
 I will get off work in three minutes.
+
 I will buy the big house next to the hospital in fifty years.
+
 He will come back in a week.
+
 He was in short sleeve yesterday.
+
 I'm life in danger now.
 
 ## 2023-08-01
 
 They will make shoes in the factory.
+
 The girls in the factory are young.
+
 These handsome men are in the factory.
+
 We will take a walk in the park tonight.
+
 KUN was born in 1998.
+
 We are going to swim in the river in the summer.
+
 Most people in the world were poor in the 20th century.
+
 Most students start in China in September.
+
 I started learning English in December 2021.
+
 I am working in the company.
 
 ## 2023 年 7 月 28 日 15:47:39
