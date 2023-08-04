@@ -1,3 +1,55 @@
+## 2023 年 8 月 4 日 09:08:18
+
+He bathes in the bathroom every night.
+
+He doesn't bathe in the bathroom every night.
+
+Does he bathe in the bathroom every night.
+
+This baby cries every day.
+
+I work at the company every day.
+
+He sat here yesterday.
+
+Most people are standing by the river.
+
+We will go for a run in the park tomorrow night.
+
+The doctor told me to rest.
+
+I live in Xi'an.
+
+We had a laugh over that one.
+
+His face cracked into a smile.
+
+Can you jump that gate?
+
+Let's go to the movies.
+
+We will fly to New York next Wednesday.
+
+They swam in the river yesterday.
+
+I walk to work every day.
+
+I don't have anywhere to stay.
+
+I won't fall.
+
+We are going to dance tomorrow.
+
+He gave a little cough.
+
+Come here, you little bugger.
+
+I just called in for a chat.
+
+You look very beautiful.
+
+I listen to music for relaxation.
+
 ## 2023 年 8 月 3 日 10:13:33
 
 I bathe at home every night.
