@@ -73,3 +73,27 @@
 - be afraid of
 - be good at
 - be keen on
+
+## 介词分讲
+
+已经对于常见的一些介词详细讲解每一个的用法。
+
+## in
+
+1. in + 大地方，意思是“在...”。
+
+- in Xi'an
+- in Guangxi
+- in China
+- in America
+- in Asia
+- in the world
+
+- We live in Chian.
+- I am happy in Xi'an.
+- The people in Asia are poor.
+- We are in Shaanxi.
+
+2. in + 表示位置或场所的名词(小地方)，意思是“在...里面”。需要注意，这些位置场所大多数强调内部空间的。
+
+- In the factory
