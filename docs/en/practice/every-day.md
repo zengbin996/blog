@@ -1,3 +1,29 @@
+2023 年 8 月 9 日 08:48:54
+
+He was in his car.
+
+We live in Xi'an.
+
+The cup on the table was Nick's.
+
+I was born on January tenth, 1998.
+
+I got up at 7:30 this morning.
+
+The bus No.700 stopped at Xi'an Library.
+
+Old bones break easily.
+
+He brought a book yesterday.
+
+I brush my tooth in the bathroom.
+
+He bought a T-shirt in the supermarket yesterday.
+
+Money can't buy you happiness.
+
+He calls his girlfriend every night.
+
 ## 2023 年 8 月 4 日 09:08:18
 
 He bathes in the bathroom every night.
