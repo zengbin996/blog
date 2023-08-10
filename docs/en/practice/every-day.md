@@ -1,3 +1,33 @@
+2023 年 8 月 10 日 08:52:30
+
+I can catch the ball with my hands.
+
+Can you climb down.
+
+I had to comb their hair.
+
+He likes to cook in the open air.
+
+My teacher asked me to copy the article.
+
+I need to copy the words.
+
+This book about the car is mine.
+
+This book is about the car.
+
+We go for lunch at 11:50 every day.
+
+August is the hottest season every year.
+
+It rained heavily on August 4th.
+
+I caught a mouse in the kitchen.
+
+I am at the park gate.
+
+The table on the computer is broken.
+
 2023 年 8 月 9 日 08:48:54
 
 He was in his car.
