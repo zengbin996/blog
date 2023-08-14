@@ -1,3 +1,59 @@
+2023 年 8 月 14 日 08:50:13
+
+Monday Tuesday Wednesday Saturday Friday Saturday Sunday
+
+January February March April May June July August September October November December
+
+one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty
+
+The story is about them.
+
+That movie is about love.
+
+The rumor about me is not true.
+
+I wake up at about seven o'clock.
+
+I have about twenty dollars.
+
+I sleep after twenty-three o'clock every day.
+
+I will become a rich man after 35 years old.
+
+She was paroled after two years.
+
+We'll leave after lunch.
+
+My friend and I will go eating after work.
+
+2023 年 8 月 11 日 09:18:36
+
+one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty
+
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+
+January February March April May June July August September October November December
+
+Nick is capable.
+
+She is a very capable speaker.
+
+The Shake is afraid of animals.
+
+I was afraid of the other boys.
+
+I was alone before.
+
+He lived out his days alone.
+
+That woman angrily looked at her son.
+
+He had every right to be angry.
+
+He made a bad mistake.
+
+Divorce is bad for children.
+
 2023 年 8 月 10 日 08:52:30
 
 I can catch the ball with my hands.
