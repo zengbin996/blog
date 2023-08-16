@@ -1,3 +1,35 @@
+2023 年 8 月 16 日 08:57:02
+
+He works as a teacher.
+
+That man lecture as a doctor.
+
+She treated him as a friend.
+
+I treated you as a friend.
+
+He is as tall as his brother.
+
+She is as fat as that woman.
+
+Can you run as fast as Nick.
+
+He does not study as well as his sister.
+
+He did it as a favor to me.
+
+He works as make money.
+
+I woke up before sunrise.
+
+I go home before rain.
+
+Please finish your homework before going home.
+
+You should eat breakfast before leaving home.
+
+The red book on the table is a fairy tale.
+
 2023 年 8 月 15 日 09:17:06
 
 I was a man with dreams before.
@@ -122,7 +154,7 @@ Money can't buy you happiness.
 
 He calls his girlfriend every night.
 
-## 2023 年 8 月 4 日 09:08:18
+2023 年 8 月 4 日 09:08:18
 
 He bathes in the bathroom every night.
 
@@ -174,7 +206,7 @@ You look very beautiful.
 
 I listen to music for relaxation.
 
-## 2023 年 8 月 3 日 10:13:33
+2023 年 8 月 3 日 10:13:33
 
 I bathe at home every night.
 
@@ -206,7 +238,7 @@ I am not standing in the park.
 
 Are you standing in the park?
 
-## 2023 年 8 月 2 日 17:24:31
+2023 年 8 月 2 日 17:24:31
 
 She was in gray today. She is so beautiful.
 
@@ -224,7 +256,7 @@ He was in short sleeve yesterday.
 
 I'm life in danger now.
 
-## 2023-08-01
+2023-08-01
 
 They will make shoes in the factory.
 
@@ -246,7 +278,7 @@ I started learning English in December 2021.
 
 I am working in the company.
 
-## 2023 年 7 月 28 日 15:47:39
+2023 年 7 月 28 日 15:47:39
 
 I can help you learn JavaScript.
 
@@ -278,7 +310,7 @@ I bought a computer last November. Its price is $1200.
 
 Apple will launch the iPhone 14 in September.
 
-## 2023 年 7 月 27 日 17:06:46
+2023 年 7 月 27 日 17:06:46
 
 I like the girl under the tree.
 
@@ -306,7 +338,7 @@ We will play games upstairs tonight.
 
 He became a doctor two years ago.
 
-## 2023 年 7 月 26 日 09:00:56
+2023 年 7 月 26 日 09:00:56
 
 I learned to play the piano in Xi 'an last week.
 
@@ -330,7 +362,7 @@ Can you speak English?
 
 I can speak English.
 
-## 2023 年 7 月 24 日 15:33:15
+2023 年 7 月 24 日 15:33:15
 
 I'm a programmer.
 
@@ -420,7 +452,7 @@ I'm not working in the company.
 
 Are you working in the company?
 
-## 2023 年 7 月 21 日 11:31:42
+2023 年 7 月 21 日 11:31:42
 
 That man is my manager.
 
@@ -508,7 +540,7 @@ This ant is moving to top of the home.
 
 The migratory bird is moving southward to the warm.
 
-## 2023 年 7 月 20 日 17:31:28
+2023 年 7 月 20 日 17:31:28
 
 The man is my father.
 
