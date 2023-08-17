@@ -1,3 +1,33 @@
+2023 年 8 月 17 日 08:53:25
+
+He is behind the home.
+
+She heard footsteps behind her.
+
+He closed the gate behind her.
+
+The sun went behind a cloud.
+
+My cat is below the table.
+
+That cat below the table is mine.
+
+The bank is below KFC.
+
+The sun sank below the horizon.
+
+He sat beside her all night.
+
+Beside you, I fell insignificant.
+
+He bought a car yesterday, the one that was in between the two trees.
+
+It weighted between nine and ten kilos.
+
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+
+January February March April May June July August September October November December
+
 2023 年 8 月 16 日 08:57:02
 
 He works as a teacher.
