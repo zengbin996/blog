@@ -1,3 +1,19 @@
+2023 年 8 月 18 日 08:54:05
+
+Nick is a very capable teacher.
+
+You are capable of better work than this.
+
+I can cook some simple meals.
+
+They had important a meeting to discuss.
+
+I cut myself on a knife.
+
+We can't do anything.
+
+What do you usually do in the evening.
+
 2023 年 8 月 17 日 08:53:25
 
 He is behind the home.
