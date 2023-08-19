@@ -1,3 +1,23 @@
+2023 年 8 月 19 日 17:14:57
+
+They had important matters do discuss.
+
+What do you usually do in the evening?
+
+You draw beautifully.
+
+I will draw a tree and you can color it in.
+
+This picture was painted by Nick yesterday.
+
+My friends and I will drink wine tonight.
+
+I must earn to live.
+
+I must earn an absolute fortune.
+
+She forgot our oath ten years ago.
+
 2023 年 8 月 18 日 08:54:05
 
 Nick is a very capable teacher.
