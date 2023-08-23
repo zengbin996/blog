@@ -1,4 +1,26 @@
-2023 年 8 月 22 日 08:54:08
+2023 年 8 月 23 日 08:54:08
+
+by/during/for/from
+
+I work for make money every day.
+
+We run for our health every night.
+
+I'm studying English and Japanese hard in order to leave China.
+
+He celled her to make a proposal yesterday.
+
+I will be on vacation for two weeks.
+
+I will be traveling for two months.
+
+His friend is from Japan.
+
+I flew from New York to London.
+
+I take the subway from Beilin to Yanta for work every day.
+
+The store is open form 9 am to 6 pm.
 
 2023 年 8 月 21 日 09:11:02
 

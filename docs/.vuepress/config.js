@@ -1,7 +1,7 @@
 import { defaultTheme, defineUserConfig } from 'vuepress';
 import navbarConfig from './config/navbarConfig';
 import sidebarConfig from './config/sidebarConfig';
-import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch';
 
 export default defineUserConfig({
   title: '一条有梦想的咸鱼',
@@ -18,10 +18,10 @@ export default defineUserConfig({
   }),
   plugins: [
     docsearchPlugin({
-      // 配置项
-      appId:'YXBDR8YOV6',
+      // 爬虫
+      appId: 'YXBDR8YOV6',
       apiKey: '7230ba862c640ac90279283007dd06a9',
-      indexName:'hellozengbin',
+      indexName: 'hellozengbin',
     }),
   ],
 });
