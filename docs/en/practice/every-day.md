@@ -1,3 +1,31 @@
+2023 年 8 月 24 日 08:55:24
+
+inside/like/near/of/off/past/around
+
+The inside of the box was blue.
+
+The inside of the home was crowded.
+
+The cat was inside the box.
+
+The water was inside the bottle.
+
+I like to study English.
+
+He looks at like his father.
+
+This dog looks like a cat.
+
+She sings like an angel.
+
+The park is near the school. 公園は学校の近くにあります。
+
+The bus stop is near. バス駅は近くにあります。
+
+There is a book on the table.
+
+There is a cat below the table.
+
 2023 年 8 月 23 日 08:54:08
 
 by/during/for/from
