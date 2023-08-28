@@ -1,5 +1,15 @@
 2023 年 8 月 25 日 09:23:13
 
+The children ate around this table.
+
+We run around the park every night.
+
+Can you drop me near the bank.
+
+I saw a yellow cat is nearby just now.
+
+They are will ready for the off.
+
 2023 年 8 月 24 日 08:55:24
 
 inside/like/near/of/off/past/around
