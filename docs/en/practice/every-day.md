@@ -1,4 +1,15 @@
 to/since/through/under/up/with
+2023 年 8 月 30 日
+
+She went to the park with her friends.
+
+He wrote the letter with a pen.
+
+I opened the door with a key.
+
+She went to the supermarket with her dog.
+
+I usually go to work with the subway.
 
 2023 年 8 月 29 日 09:42:52
 

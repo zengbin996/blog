@@ -181,6 +181,7 @@ export default {
         { text: '第一单元总结', link: '/jp/grammar/unit4-1' },
         { text: '第 5 课', link: '/jp/grammar/unit5' },
         { text: '第 6 课', link: '/jp/grammar/unit6' },
+        { text: '第 7 课', link: '/jp/grammar/unit7' },
       ],
     },
   ],
