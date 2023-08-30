@@ -1,3 +1,11 @@
+to/since/through/under/up/with
+
+2023 年 8 月 29 日 09:42:52
+
+I will go to the store.
+
+She walks to the school every day.
+
 2023 年 8 月 25 日 09:23:13
 
 The children ate around this table.
