@@ -1,4 +1,17 @@
 to/since/through/under/up/with
+
+2023 年 8 月 31 日 09:48:46
+
+Her daughter met a blue cat in the street yesterday.
+
+Did her daughter meet a blue cat in the street yesterday?
+
+Her daughter didn't meet a blue cat in the street yesterday.
+
+Nick's teacher and his family moved to America lsat year.
+
+I will see a movie after work. Would you like to join me?
+
 2023 年 8 月 30 日
 
 She went to the park with her friends.
