@@ -1,4 +1,16 @@
-2023 年 9 月 5 日 08:51:54
+2023 年 9 月 7 日 09:56:56
+
+I start to study English at nine o'clock every day.
+
+I will go to Tokyo on September 10th, 2025.
+
+The flowers bloom in spring.
+
+It's rained today in the morning.
+
+I will eat KFC in the afternoon.
+
+I will go run in the park in the evening.
 
 2023 年 9 月 4 日 09:48:54
 
