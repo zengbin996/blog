@@ -1,4 +1,16 @@
-2023 年 9 月 8 日 09:02:38
+2023 年 9 月 11 日 09:14:44
+
+I have eaten breakfast in downstairs.
+
+Have you eaten breakfast?
+
+I have not eaten breakfast.
+
+I have done so much in my life.
+
+You have goes to school.
+
+He has already arrived in U.S.A.
 
 2023 年 9 月 7 日 09:56:56
 
