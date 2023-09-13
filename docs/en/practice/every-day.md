@@ -1,3 +1,21 @@
+2023 年 9 月 13 日 11:08:08
+
+He has slept for 12 hours.
+
+I have worked for 4 years.
+
+She has finished her homework.
+
+They have lived in that home for 15 years.
+
+We have not seen each other for a long time.
+
+He has not traveled abroad before.
+
+Has he finished work?
+
+Have they seen the movie yat?
+
 2023 年 9 月 11 日 09:14:44
 
 I have eaten breakfast in downstairs.
