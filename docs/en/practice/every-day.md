@@ -1,3 +1,17 @@
+2023 年 9 月 15 日 09:52:00
+
+Newton has been dead for almost 300 years.
+
+He has already left here.
+
+I have eaten breakfast.
+
+He has studied English for 2 hours.
+
+He has been studying English for 2 hours.
+
+We have not met for 10 years.
+
 2023 年 9 月 13 日 11:08:08
 
 He has slept for 12 hours.
