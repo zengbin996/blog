@@ -1,1 +1,0 @@
-import{_ as t,p as s,q as a,R as e,t as n}from"./framework-822ca1a4.js";const r={},c=e("h1",{id:"现在完成时",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#现在完成时","aria-hidden":"true"},"#"),n(" 现在完成时")],-1),o=[c];function _(d,i){return s(),a("div",null,o)}const l=t(r,[["render",_],["__file","present-tense-3.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3c7058aa","path":"/en/grammar/present-tense-3.html","title":"现在完成时态","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"用法","slug":"用法","link":"#用法","children":[]},{"level":2,"title":"例句","slug":"例句","link":"#例句","children":[]}],"git":{},"filePathRelative":"en/grammar/present-tense-3.md"}');export{e as data};
