@@ -1,3 +1,21 @@
+2023 年 9 月 18 日 17:23:31
+
+There is a apple in the table.
+
+There is a park in the city.
+
+There is a park in the city center
+
+I have an apple.
+
+I have been working for 3 years.
+
+I have slept for 10 hours.
+
+There was a temple here 10 years ago.
+
+There has been a temple here 10 years.
+
 2023 年 9 月 15 日 09:52:00
 
 Newton has been dead for almost 300 years.
