@@ -1,3 +1,19 @@
+2023 年 9 月 19 日 09:16:23
+
+There are schools near my house.
+
+There are two rivers in the city.
+
+There is some rubbish on the floor.
+
+There are some children on the soccer field.
+
+There is a tree to the east of the house.
+
+There is a car in the parking lot.
+
+There is a family at the foot of a hill.
+
 2023 年 9 月 18 日 17:23:31
 
 There is a apple in the table.
