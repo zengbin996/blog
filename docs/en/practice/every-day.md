@@ -1,3 +1,39 @@
+2023 年 9 月 22 日 16:27:22
+
+There is book on the table.
+
+There are there apples in the basket.
+
+There will be a party tonight.
+
+There has been a change in plans.
+
+There were many people at the concert.
+
+There was a school here 10 years ago.
+
+There will be a hospital here in 6 months.
+
+There is a bird in the tree.
+
+There is a teacher and many students in our classroom.
+
+There are two girls and a body under the tree.
+
+There are not some pictures on the wall.
+
+There are no some pictures on the wall.
+
+There is a bike behind the tree.
+
+There isn't a bike behind the tree.
+
+There is no a bike behind the tree.
+
+There is some water on Mars.
+
+Is there any water on Mars?
+
 2023 年 9 月 19 日 09:16:23
 
 There are schools near my house.
