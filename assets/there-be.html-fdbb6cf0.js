@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-25fbeab8","path":"/en/grammar/there-be.html","title":"There be 句型","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"en/grammar/there-be.md"}');export{e as data};
