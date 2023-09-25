@@ -114,6 +114,7 @@ export default {
         { text: '现在进行时态作业', link: '/en/grammar/present-tense-2-exercises' },
         { text: '四个基本时态', link: '/en/grammar/base-tenses' },
         { text: '现在完成时态', link: '/en/grammar/present-tense-3' },
+        { text: 'There be 句型', link: '/en/grammar/there-be' },
       ],
     },
   ],
