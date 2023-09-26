@@ -1,3 +1,29 @@
+2023 年 9 月 26 日 09:57:46
+
+I can drive.
+
+I can speak three languages.
+
+Can I use your phone?
+
+You can go to the party if you finish your homework.
+
+It can get really hot in the summer.
+
+Can you believe it's already September?
+
+Can you pass me the phone on the table?
+
+You can try studying for the exam in the library.
+
+Can you help me with my homework?
+
+It can rain.
+
+We can go to the park this weekend?
+
+You can't enter this area.
+
 2023 年 9 月 25 日 11:37:29
 
 I can swim.
