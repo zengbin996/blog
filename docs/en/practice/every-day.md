@@ -1,3 +1,39 @@
+2023 年 9 月 27 日 10:11:53
+
+Could you drive me home?
+
+May I use your phone?
+
+Could I have your autograph?
+
+Can I come too?
+
+She can speak three languages.
+
+Can you play the piano?
+
+He can drive.
+
+Can you swim?
+
+Can I borrow your pen?
+
+May I borrow your pen?
+
+Could I borrow your pen?
+
+You can go eat now.
+
+You can only go out after 6 o'clock every day.
+
+It can difficult to learn a new language.
+
+This winter can be very cold.
+
+It can rain tomorrow.
+
+Can I ask you question?
+
 2023 年 9 月 26 日 09:57:46
 
 I can drive.
