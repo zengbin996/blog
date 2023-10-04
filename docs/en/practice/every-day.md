@@ -1,4 +1,20 @@
-2023 年 9 月 27 日 10:11:53
+2023 年 10 月 4 日 11:45:32
+
+Can Could May Might Must
+
+I have to learn English.
+
+He side he might come tomorrow.
+
+I might well regret it later.
+
+Might I make a suggestion?
+
+You must drink water every day.
+
+Your body is already very wake, you must go to the hospital now.
+
+2023 年 9 月 27 日 10:11:53s
 
 Could you drive me home?
 
