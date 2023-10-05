@@ -128,6 +128,12 @@ export default {
       text: '每日练习',
       collapsible: true,
       link: '/en/practice/every-day',
+      children: [
+        {
+          text: 'October',
+          link: '/en/practice/october',
+        },
+      ],
     },
 
     {
@@ -188,6 +194,7 @@ export default {
         { text: '总结 2', link: '/jp/grammar/unit8-2' },
         { text: '第 9 课', link: '/jp/grammar/unit9' },
         { text: '第 10 课', link: '/jp/grammar/unit10' },
+        { text: '第 11 课', link: '/jp/grammar/unit11' },
       ],
     },
   ],
@@ -202,6 +209,12 @@ export default {
       text: '每日练习',
       collapsible: true,
       link: '/jp/practice/every-day',
+      children: [
+        {
+          text: 'October',
+          link: '/jp/practice/october',
+        },
+      ],
     },
 
     {
