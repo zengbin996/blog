@@ -1,3 +1,17 @@
+2023 年 10 月 6 日 09:40:04
+
+ought to
+
+We ought to get up early.
+
+We ought to be careful.
+
+We nought not to eat too much sugar.
+
+I ought to go home today.
+
+I should help her.
+
 2023 年 10 月 5 日 09:55:40
 
 You have to sleep now.
