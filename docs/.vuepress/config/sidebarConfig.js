@@ -115,6 +115,7 @@ export default {
         { text: '四个基本时态', link: '/en/grammar/base-tenses' },
         { text: '现在完成时态', link: '/en/grammar/present-tense-3' },
         { text: 'There be 句型', link: '/en/grammar/there-be' },
+        { text: '情态动词', link: '/en/grammar/verb2' },
       ],
     },
   ],
