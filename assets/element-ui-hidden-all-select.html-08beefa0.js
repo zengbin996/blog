@@ -1,0 +1,4 @@
+import{_ as e,p as n,q as s,a1 as a}from"./framework-e0dd9823.js";const t={},l=a(`<h1 id="element-ui-隐藏表格全选按钮" tabindex="-1"><a class="header-anchor" href="#element-ui-隐藏表格全选按钮" aria-hidden="true">#</a> element-ui-隐藏表格全选按钮</h1><div class="language-css line-numbers-mode" data-ext="css"><pre class="language-css"><code><span class="token selector">*/deep/.el-table__header-wrapper .el-checkbox</span> <span class="token punctuation">{</span>
+  <span class="token property">display</span><span class="token punctuation">:</span> none<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,2),c=[l];function i(d,o){return n(),s("div",null,c)}const p=e(t,[["render",i],["__file","element-ui-hidden-all-select.html.vue"]]);export{p as default};
