@@ -1,3 +1,21 @@
+2023 年 10 月 9 日 10:30:08
+
+You ought to sleep now.
+
+We ought to work every Monday.
+
+You ought to give up smoking.
+
+We ought to eat less at night.
+
+You ought to have been more careful.
+
+We should try to save water.
+
+We should arrive before dark.
+
+Somebody should have hide told me.
+
 2023 年 10 月 6 日 09:40:04
 
 ought to
