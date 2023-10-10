@@ -1,3 +1,23 @@
+2023 年 10 月 10 日 09:49:58
+
+You told him? How did you dare?
+
+She learned to fly on a dare.
+
+How dare you talk bake to me!
+
+Go on! Take it! I dare you.
+
+I didn't dare look at him.
+
+Don't you dare tear up her ticket.
+
+He didn't dare look over the edge.
+
+How dare you talk to me like that.
+
+He won't dare to break his promise.
+
 2023 年 10 月 9 日 10:30:08
 
 You ought to sleep now.
