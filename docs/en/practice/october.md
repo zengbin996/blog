@@ -1,3 +1,15 @@
+2023 年 10 月 12 日 09:52:40
+
+You had better travel to New York tomorrow.
+
+You had better go to eat now.
+
+We had better protect the environment.
+
+It's better not to sit for long periods of time.
+
+It's best not to drive continuously for more than three hours at a time.
+
 2023 年 10 月 11 日 17:52:02
 
 We'll need an expert opinion.
