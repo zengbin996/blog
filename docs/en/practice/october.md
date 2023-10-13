@@ -1,3 +1,7 @@
+2023 年 10 月 13 日 09:50:00
+
+Where do you work every day?
+
 2023 年 10 月 12 日 09:52:40
 
 You had better travel to New York tomorrow.
