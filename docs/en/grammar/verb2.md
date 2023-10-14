@@ -9,7 +9,7 @@
 
 ## 常见的情态动词及其用法
 
-### can
+### Can
 
 can 可以表示现在或者将来的情况。这两个时态时态都用 can 原型，不同时态加不同的时间状语即可。
 
@@ -100,7 +100,7 @@ may 和 can 的意思相近，may 也可以现在和将来时态。
 - May I go with you?
 - Might I go with you?
 
-## must
+## Must
 
 1. 表示必要或者很重要，译为“必须做某事”
 
@@ -125,3 +125,49 @@ may 和 can 的意思相近，may 也可以现在和将来时态。
 
 - You must be hungry.
 - They must be twins.
+
+## Have to
+
+have to 和 must 差不多，但是 must 强调说话人的意愿，have to 表示客观上的必要性。
+
+一般现在时态：
+
+- We have to help him.
+- We don't have to help him.
+- Do you have to help him.
+- My students have to be careful.
+- My students don't have to be careful.
+- She has to take pills.
+- She doesn't have to take pills.
+- Does she have to take pills.
+- The girl has to be careful.
+- The girl doesn't have to be careful.
+
+一般过去时态：
+
+- They had to jump into th river last night.
+- They didn't have to jump into the river last night.
+- Did they have to jump into the river last?
+- You had to be careful yesterday.
+- You didn't have to be careful yesterday.
+
+一般将来时态:
+
+- We will have to take the bus tomorrow.
+- We won't have to take the bus tomorrow.
+- Will you have to take the bus tomorrow.
+- You will have to be careful in the future.
+
+## 其他
+
+Ought to 应该
+
+Should 应该
+
+Dare 敢于
+
+Be able to 能够
+
+Need 需要
+
+Had better 最好
