@@ -1,3 +1,27 @@
+2023 年 10 月 16 日 16:09:46
+
+Where did you spend the night?
+
+Where do you learn English?
+
+Where do they work?
+
+Where do your friends sell clothes?
+
+Where did you eat in the morning?
+
+Where does he run every day?
+
+Where does she swim every night?
+
+Where will you travel next month?
+
+Where will she buy the home next year?
+
+Where are you now?
+
+Where have you been?
+
 2023 年 10 月 13 日 09:50:00
 
 Where do you work every day?
