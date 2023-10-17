@@ -1,3 +1,33 @@
+2023.10.17
+
+What did you eat just now?
+
+What will you do tomorrow?
+
+What is this?
+
+Where are you drive going to drive to?
+
+What is this blue box?
+
+What's in this blue box?
+
+What is this blue box used for?
+
+What are you doing?
+
+What is going to bake tomorrow?
+
+What does this sentence mean?
+
+What were you chatting about?
+
+What is that infernal noise?
+
+What are you sniggering at?
+
+What is the price of this pen?
+
 2023 年 10 月 16 日 16:09:46
 
 Where did you spend the night?
