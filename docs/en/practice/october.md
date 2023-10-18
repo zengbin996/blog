@@ -1,3 +1,15 @@
+2023.10.18
+
+What did he say?
+
+What time is it?
+
+What sing are you?
+
+What is your name?
+
+What should you propose?
+
 2023.10.17
 
 What did you eat just now?
