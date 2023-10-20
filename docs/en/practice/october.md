@@ -1,3 +1,35 @@
+2023.10.20
+
+Why have you marked this wrong?
+
+Why do you learn English?
+
+Why do you love me?
+
+Why does she buy shoes in taobao.com?
+
+Why did tell me this story just now?
+
+Why did you go to Beijing last year?
+
+Why did you sleep so late last night?
+
+Why did you buy this book?
+
+Why will you learn the company next year?
+
+Why is she singsong so loudly?
+
+Why are they hitting the man?
+
+Why are you so sad?
+
+Why is she so rich?
+
+Why am I so poor?
+
+Why are you so angry?
+
 2023.10.19
 
 2023.10.18
