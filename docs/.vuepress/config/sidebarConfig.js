@@ -116,6 +116,7 @@ export default {
         { text: '现在完成时态', link: '/en/grammar/present-tense-3' },
         { text: 'There be 句型', link: '/en/grammar/there-be' },
         { text: '情态动词', link: '/en/grammar/verb2' },
+        { text: '特殊疑问句', link: '/en/grammar/special-question' },
       ],
     },
   ],
