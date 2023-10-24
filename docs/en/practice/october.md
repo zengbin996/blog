@@ -1,3 +1,15 @@
+2023.10.24
+
+Whose is this?
+
+Whose is the glass on the table.
+
+Whose is that farm over yonder?
+
+Whose side are you on anyway?
+
+Whose did she meet last night?
+
 2023.10.20
 
 Why have you marked this wrong?
