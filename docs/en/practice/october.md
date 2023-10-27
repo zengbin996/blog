@@ -1,3 +1,95 @@
+2023.10.27
+
+Whose is this car?
+
+How do you do?
+
+How are you?
+
+Whose is this book?
+
+Whose are the book?
+
+Whose is this computer?
+
+Whose is the big house?
+
+When do you get up every morning?
+
+When does she do homework?
+
+When do they have dinner?
+
+When did you get married?
+
+When did you find my video?
+
+When did they meet each other?
+
+When will you go home?
+
+When will she go to the park?
+
+When did they meet each other?
+
+When will she find a boyfriends?
+
+When is she going to buy a ticket?
+
+When will Nick be famous?
+
+When will he become a father?
+
+When you is your birthday?
+
+Whom do you love?
+
+Whom will you kill tomorrow?
+
+Which girl do you like?
+
+Which book does he like?
+
+Which book did you love?
+
+Which shirt did you pick just now?
+
+Which house did you buy?
+
+When will He be a father?
+
+Which house will you buy?
+
+How is your mother?
+
+How are your kinds?
+
+How is your business?
+
+How have you been?
+
+How do you go to work?
+
+How do you learn English?
+
+How do you make cake?
+
+How did you do your homework last time?
+
+How did you get the ticket?
+
+How will you bake corn tomorrow?
+
+How will they build the house?
+
+How long have you learned English?
+
+How long have you worked?
+
+How fan is our home?
+
+How fun is your work?
+
 2023.10.24
 
 Whose is this?
