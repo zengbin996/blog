@@ -1,3 +1,15 @@
+2023.10.30
+
+How much money do you have?
+
+How much beer did you drink last night?
+
+How much wine will they produce next month?
+
+How many kilometers did he run yesterday?
+
+How much wifi do you have?
+
 2023.10.27
 
 Whose is this car?
