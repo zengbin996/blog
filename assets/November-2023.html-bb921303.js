@@ -1,0 +1,1 @@
+import{_ as r,p as t,q as o,R as e,t as a}from"./framework-e0dd9823.js";const c={},n=e("h1",{id:"november",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#november","aria-hidden":"true"},"#"),a(" November")],-1),s=[n];function _(d,i){return t(),o("div",null,s)}const h=r(c,[["render",_],["__file","November-2023.html.vue"]]);export{h as default};
