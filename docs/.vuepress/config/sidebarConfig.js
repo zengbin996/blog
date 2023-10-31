@@ -128,12 +128,19 @@ export default {
 
     {
       text: '每日练习',
-      collapsible: true,
-      link: '/en/practice/every-day',
+      collapsible: false,
       children: [
         {
-          text: 'October',
-          link: '/en/practice/october',
+          text: 'November-2023',
+          link: '/en/practice/November-2023',
+        },
+        {
+          text: 'October-2023',
+          link: '/en/practice/October-2023',
+        },
+        {
+          text: 'August-2023',
+          link: '/en/practice/August-2023',
         },
       ],
     },
@@ -212,12 +219,19 @@ export default {
 
     {
       text: '每日练习',
-      collapsible: true,
-      link: '/jp/practice/every-day',
+      collapsible: false,
       children: [
         {
-          text: 'October',
-          link: '/jp/practice/october',
+          text: 'November-2023',
+          link: '/jp/practice/November-2023',
+        },
+        {
+          text: 'October-2023',
+          link: '/jp/practice/October-2023',
+        },
+        {
+          text: 'August-2023',
+          link: '/jp/practice/August-2023',
         },
       ],
     },

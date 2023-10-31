@@ -1,3 +1,9 @@
+# October
+
+2023.10.31
+
+Which student made a mistake just now?
+
 2023.10.30
 
 How much money do you have?
