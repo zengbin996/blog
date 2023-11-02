@@ -1,5 +1,25 @@
 # November
 
+2023.11.02
+
+Why are you late for the meeting?
+Why did you choose this career path?
+Why is the sky blue?
+Why do you like to travel?
+Why did you move to this city?
+
+How do you bake a cake?
+How did you learn to speak English?
+How can I improve my cooking skills?
+How long does is take to get to the airport?
+How much does this shirt cost?
+
+Which movie do you want to watch?
+Which restaurant should we go to for dinner?
+Which book are you reading right now?
+Which cat is yours in the parking lot?
+Which team won the championship last year?
+
 2023.11.01
 
 What is your favorite color?
