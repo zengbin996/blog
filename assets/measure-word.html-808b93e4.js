@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-4fdf01e8","path":"/jp/grammar/measure-word.html","title":"量词搭配","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"jp/grammar/measure-word.md"}');export{a as data};
