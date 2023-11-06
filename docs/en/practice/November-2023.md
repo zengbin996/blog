@@ -1,5 +1,13 @@
 # November
 
+2023.11.06
+
+Have you visited China? Do you know about China?
+I have visited Paris before?
+She had never tasted sushi until last night.
+Why are you late for the meeting?
+Why do you like to travel?
+
 2023.11.02
 
 Why are you late for the meeting?
