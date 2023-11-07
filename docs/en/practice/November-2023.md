@@ -1,5 +1,18 @@
 # November
 
+2023.11.07
+
+This is the place where we make videos.
+What is the name of the new place that sells noodles?
+Can you tidy up? Put those things in their place.
+The place for playing football is outside. Not here.
+
+Which student made a mistake just now?
+Which student drivers a red car every day?
+Which student will go to Guangxi next year?
+Which student is talking with others?
+Which student has finished homework?
+
 2023.11.06
 
 Have you visited China? Do you know about China?

@@ -1,5 +1,130 @@
 # November
 
+I went shopping at the mall yesterday.
+Nick goes to bed after listening to the radio every night.
+Please write your name and address here.
+Nick leaves home at seven o'clock every day.
+
+What are you doing this afternoon?
+What are you planning to do this afternoon?
+I'm going to the library to study first, and then I'll go home to write a letter.
+
+When are you leaving? I will leave after I have lunch.
+
+Excuse me, could you please send this package to China?
+It is by sea or boy air.
+By sea.
+
+Dose this bus pass by yhe station?
+Yes, it does.
+
+2023.11.07
+
+今日の午後は何をしますか。
+図書館へ行って、勉強します。それから家へ帰って、手紙を書きます。
+
+いつ出かけますか。　でかけ
+昼ご飯を食べてから出かけます。
+
+昨日デパートへ行って、買い物しました。
+李さんは毎晩ラジオを聞いてから寝ます。
+ここに住所と名前を書いてください。
+李さんは毎朝７時に家をお出ます。
+
+今日の午後は何をしますか。
+図書館へ行って、勉強します。それから家へ帰って、手紙を書きます。
+
+いつ出かけますか。
+昼ご飯を食べてから出かけます。
+
+昨日デパートへ行って、買い物しました。
+李さんは毎晩ラジオを聞いてから寝ます。
+ここに住所と名前を書いてください。
+李さんは毎朝７時にいえをお出ます。
+
+二十
+二十一
+二十二
+二十三
+二十四
+二十五
+二十六
+二十七
+二十八
+二十九
+三十
+
+七百二十二
+七百十二
+四百八十五
+二百三十八
+九百二十七
+百六十三
+七百九十九
+六百四十二
+三百十
+五十六
+八百八十八
+
+昨日デパートへ行って、買い物しました。
+李さんは毎晩ラジオを聞いてから寝ます。
+ここに住所と名前を書いてください。
+李さんは毎朝７時にいえをお出ます。
+
+いち
+に
+さん
+し　よん
+ご
+ろく
+しち　なな
+はち
+く　きゅう
+じゅう
+じゅういち
+じゅうに
+じゅうさん
+じゅうし　じゅうよん
+じゅうご
+じゅうろく
+じゅうしち　じゅうなな
+じゅうはち
+じゅうく　じゅうきゅう
+にじゅう
+さんじゅう
+よんじゅう
+ごじゅう
+ろくじゅう
+ななじゅう
+はちじゅう
+きゅうじゅう
+ひゃく
+
+昨日デパートへ行って、買い物しました。
+李さんは毎晩ラジオを聞いてから寝ます。
+ここに住所と名前を書いてください。
+李さんは毎日７時に家をお出ます。
+
+ふなびん　船便
+しょるい　書類
+げんこう　原稿
+きじ　記事
+メモ
+えきまえ　駅前
+はし　橋
+かど　角
+おうだんほどう　横断歩道
+みぎ　右
+ひだり　左
+こうさてん　交差点
+みち　道
+ドア
+でんき　電気
+たいきょくけん　太極拳
+あさごはん　朝ご飯
+ばんごはん　晩ご飯
+バーベキュー
+
 2023.11.06
 
 昨日デパートへ行って、買い物しました。

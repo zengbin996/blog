@@ -186,8 +186,13 @@ export default {
           text: '基础发音',
           link: '/jp/grammar/',
         },
+        {
+          text: '量词搭配',
+          link: '/jp/grammar/measure-word',
+        },
       ],
     },
+
     {
       text: '新标日课文',
       children: [
