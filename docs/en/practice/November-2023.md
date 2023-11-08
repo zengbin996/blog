@@ -1,5 +1,11 @@
 # November
 
+2023.11.08
+
+It is necessary to help the poor.
+Most students go to school by bus.
+Learning English can make our lives more exciting.
+
 2023.11.07
 
 This is the place where we make videos.
