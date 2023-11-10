@@ -1,5 +1,33 @@
 # November
 
+Nick is reading the newspaper.
+Can I take photos here?
+No smoking on the plane.
+Nick was rowing a boat in the park on Sunday.
+
+Hi, is this Nick? Where are you now?
+I'm standing in front of the city hall now.
+
+Excuse me, may I borrow this dictionary?
+I'm using it.
+
+Excuse me, May I sit here?
+Okay, please set down.
+
+Hey, using phones is not allowed here.
+I'm sorry, I will pay attention in the future.
+
+2023.11.10
+
+出かけます　送ります
+
+いつ出かけますか。
+昼ご飯を食べてから出かけます。
+
+すみません、この荷物を中国へ送ってください。
+船便ですか。航空便ですか。
+船便でお願いします。
+
 I went shopping at the mall yesterday.
 Nick goes to bed after listening to the radio every night.
 Please write your name and address here.
@@ -17,6 +45,17 @@ By sea.
 
 Dose this bus pass by the station?
 Yes, it does.
+
+昨日デパートへ行って、買い物しました。
+李さんは毎晩ラジオを聞いてから寝ます。
+住所と名前を書いてください。
+李さんは毎朝７時にを出ます。
+
+今日の午後は何をしますか。
+図書館へいって、勉強します。それから家へ帰って、手紙を書きます。
+
+このバスは駅前を通りますか。
+はい、通ります。
 
 2023.11.09
 
