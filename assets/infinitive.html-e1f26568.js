@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1010625d","path":"/en/grammar/infinitive.html","title":"动词不定式","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"动词不定式格式","slug":"动词不定式格式","link":"#动词不定式格式","children":[]}],"git":{},"filePathRelative":"en/grammar/infinitive.md"}');export{e as data};
