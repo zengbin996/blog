@@ -1,5 +1,38 @@
 # November
 
+The rooms in the hotel is spacious and bright.
+It is easy and convenient to use this computer.
+Nick has a car.
+I learn to use the computer at three mouths.
+I have been studying computers for three months, but I don't know how to use them very well.
+
+What does Nick look like?
+Tall, long-legged, quite handsome.
+
+使います　使って
+乗ります　乗って
+座ります　座って
+借ります　買って
+
+李さんは今新聞を読んでいます。
+ここに写真をとってもいいですか。
+飛行機の中でタバコを吸ってはいけません。
+日曜日、李さんは公園でボートに乗りました。
+
+もしもし、森さん？今どこですか。
+市役所の前を歩いています。
+
+しみません、この辞書を借りてもいいですか。
+いいえ、ちょっと。今使っています。
+
+すみません、ここに座ってもいいですか。
+ええ、どうぞ。
+
+あっ、携帯電話を使ってはいけませんよ。
+すみません、それから気を付けます。
+
+歩います
+
 Nick is reading the newspaper.
 Can I take photos here?
 No smoking on the plane.
