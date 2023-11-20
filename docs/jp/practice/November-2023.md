@@ -9,6 +9,19 @@ I have been studying computers for three months, but I don't know how to use the
 What does Nick look like?
 Tall, long-legged, quite handsome.
 
+明るい　あかるい
+持ちます　もちます
+まだ
+旅行会社　りょこうかいしゃ
+営業部　えいぎょうぶ
+住みます　すみます
+操作　そうさ
+
+ホテルの部屋は広くて明るいです。
+このコンピュータの操作は簡単で便利です。
+森さんは車を持っています。
+３か月パスコンを練習しましたが、まだあまりできません。
+
 使います　使って
 乗ります　乗って
 座ります　座って
