@@ -190,6 +190,10 @@ export default {
           text: '量词搭配',
           link: '/jp/grammar/measure-word',
         },
+        {
+          text: '动词变形',
+          link: '/jp/grammar/verb',
+        },
       ],
     },
 

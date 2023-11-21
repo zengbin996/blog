@@ -3,11 +3,20 @@
 The rooms in the hotel is spacious and bright.
 It is easy and convenient to use this computer.
 Nick has a car.
-I learn to use the computer at three mouths.
 I have been studying computers for three months, but I don't know how to use them very well.
 
 What does Nick look like?
 Tall, long-legged, quite handsome.
+
+ホテルの部屋は広くて明るいです。
+このコンピュータの操作は簡単で便利です。
+森さんは車を持ちっています。
+３が月パソコンを練習しました、まだあまりできません。
+
+ホテルの部屋は広くて明るいです。
+このコンピュータの操作は簡単で便利です。
+森さんは車を持ちっています。
+３か月パソコンを練習しましたが、まだあまりできません。
 
 明るい　あかるい
 持ちます　もちます
@@ -16,11 +25,12 @@ Tall, long-legged, quite handsome.
 営業部　えいぎょうぶ
 住みます　すみます
 操作　そうさ
+練習　れんしゅう
 
 ホテルの部屋は広くて明るいです。
 このコンピュータの操作は簡単で便利です。
 森さんは車を持っています。
-３か月パスコンを練習しましたが、まだあまりできません。
+３か月パソコンを練習しましたが、まだあまりできません。
 
 使います　使って
 乗ります　乗って

@@ -3,6 +3,10 @@
     <Map />
     <Motto />
     <Photos />
+    <p class="text-center text-sm">
+      本网站由
+      <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">又拍云</a> 提供CDN加速/云存储功能
+    </p>
   </div>
 </template>
 
