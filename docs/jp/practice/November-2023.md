@@ -8,6 +8,31 @@ I have been studying computers for three months, but I don't know how to use the
 What does Nick look like?
 Tall, long-legged, quite handsome.
 
+What kind of country in Japan?
+It is clean and safe, but things are a bit high.
+
+Is Mr. Smith a company employee?
+Yes, He is the sales department director of a travel agency.
+
+Where does Nick live?
+He lives in New York with his family.
+
+森さんはどんな人ですか。
+背が高くて脚が長くて、ハンサムな人です。
+
+日本はどうですか。
+町がきれいで安全ですか、物が高いですね。
+
+たかい　高い
+あし　脚
+ながい　長い
+あんぜん　安全
+
+ホテルの部屋は広くて明るいです。
+このコンピュータ簡単で便利です。
+森さんは車を持ちっています。
+３が月パソコンを練習しました、まだあまりできません。
+
 ホテルの部屋は広くて明るいです。
 このコンピュータの操作は簡単で便利です。
 森さんは車を持ちっています。
