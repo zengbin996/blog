@@ -1,39 +1,5 @@
 # November
 
-長島さんはどこに住んでいますか。
-家族と一緒に渋谷に住んでいます。
-
-スミスさんは会社員ですか。
-ええ、旅行会社の社員で、営業部の部長です。
-
-日本はどうですか。
-町がきれいで安全ですが、物が高いです。
-
-森さんはどんな人ですか。
-背が高くて脚が長くて、ハンサム人です。
-
-ホテルの部屋は広くて明るいです。
-このコンピュータの操作は簡単で便利です。
-森さんは車を持ちっています。
-３が月パソコンを練習しましたが、まだあまりできません。
-
-The rooms in the hotel is spacious and bright.
-It is easy and convenient to use this computer.
-Nick has a car.
-I have been studying computers for three months, but I don't know how to use them very well.
-
-What does Nick look like?
-Tall, long-legged, quite handsome.
-
-What kind of country in Japan?
-It is clean and safe, but things are a bit high.
-
-Is Mr. Smith a company employee?
-Yes, He is the sales department director of a travel agency.
-
-Where does Nick live?
-He lives in New York with his family.
-
 ホテルの部屋は広くて明るいです。
 このコンピュータの操作は簡単で便利です。
 森さんは車を持ちっています。
@@ -51,17 +17,22 @@ He lives in New York with his family.
 長島さんはどこに住んでいますか。
 家族のといっしょに渋谷に住んでいます。
 
-森さんはどこに住んでいますか。
-家族といっしょに渋谷に住んでいます。
+The rooms in the hotel is spacious and bright.
+It is easy and convenient to use this computer.
+Nick has a car.
+I have been studying computers for three months, but I don't know how to use them very well.
 
-スミスさんは会社員ですか。
-ええ、旅行会社の社員で、営業部の部長です。
+What does Nick look like?
+Tall, long-legged, quite handsome.
 
-日本はどうですか。
-町がきれいで安全ですが、物が高いですね。
+What kind of country in Japan?
+It is clean and safe, but things are a bit high.
 
-森さんはどんな人ですか。
-背が高くてあしが長くて、ハンサム人です。
+Is Mr. Smith a company employee?
+Yes, He is the sales department director of a travel agency.
+
+Where does Nick live?
+He lives in New York with his family.
 
 ホテルの部屋は広くて明るいです。
 このコンピュータの操作は簡単で便利です。
