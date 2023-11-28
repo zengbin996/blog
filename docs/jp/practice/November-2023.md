@@ -1,5 +1,49 @@
 # November
 
+There are three books on the table.
+Nick wakes up at seven o'clock every day.
+I plan to meet Nick tomorrow.
+Nick goes to the movies twice a week.
+I'm going to the department store tomorrow to do some shopping.
+Nick has gone to the hospital.
+Nick is sitting on the chair.
+I go to school by subway every day.
+I am currently learning in the classroom.
+I make paper airplanes out of paper.
+Mount Fuji is the highest mountain in Japan.
+Five pieces of this cake cost 1,000 yen.
+I go home and do my homework.
+I go to he library to borrow books and then go home.
+I go out after eating.
+I will call my friend first and then go to his house.
+Please send this package by airmail.
+Please come to my house to hang out.
+May I see your album?
+May I have your phone number?
+
+机の上に本があります。
+李さんは毎日７時に起きます。
+明日、李さんに会います。
+李さんは週に２回映画を見ます。
+明日デパートへ買い物に行きます。
+李さんは病院に行きます。
+李さんは椅子に座りました。
+毎日、電車で学校へ行きます。
+今、教室で勉強しています。
+紙で紙飛行機を作ります。　つくります
+日本で富士山がいちばん高いです。　たかい
+このケーキは５個で千円です。　せんえん
+家へ帰って、宿題をします。　しゅくだい
+図書館へ行って、本を借りて、家へ帰ります。　としょかん　かります
+昼ご飯を食べてから、出かけます。
+電話をしてから、友達の家へ行きます。
+この荷物を航空便で送ってください。　こうくうびん　おくります
+家へ遊びに来てください。　あそびに　きます
+写真を見せてくださいませんか。
+電話番号を教えくださいませんか。
+
+---
+
 机の上に本が３冊あります。
 李さんは毎日７時間働きます。
 李さんは１週間２回プールへ行きます。
