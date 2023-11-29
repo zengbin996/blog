@@ -1,5 +1,51 @@
 # November
 
+This bus passes near the station.
+Turn the front corner to the right.
+leave home.
+Nick's Japanese is very good.
+The bus never came.
+Nick is reading the news.
+Tom isn't watching TV.
+Nick has a car.
+Nick lives in Beijing.
+May I use this computer?
+Yes, you can use it.
+Yes, you can.
+Yse, you can. Please go ahead and use it.
+Sorry, I'm currently using it.
+Can't I park here?
+Yes, You can't park here.
+No, You can park here.
+The entrance is small, but the middle is large.
+This teacher is gentle and beautiful.
+Nick is American and a student at the University of Tokyo.
+Has Nick gotten married?
+No, he hasn't gotten married yet.
+
+駅前を通ります。　とおります
+角を右へ曲がります。　かど　みぎ　まがります
+家を出ます。
+李さんは日本語がなかなか上手ですね。
+バスはなかなか来ませんね。
+小野さんは今新聞を読んでいます。
+李さんは今テレビを見ていません。
+森さんは車を持ちっています。
+李さんは北京に住んでいます。
+これを使ってもいいですか。
+はい、使ていいですよ。
+はい、いいですよ。
+はい、どうぞ。
+いえ、ちょっと、今使っていますから。
+ここに車を止めではいけません。　とめます
+はい、止めてはいけません。
+いいえ、止めてもいいですよ。
+入り口は狭いですが、中はとても広いですね。
+あの先生は優しくてきれいです。
+田中さんは日本人で、北京大学の留学生です。
+小野さんはもう結婚していますか。
+いいえ、まで結婚していません。
+
 There are three books on the table.
 Nick wakes up at seven o'clock every day.
 I plan to meet Nick tomorrow.
@@ -9,6 +55,7 @@ Nick has gone to the hospital.
 Nick is sitting on the chair.
 I go to school by subway every day.
 I am currently learning in the classroom.
+
 I make paper airplanes out of paper.
 Mount Fuji is the highest mountain in Japan.
 Five pieces of this cake cost 1,000 yen.
@@ -21,6 +68,18 @@ Please come to my house to hang out.
 May I see your album?
 May I have your phone number?
 
+紙で紙飛行機を作ります。
+日本で富士山がいちばん高いです。
+このケーキは５個で千円です。
+家へ帰って、宿題をします。
+図書館へ行って、本を借りて、家へ帰ります。借ります
+昼ご飯を食べてから、出かけます。
+電話をしてから、友達の家へ行きます。
+この荷物を航空便で送ってください。
+家へ遊びに来てください。
+写真を見せてくださいませんか。
+電話番号を教えてくださいませんか。
+
 机の上に本があります。
 李さんは毎日７時に起きます。
 明日、李さんに会います。
@@ -30,6 +89,7 @@ May I have your phone number?
 李さんは椅子に座りました。
 毎日、電車で学校へ行きます。
 今、教室で勉強しています。
+
 紙で紙飛行機を作ります。　つくります
 日本で富士山がいちばん高いです。　たかい
 このケーキは５個で千円です。　せんえん
