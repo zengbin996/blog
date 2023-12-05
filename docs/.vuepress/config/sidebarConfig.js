@@ -220,6 +220,7 @@ export default {
         { text: '第 15 课', link: '/jp/grammar/unit15' },
         { text: '第 16 课', link: '/jp/grammar/unit16' },
         { text: '总结 4', link: '/jp/grammar/unit16-2' },
+        { text: '第 17 课', link: '/jp/grammar/unit17' },
       ],
     },
   ],
