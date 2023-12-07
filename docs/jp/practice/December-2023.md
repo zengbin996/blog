@@ -1,5 +1,40 @@
 # December
 
+I want a new dress.
+I want to watch a movie.
+Can you go have tea with me?
+Take a break.
+
+What do you want to?
+I want to a cheap car.
+
+I'm going to go shopping in the department store today. Do you want to go with me.
+OK, let's go together.
+
+What do you want to do?
+Anything will be OK for me.
+
+Can you go to a concert on Saturday afternoon.
+Yes, I can.
+
+わたしは新しい洋服が欲しいです。
+わたしは映画を見たいです。
+いっしょにお茶を飲みませんか。
+ちょっと休みましょう。
+
+今何がいちばん欲しいですか。
+安い車が欲しいです。
+
+今デパートへ買い物に行きます。李さんもいっしょにどうですか。
+はい、ぜひ行きたいです。
+
+李さん、何を食べたいですか。
+何でも、いいです。
+
+土曜日の午後、コンサートへ行きませんか。
+いいですね。行きましょう。
+
+でぱ
 洋服　ようふく
 欲しい　ほしい
 ぜひ
@@ -30,6 +65,24 @@
 
 土曜日の午後、コンサートへ行きませんか。
 いいですね。行きましょう。
+
+今年　ことし
+います　机の上に猫がいます
+始めます　はじめます
+かしこまりました
+無理をします
+ロック
+手紙
+鼻　はな
+たまに
+苦手　にがて
+恋人　こいびと
+顔　かお
+まず
+行ってまいります
+閉めます
+直します
+男性
 
 ---
 
