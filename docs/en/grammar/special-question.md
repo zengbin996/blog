@@ -119,3 +119,126 @@ why 主要充当原因状语，其他作用极少，主谓宾和主系表都可�
 - Why are you so angry?
 - Why was she late just now?（一般过去时态）
 - Why were you silent just now?
+
+## whose 谁的
+
+whose 通常做前置定语，修饰名词，也就是：“whose + 名词”。可以用作宾语、表语和主语。
+
+### 作宾语
+
+1. 一般现在时态
+
+- Whose book do you like?
+- Whose songs does she listen to every day?
+
+2. 一般过去时态
+
+- Whose car did he steal last night?
+- Whose book did you take just now?
+
+3. 一般将来时态
+
+- Whose daughter will he marry next year?
+- Whose car will Jeff drive after class?
+- Whose money am I going to borrow tomorrow?
+
+4. 现在进行时态
+
+- Whose food are you tasting?
+- Whose wine is she drinking?
+
+5. 现在完成时态
+
+- Whose purse have you taken?
+- Whose cellphone has she borrowed?
+- Whose car have they driven for an hour?
+
+### 作表语
+
+- Whose is this car?
+- Whose is the book?
+- Whose are the books?
+- Whose is this computer?
+
+## When 什么时候
+
+When 主要充当时间状语和表语
+
+### 做时间状语
+
+1. 一般现在时态
+
+- When do you get up every morning?
+- When does she do homework?
+- When do they have dinner?
+
+2.  一般过去时态
+
+- When did you buy a house in Beijing?
+- When did she leave?
+- When did they clean the office?
+
+3. 一般将来时态
+
+- When will you buy a house in Beijing?
+- When will she go?
+- When are my fans going to bring me a buffalo?
+
+4. 主系表
+
+- When will Nick be famous?
+- When will she be a doctor?
+- When are you going to be free?
+
+### 做表语
+
+- When is your birthday?
+- When is next meeting?
+- When is her wedding?
+
+## whom 谁
+
+歧视，whom 作为疑问词已经差不多淘汰了，现代英语已经很少用了，基本都用 who。当然，whom 做定语从句的连接词还是很常见的。
+
+首先，因为 whom 是 who 的宾格，所以 whom 就是充当宾语。
+
+### 作宾语
+
+- Whom do you love?
+- Whom does she love?
+- Whom did you find just now?
+- Whom will you fire tomorrow?
+- Whom are they discussing?
+- Whom has he invited?
+
+## which 哪一个
+
+which 和 whose 的用法类似，都是做定语，修饰名词。只不过 whose 修饰可数名词单复数或不可数名词都可以。which 一般情况下只能修饰可数名词单数，特殊情况除外。
+
+### 做宾语
+
+句型结构：which + 名词单数 + 助动词 + 主语 + 及物动词 + (状语)
+
+- Which girl do you like?
+- Which book does she like?
+- Which man is Pandora going to marry?
+- Which house will you buy?
+- Which shirt did you pick just now?
+- Which movie have you watched?
+- Which lesson are you listening to?
+
+## how 如何，怎么样
+
+how 可以充当表语和方式状语。
+
+### 做表语
+
+how 做表语，一般用于一般现在时态和一般过去时态，其他一般不用。how 做表语的句型也叫万用句型，因为能做主语并且符合逻辑的词语非常多，可以是表语人的词语，可以是表示物的词语，甚至可以是抽象概念的词语也可以。
+
+- How are you?
+- How is your mother?
+- How are your kinds?
+- How is your business?
+- How is your trip?
+- How was your weekend?
+- How have you been?
