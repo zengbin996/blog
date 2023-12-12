@@ -1,5 +1,35 @@
 # December
 
+The mobile has become smaller.
+Make the sound on your TV louder.
+My son become a doctor.
+Please keep the room clean.
+
+おと　音
+むすこ　息子
+いしゃ　医者
+できるだけ（尽量）
+おじょうさん　お嬢さん
+うるさい（吵闹）
+かるい　軽い（轻）
+
+携帯電はとても小さくなりました。
+テレビの音大きくします。
+息子は医者になりました。
+部屋にきれいにしてください。
+
+携帯電話はとても小さくなりました。
+テレビの音大きくします。
+息子は医者になりました。
+部屋にきれいにしてください。
+
+携帯電話はとても小さくなりました。
+テレビの音大きくします。
+息子は医者になりました。
+部屋にきれいにしてください。
+
+---
+
 I want a new dress.
 I want to watch a movie.
 Can you go have tea with me?
