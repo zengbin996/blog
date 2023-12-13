@@ -1,9 +1,26 @@
 # December
 
+風邪はどうですか。
+ゆうべ薬を飲みましたが、まだよくなりません。
+
+旅行の荷物は軽いほうがいいですよ。
+はい。できるだけ軽くします。
+
+風邪はどうですか。
+ゆうべ薬を飲みましたが、まだよくなりません。
+
+旅行の荷物は軽いほうがいいですよ。
+はい。できるだけ軽くします。
+
 The mobile has become smaller.
 Make the sound on your TV louder.
 My son become a doctor.
 Please keep the room clean.
+
+携帯電話はとても小さくなりました。
+テレビの音大きくします。
+息子は医者になりました。
+部屋にきれいにしてください。
 
 おと　音
 むすこ　息子
