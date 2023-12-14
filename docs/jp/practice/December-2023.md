@@ -1,21 +1,50 @@
 # December
 
+携帯電話はとても小さくなりました。
+テレビの音大きくします。
+息子は医者になりました。
+部屋にきれいにしてください。
+
 風邪はどうですか。
 ゆうべ薬を飲みましたが、まだよくなりません。
 
 旅行の荷物は軽いほうがいいですよ。
 はい。できるだけ軽くします。
 
-風邪はどうですか。
-ゆうべ薬を飲みましたが、まだよくなりません。
+お嬢さんはおいくつですか。
+今年７歳になりました。
 
-旅行の荷物は軽いほうがいいですよ。
-はい。できるだけ軽くします。
+あのう、ちょっとうるさいですよ。
+あっ、すみません。静かにします。
 
 The mobile has become smaller.
 Make the sound on your TV louder.
 My son become a doctor.
 Please keep the room clean.
+
+Are you getting better from your cold?
+I took my medicine last night. but I'm not better yet.
+
+You should travel with a little less luggage.
+Okay, I will try to bring a litter less.
+
+How old is your daughter?
+She is 7 years old.
+
+Hi, it's a bit noisy.
+I'm sorry, I'm going to be quiet.
+
+風邪はどうですか。
+ゆうべ薬を飲みましたが、まだよくなりません。
+
+旅行の荷物は軽いほうがいいですよ。
+はい。できるだけ軽くします。
+
+風邪はどうですか。
+ゆうべ薬を飲みましたが、まだよくなりません。
+
+旅行の荷物は軽いほうがいいですよ。
+はい。できるだけ軽くします。
 
 携帯電話はとても小さくなりました。
 テレビの音大きくします。
