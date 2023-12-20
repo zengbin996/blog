@@ -3,8 +3,36 @@
 Don't forget your room key.
 Nick has to get home early today.
 It's okay if you don't work overtime tomorrow.
-
 That person is Nick.
+
+Please don't touch that item.
+I'm sorry.
+
+Nick, Can we go have a meal together.
+I'm sorry. but I have to to go home early today to work on a report.
+
+Doctor, Can I not take medicine? (Doctor, is it okay if I don't take medicine?)
+Yes, you can.
+
+Is Nick here?
+I am Nick.
+
+その品物に触らないでください。
+あっ、すみません。
+
+李さん、いっしょに食事に行きませんか。
+すみません。今日は早く帰って、レポートを書かなければなりません。
+
+先生、もう薬を飲まなくてもいいですか。
+はい、いいですよ。
+
+吉田課長はいますか。
+わたしは吉田ですが。
+
+部屋のかぎを忘れないでください。
+李さん今日早く帰らなければなりません。
+明日は全業しなくてもいいですよ。
+あの人が吉田課長です。
 
 部屋のかぎを忘れないでください。
 李さん今日早く帰らなければなりません。
@@ -23,7 +51,7 @@ That person is Nick.
 明日は全業しなくてもいいですよ。
 あの人が吉田課長ですよ。
 
-ぬぎます
+ぬぎます　
 ぬぎます
 ぬぎます
 
