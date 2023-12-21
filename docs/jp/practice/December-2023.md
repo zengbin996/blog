@@ -1,5 +1,30 @@
 # December
 
+Nick, this is my first time skiing, so I'm little scared.
+Don't worry, this is a slide for beginners.
+
+小野さん、初めてですから、ちょっと怖いです。
+心配しなくてもいいですよ。ここは初心者コースですから。
+森さん、小野さん、待ってください。
+急がなくてもいいですよ。わたしたちもゆっくり滑りますから。
+
+部屋のかぎを忘れないでください。
+李さん今日早く帰らなければなりません。
+明日は全業しなくてもいいですよ。
+あの人が吉田課長です。
+
+品物に触らないでください。
+あっ、すみません。
+
+李さん、いっしょに食事に行きませんか。
+すみません。今日は早く帰って、レポートを書かなければなりません。
+
+先生、もう薬を飲まなくてもいいですか。
+はい、いいですよ。
+
+吉田課長はいますか。
+わたしは吉田ですが。
+
 Don't forget your room key.
 Nick has to get home early today.
 It's okay if you don't work overtime tomorrow.
