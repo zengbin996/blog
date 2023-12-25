@@ -222,6 +222,8 @@ export default {
         { text: '总结 4', link: '/jp/grammar/unit16-2' },
         { text: '第 17 课', link: '/jp/grammar/unit17' },
         { text: '第 18 课', link: '/jp/grammar/unit18' },
+        { text: '第 19 课', link: '/jp/grammar/unit19' },
+        { text: '第 20 课', link: '/jp/grammar/unit20' },
       ],
     },
   ],
