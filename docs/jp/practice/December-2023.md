@@ -1,5 +1,45 @@
 # December
 
+Smith can play the piano.
+I hobby is collecting stamps.
+Make this call before you come.
+Where do you want to go during winter vacation?
+
+Can you drive?
+Yes, I can.
+
+May I take a picture here?
+No, you can't take picture here.
+
+Do you have any hobbies?
+Yes, my hobby is listening to music.
+
+When do you play the guitar?
+I play the guitar before sleeping.
+
+スミスさんはピアノを弾くことができます。
+わたしの趣味は切手を集めることです。
+こちらへ来る前に、電話をかけてください。
+冬休み、どこがへ行きたいです。
+
+弾きます　ひきます
+趣味　しゅみ
+集めます　あつめます
+運転　うんてん
+撮ります　とります
+聞きます　ききます
+来る　くる
+
+スミスさんはピアノを弾くことができます。
+わたしの趣味は切手を集めることです。
+こちらへ来る前に、電話をかけてください。
+冬休み、どこかへ行きたいです。
+
+スミスさんはピアノを弾くことができます。
+わたしの趣味は切手を集めることです。
+こちらへ来る前に、電話をかけてください。
+冬休み、どこかへ行きたいです。
+
 部屋のかぎを忘れないでください。
 李さん今日早く帰らなければなりません。
 明日は全業しなくてもいいですよ。
