@@ -11,7 +11,47 @@ No, I have never eaten sushi, but I have had tempura.
 Can I take a look at this information?
 Sure, after you finish, please hand it to Mr.Nick.
 
+It's better to make a reservation for the restaurant in advance.
+Yes, indeed. Since it's long holiday, it's better to make a reservation in advance.
+
+Shall we eat something.
+NO, It's better not to eat anything before going to bed.
+
+わたしはすき焼きを食べたことがあります。
+李さんは会社が終わった後で、飲みに行きます。
+もっと野菜を食べたほうがいいですよ。
+窓を閉めましょうか。
+
+寿司を食べたことがありますか。
+いいえ、一度もまりません。天ぷらは食べたことがあります。
+
+資料を見てもいいですか。
+はい、読んだ後で、森さんに渡してください。
+
+ホテルを予約したほうがいいですか。
+そうですね。連休ですから、そのほうがいいですね。
+
+何か食べましょうか。
+いいえ。寝る前に食べないほうがいいですよ。
+
 ---
+
+わたしはすき焼きを食べたことがあります。
+李さんは会社が終わった後で、飲みに行きます。
+もっと野菜を食べたほうがいいですよ。
+窓を閉めましょうか。
+
+寿司を食べたことがありますか。
+いいえ、一度もありません。天ぷらは食べたことがあります。
+
+資料を見てもいいですか。
+はい、読んだ後で、森さんに渡してください。
+
+ホテルを予約したほうがいいですか。
+そうですね。連休ですから、そのほうがいいですね。
+
+何か食べましょうか。
+いいえ。寝る前に食べないほうがいいですよ。
 
 わたしはすき焼きを食べたことがあります。
 李さんは会社が終わった後で、飲みに行きます。
