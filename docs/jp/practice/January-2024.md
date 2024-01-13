@@ -1,5 +1,22 @@
 # January.2024
 
+わたしはすき焼きを食べたことがあります。
+李さんは会社が終わった後で、飲みに行きます。
+もっと野菜を食べたほうがいいですよ。
+窓を閉めましょうか。
+
+寿司を食べたことがありますか。
+いいえ、一度もありません。天ぷらは食べたことがあります。
+
+資料を見てもいいですか。
+はい、読んだ後で、森さんに渡してください。
+
+ホテルを予約したほうがいいですか。
+そうですね。連休ですから、そのほうがいいですね。
+
+何か食べましょうか。
+いいえ。寝る前に食べないほうがいいですよ。
+
 I have had beef hotpot.
 Nick goes to drink wine after getting off work.
 Eating more vegetables is better.
@@ -15,7 +32,7 @@ It's better to make a reservation for the restaurant in advance.
 Yes, indeed. Since it's long holiday, it's better to make a reservation in advance.
 
 Shall we eat something.
-NO, It's better not to eat anything before going to bed.
+No, It's better not to eat anything before going to bed.
 
 わたしはすき焼きを食べたことがあります。
 李さんは会社が終わった後で、飲みに行きます。
