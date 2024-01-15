@@ -1,5 +1,62 @@
 # January.2024
 
+Nick watches TV every night.
+I was very busy yesterday.
+Using the computer is not easy.
+It's overcast sky today.
+
+Going bowling tomorrow, how does that sound?
+I'm sorry, I have work tomorrow.
+
+How did do on the exam yesterday?
+It was a bit challenging, but I managed to answer most of the questions.
+
+Is That tie very fancy?
+No, not at all fancy.
+
+Do you know Nick's phone number?
+Yes, I do. It's 3659-9654.
+
+曇り　くもり
+仕事　しごと
+知って　しって
+
+森さんは毎晩テレビを見る。
+昨日はとても忙しかった。
+コンピュータは簡単ではない。
+今日は曇りだ。
+
+明日ボーリングに行かない？
+ごめん。明日は仕事があるから。
+
+昨日の試験、どうだった？
+ちょっと難しかったけど、まあまあできたよ。
+
+このネクタイ、派手？
+ううん、ぜんぜん派手じゃないわ。
+
+森さんの電話番号、知ってる？
+うん、知ってる。3493-3945 だよ。
+
+森さんは毎晩テレビを見る。
+昨日はとても忙しかった。
+コンピュータは簡単ではない。
+今日は曇りだ。
+
+明日ボーリングに行かない？
+ごめん。明日は仕事があるから。
+
+昨日の試験、どうだった？
+ちょっと難しかったけど、まあまあできたよ。
+
+このネクタイ、派手？
+ううん、ぜんぜん派手じゃないわ。
+
+森さんの電話番号、知ってる？
+うん、知ってる。3493-3945 だよ。
+
+---
+
 わたしはすき焼きを食べたことがあります。
 李さんは会社が終わった後で、飲みに行きます。
 もっと野菜を食べたほうがいいですよ。
