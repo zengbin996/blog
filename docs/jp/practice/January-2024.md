@@ -11,11 +11,35 @@ I'm sorry, I have work tomorrow.
 How did do on the exam yesterday?
 It was a bit challenging, but I managed to answer most of the questions.
 
-Is That tie very fancy?
+Is that tie very fancy?
 No, not at all fancy.
 
 Do you know Nick's phone number?
 Yes, I do. It's 3659-9654.
+
+森さんは毎晩テレビを見る。
+明日は忙しかった。
+コンピュータは簡単ではない。
+今日は曇りだ。
+
+森さんは毎晩テレビを見る。
+明日は忙しかった。
+コンピュータは簡単ではない。
+今日は曇りだ。
+
+明日はボーリングに行かない？
+ごめん。明日は仕事があるから。
+
+昨日は試験、どうだった？
+ちょっと難しかったけど、まあまあできたよ。
+
+このネクタイ、派手？
+ううん、ぜんぜん派手じゃないわ。
+
+森さんの電話番号、知ってる？
+うん、知ってる。3493-3945 だよ。
+
+---
 
 Nick watches TV every day.
 I was very busy yesterday.
