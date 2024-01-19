@@ -17,6 +17,54 @@ No, not at all fancy.
 Do you know Nick's phone number?
 Yes, I do. It's 3659-9654.
 
+Nick watches TV every night.
+I was busy tomorrow.
+Using the computer is not easy.
+It's overcast sky today.
+
+Going bowling tomorrow, how does that sound?
+I'm sorry, I have work tomorrow.
+
+Is that tie very fancy?
+No, not at all fancy.
+
+Do you Nick's phone number?
+Yes, I do. It's 3659-9654.
+
+森さんは毎晩テレビを見る。
+昨日は忙しかった。
+コンピュータは簡単ではない。
+今日は曇りだ。
+
+明日はボーリングに行かない？
+ごめん。明日は仕事があるから。
+
+昨日は試験どうだった？
+ちょっと難しかったけど、まあまあできたよ。
+
+このネクタイ、派手？
+ううん、ぜんぜん派手じゃないわ。
+
+森さんの電話番号知ってる？
+うん、知ってる。3493-3945 だよ。
+
+森さんは毎晩テレビを見る。
+明日は忙しかった。
+コンピュータは簡単ではない。
+今日は曇りだ。
+
+明日はボーリングに行かない？
+ごめん。明日は仕事あるから。
+
+昨日は試験、どうだった？
+ちょっと難しかったけど、まあまあできたよ。
+
+このネクタイ、派手？
+ううん、ぜんぜん派手じゃなぃわ。
+
+森さんの電話番号知ってる？
+うん、知ってる。3493-3945 だよ。
+
 森さんは毎晩テレビを見る。
 明日は忙しかった。
 コンピュータは簡単ではない。
