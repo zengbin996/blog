@@ -1,5 +1,33 @@
 # January.2024
 
+On Lucy's day off, she sometimes goes for a walk and sometimes goes shopping.
+Sometimes, the teachers who teach Japanese are Chinese, and other times they are Japanese.
+I don't know if I will go to Canada this summer or not.
+Please tell me where the key is.
+
+What did you do last week?
+I went to skating and played bowling.
+
+How much does the air ticket to Beijing cost?
+The price varies depending on the season, sometimes it's high, sometimes it's low.
+
+小野さんは休みの日、散歩したり買い物に行ったりします。
+日本語の先生は中国人だったり日本人だったりです。
+わたしは今年の夏、北京へ行くかどうか分かりません。
+かぎがどこにあるか教えてください。
+
+週末に何をしましたか。
+スケートをしたり、ボーリングをしたりしました。
+
+北京まで、飛行機のチケットはいくらぐらいですか。
+季節によって高かったり安かったりです。
+
+李さん、仕事は忙しいですか。
+ええ、日によって暇だったり忙しかったりです。
+
+森さんが何時ごろ来るか知っていますか。
+いいえ。今日は来るかどうか分かりません。
+
 Nick watches TV every night.
 I was very busy yesterday.
 Using the computer is not easy.
