@@ -11,6 +11,36 @@ I went to skating and played bowling.
 How much does the air ticket to Beijing cost?
 The price varies depending on the season, sometimes it's high, sometimes it's low.
 
+Nick, Is your job busy?
+Well, it varies every day. Sometimes I have free time, and sometimes I'm busy.
+
+Do you know what time Nick will come?
+No, I don't know if he will come today or not.
+
+---
+
+小野さんは休みの日散歩したり買い物に行ったりします。
+日本語の先生は中国人だったり日本人だったりです。
+わたしは今年の夏北京へ行くかどうかわかりません。
+かぎがどこにあるか教えてください。
+
+小野さんは休みの日、散歩したり買い物に行ったりします。
+日本語の先生は中国人だったり日本人だったりです。
+わたしは今年の夏、北京へ行くかどうか分かりません。
+かぎがどこにあるか教えてください。
+
+週末に何をしましたか。
+スケートをしたり、ボーリングをしたりしました。
+
+北京まで、飛行機のチケットはいくらぐらいですか。
+季節によって高かったり安かったりです。
+
+李さん、仕事は忙しいですか。
+ええ、日によって暇だったり忙しかったりです。
+
+森さんが何時ごろ来るか知っていますか。
+いいえ。今日は来るかどうか分かりません。
+
 小野さんは休みの日、散歩したり買い物に行ったりします。
 日本語の先生は中国人だったり日本人だったりです。
 わたしは今年の夏、北京へ行くかどうか分かりません。
