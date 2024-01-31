@@ -1,5 +1,22 @@
 # January.2024
 
+李さんはもうすぐ来ると思います。
+陳さんはパーティーに行くと言いました。
+すみません、頭が痛いんです。
+東京タワーへ行きたいんですが、どうやって行きますか。
+
+日本の音楽についてどう思いますか。
+すばらしいと思います。
+
+課長はなんと言いましたか。
+午後から出かけると言いました。
+
+どうして食べないんですか。
+もうおなかがいっぱいなんです。
+
+李さんを探しているんですが、どこにいますか。
+会議室にいると思います。
+
 On Lucy's day off, she sometimes goes for a walk and sometimes goes shopping.
 Sometimes, the teachers who teach Japanese are Chinese, and other times they are Japanese.
 I don't know if I will go to Canada this summer or not.
