@@ -1,0 +1,54 @@
+I think Mr. Lee will come soon.
+Mr. Chen said he was going to a party.
+Sorry, my head hurts.
+I want to go to Tokyo Tower, but how do I get there?
+
+What do you think about Japanese music?
+I think it's wonderful.
+
+What did the manager say?
+He said he would go out in the afternoon.
+
+Why don't you eat?
+I'm already full.
+
+I'm looking for Mr. Lee, Where is he?
+I think he's in the conference room.
+
+李さんはもうすぐ来ると思います。
+陳さんはパーティーに行くと言いました。
+すみません、頭が痛いんです。
+東京タワーへ行きたいんですが、どうやって行きますか。
+
+日本の音楽についてどう思いますか。
+すばらしいと思います。
+
+課長はなんと言いましたか。
+午後から出かけると言いました。
+
+どうして食べないんですか。
+もうおなかがいっぱいなんです。
+
+李さんを探しているんですが、どこにいますか。
+会議室にいると思います。
+
+李さんはもうすぐ来ると思います。
+陳さんはパーティーに行くと言いました。
+すみません、頭が痛いんです。
+東京タワーへ行きたいんですが、どうやって行きますか。
+
+日本の音楽についてどう思いますか。
+すばらしいと思います。
+
+課長はなんと言いましたか。
+午後から出かけると言いました。
+
+どうして食べないんですか。
+もうおなかがいっぱいなんです。
+
+李さんを探しているんですが、どこにいますか。
+会議室にいると思います。
+
+あたま　頭
+いたい　痛い
+さがします　探します
