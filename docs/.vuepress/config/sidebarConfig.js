@@ -7,11 +7,6 @@ export default {
         '/it/before/',
 
         {
-          text: '常用开发软件设置本地代理方法',
-          link: '/it/network/proxy',
-        },
-
-        {
           text: '微信授权登录',
           link: '/it/before/weixin-login',
         },
@@ -76,6 +71,7 @@ export default {
     {
       text: '网络/运维',
       children: [
+        '/it/network/proxy',
         '/it/network/',
         '/it/network/webhooks-git-auto',
         '/it/network/Nginx-reverse-proxy',
@@ -236,6 +232,7 @@ export default {
         { text: '第 23 课', link: '/jp/grammar/unit23' },
         { text: '第 24 课', link: '/jp/grammar/unit24' },
         { text: '总结 6', link: '/jp/grammar/unit24-2' },
+        { text: '第 25 课', link: '/jp/grammar/unit25' },
       ],
     },
   ],
