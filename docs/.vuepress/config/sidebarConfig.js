@@ -5,6 +5,12 @@ export default {
       text: '前端',
       children: [
         '/it/before/',
+
+        {
+          text: '常用开发软件设置本地代理方法',
+          link: '/it/network/proxy',
+        },
+
         {
           text: '微信授权登录',
           link: '/it/before/weixin-login',

@@ -5,8 +5,8 @@
 设置代理
 
 ```bash
-git config --global http.proxy socks5 127.0.0.1:10808
-git config --global https.proxy socks5 127.0.0.1:10808
+git config --global http.proxy socks5://127.0.0.1:10808
+git config --global https.proxy socks5://127.0.0.1:10808
 ```
 
 查看代理
@@ -21,6 +21,16 @@ git config --global --get https.proxy
 ```bash
 git config --global --unset http.proxy
 git config --global --unset https.proxy
+```
+
+设置尽在连接`github.com`时有效
+
+```bash
+git config --global http.https://github.com.proxy socks5://127.0.0.1:10808
+
+git config --global --unset http.https://github.com.proxy
+
+git config --global --get http.https://github.com.proxy
 ```
 
 ## npm
@@ -88,4 +98,27 @@ yarn config set registry https://registry.npmmirror.com/
 
 ```bash
 yarn config set registry https://registry.yarnpkg.com/
+```
+
+2. 设置代理
+
+查看代理
+
+```bash
+yarn config get proxy
+yarn config get https-proxy
+```
+
+设置代理
+
+```bash
+yarn config set proxy socks5://127.0.0.1:10808
+yarn config set https-proxy socks5://127.0.0.1:10808
+```
+
+删除代理
+
+```bash
+yarn config delete proxy
+yarn config delete https-proxy
 ```
