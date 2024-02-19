@@ -1,12 +1,32 @@
+This is the data that will be used for tomorrow's meeting.
+The plane that I will fiy tomorrow belongs to Air China.
+
 これは明日会議で使う資料です。
 わたしが明日乗る飛行機は中国航空です。
 中国で買った CD を友達に貸しました。
 操作が簡単なパソコンが欲しいです。
 
+李さん、この人はだれですか。
+その人は中国でとても人気がある女優です。
+
+あの窓のところにいる人はだれですか。
+あれは受付の戴さんですよ。
+
+何をしているんですか。
+昨日李さんにもらった本を読んでいます。
+
+この会社で歌がいちばん上手な人はだれですか。
+森さんだと思います。
+
 かいぎ　会議
 つかう　使う
 かいます　買います
 かします　貸します
+にんき　人気
+じょゆう　女優
+まど　窓
+うけつけ　受付
+たい　戴
 
 I think Mr. Lee will come soon.
 Mr. Chen said he was going to a party.
