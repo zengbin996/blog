@@ -1,5 +1,23 @@
 This is the data that will be used for tomorrow's meeting.
 The plane that I will fiy tomorrow belongs to Air China.
+The CD that was bought in China has been lent to My friend.
+I want to a computer that easy to operate.
+
+Nick, What is this person?
+That person is a famous actor from China.
+
+Who is the person beside the window?
+That person is Mr.Dai from the reception.
+
+これは明日会議で使う資料です。
+わたしが明日乗る飛行機は中国航空です。
+中国で買った CD を友達に貸しました。
+操作が簡単なパソコンが欲しいです。
+
+これは明日会議で使う資料です。
+わたしが明日乗る飛行機は中国航空です。
+中国で買った CD を友達に貸しました。
+操作が簡単なパソコンが欲しいです。
 
 これは明日会議で使う資料です。
 わたしが明日乗る飛行機は中国航空です。
