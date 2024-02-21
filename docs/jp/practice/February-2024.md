@@ -9,7 +9,30 @@ That person is a famous actor from China.
 Who is the person beside the window?
 That person is Mr.Dai from the reception.
 
+What are you doing?
+I'm reading the book that Nick gave me yesterday.
+
+Who is the best singer in the company?
+I think it ought to be Nick.
+
+李さん、この人はだれですか。
+その人は中国でとても人気がある女優です。
+
+あの窓のところにいる人は誰ですか。
+あれは受付の戴さんですよ。
+
+何をしているんですか。
+昨日李さんにもらった本を読んでいます。
+
+この会社で歌がいちばん上手な人はだれですか。
+森さんだと思います。
+
 これは明日会議で使う資料です。
+わたしは明日乗る飛行機は中国航空です。
+中国で買った CD を友達に貸しました。
+操作が簡単なパソコンが欲しいです。
+
+こ れは明日会議で使う資料です。
 わたしが明日乗る飛行機は中国航空です。
 中国で買った CD を友達に貸しました。
 操作が簡単なパソコンが欲しいです。
