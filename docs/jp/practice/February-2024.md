@@ -1,3 +1,20 @@
+自転車に 2 人で乗るのは危ないです。
+手紙を出すのを忘れました。
+明日の朝は大雨になるでしょう。
+森さんは今日会社を休むかもしれません。
+
+李さんは絵をかくのが好きですね。
+ええ、大好きです。でも、あまり上手ではありませんよ。
+
+吉田さんが転勤したのを知っていますか。
+えっ、本当ですか。知りませんでした。
+
+会議は何時に終わりますか。
+2 時には終わるでしょう。
+
+馬さんはまだ来ませんね。
+もしかしたら、今日は来ないかもしれませんよ。
+
 This is the data that will be used for tomorrow's meeting.
 The plane that I will fiy tomorrow belongs to Air China.
 The CD that was bought in China has been lent to My friend.
