@@ -12,10 +12,7 @@
   },
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "build:blog": "cross-env base=/blog/ vuepress build docs",
-    "start-backend": "nodemon ./server/index.js",
-    "cos": "node ./server/cos-deploy.js"
+    "build": "vuepress build docs"
   },
   "dependencies": {
     "@vuepress/plugin-docsearch": "^2.0.0-beta.61",
