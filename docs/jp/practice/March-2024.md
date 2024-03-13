@@ -1,7 +1,44 @@
-Nick gave me a map for.
+Nick gave me a map.
 Jack helps the old man take the luggage.
 Lucy asked Nick to show him around Beijing.
 A woman picks up my wallet.
+
+Nick gave me a map.
+Jack helps the old man take the luggage.
+Lucy asked Nick to show him around Beijing.
+A woman picks up mu wallet.
+
+This is a pretty scarf.
+Okay, it's what Lucy gave me on my birthday.
+
+Nick is moving tomorrow, isn't he?
+Yes, we will go help her.
+
+I don't get this article.
+You can ask Lucy to help translate it, because she is proficient in English.
+
+Thank you very much for sending me the delicious tea.
+No, you're welcome.
+
+馬さんはわたしに地図をくれました。
+森さんはお年寄りの荷物を持ってあげました。
+森さんは李さんに北京を案内してもらいました。
+女の人がわたしの財布を拾ってくれました。
+
+馬さんはわたしに地図をくれました。
+森さんはお年寄りの荷物を持ってあげました。
+森さんは李さんに北京を案内してもらいました。
+女の人がわたしの財布を拾ってくれました。
+
+馬さんはわたしに地図をくれました。
+森さんはお年寄りの荷物を持ってあげました。
+森さんは李さんに北京を案内してもらいました。
+女の人がわたしの財布を拾ってくれました。
+
+お年寄り　おとしより
+案内　あんない
+女　おんな
+拾る　ひろる
 
 馬さんはわたしに地図をくれました。
 森さんはお年寄りの荷物を持ってあげました。
