@@ -1,3 +1,27 @@
+Nick gave me a map for.
+Jack helps the old man take the luggage.
+Lucy asked Nick to show him around Beijing.
+A woman picks up my wallet.
+
+馬さんはわたしに地図をくれました。
+森さんはお年寄りの荷物を持ってあげました。
+森さんは李さんに北京を案内してもらいました。
+女の人がわたしの財布を拾ってくれました。
+
+すてきなマフラーですね。
+ええ、小野さんが誕生日にくれたんです。
+
+森さんは明日引っ越しですね。
+ええ、みんなで手伝ってあげましょう。
+
+この文章の意味が分からないんですが。
+戴さんに訳してもらいましょう。英語が得意ですから。
+
+おいしいお茶を送ってくれて、どうもありがとう。
+いいえ、どういたしまして。
+
+---
+
 When I was a child, there was a big earthquake.
 When I watch movies, I always sit in the back seat.
 Mr.Lee is eating while watching TV.
