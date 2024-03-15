@@ -8,6 +8,11 @@ Jack helps the old man take the luggage.
 Lucy asked Nick to show him around Beijing.
 A woman picks up mu wallet.
 
+Nick gave me a map.
+Jack helps the old man take the luggage.
+Lucy asked Nick to show him around Beijing.
+A woman picks up my wallet.
+
 This is a pretty scarf.
 Okay, it's what Lucy gave me on my birthday.
 
@@ -20,10 +25,36 @@ You can ask Lucy to help translate it, because she is proficient in English.
 Thank you very much for sending me the delicious tea.
 No, you're welcome.
 
-Nick gave me a map.
-Jack helps the old man take the luggage.
-Lucy asked Nick to show him around Beijing.
-A woman picks up my wallet.
+すてきなマフラーですね。
+ええ、小野さんが誕生日にくれたんです。
+
+森さんは明日引っ越しですね。
+ええ、みんなで手伝ってあげましょう。
+
+すてきなマフラーですね。
+ええ、小野さんが誕生日にくれたんです。
+
+森さんは明日引っ越しですね。
+ええ、みんなで手伝ってあげましょう。
+
+すてきなマフラーですね。
+ええ、小野さんが誕生日にくれたんです。
+
+森さんは明日引っ越しですね。
+ええ、みんなで手伝ったあげましょう。
+
+すてきなマフラーですね。
+ええ、小野さんが誕生日にくれました。
+
+森さんは明日引っ越しですね。
+ええ、みんなで手伝ってあげましょう。
+
+手伝う　てつだう
+
+馬さんはわたしに地図をくれました。
+森さんはお年寄りの荷物を持ってあげました。
+森さんは李さんに北京を案内してもらいました。
+女の人がわたしの財布を拾ってくれました。
 
 馬さんはわたしに地図をくれました。
 森さんはお年寄りの荷物を持ってあげました。
