@@ -242,3 +242,64 @@ how 做表语，一般用于一般现在时态和一般过去时态，其他一�
 - How is your trip?
 - How was your weekend?
 - How have you been?
+
+### 做方式状语
+
+- How do you learn English?
+- How does she do business?
+- How did he open th door last night?
+- How did they die last year?
+- How will they build the house?
+- How are you going to cook the duck?
+
+### how + 形容词/副词
+
+1. How long 多久/多长时间
+
+how long 做时间状语，主要用于现在完成时态第一种用法，必须使用延续性都给你吃，句型如下：
+
+- How long have you been a teacher?
+- How long have you learned English?
+- How long has Nick taught English?
+
+- How long is your hair?
+- How long is the river?
+
+2. how far 多远
+
+how far 主要做表语，偶尔可以做状语。句型如下：
+
+- How far is your home?
+- How far is your school?
+
+有时候，这个句型还可以加一个地点状语，由“from + 地点”构成的介词短语做地点状语，表示“离···有多远”。
+
+- How far is your hometown form here?
+- How far is Beijing from Guangxi?
+- How far is your home from your school?
+
+3. how much/how many 多少
+
+how much 可以做表语，表示“多少钱”，问商品的价格，句型如下：
+
+- How much is your computer?
+
+how much 可以做定语，修饰不可数名词，注意，一定不能修饰可数名词，然后“how much + 不可数名词” = 新的复合疑问词，这个复合疑问词可以做宾语和主语。
+
+- How much money do you have?
+- How much beer did you drink last night?
+- How much wine will they produce next month?
+
+做宾语
+
+- How many books did you buy last year?
+- How many lovers do you have?
+- How many fans will I have at the end or this year?
+
+4. how often 多久一次
+
+“how often”主要做状语，因为表示频率，喜欢用在一般现在时态里面，句型如下：
+
+- How often do you go home?
+- How often do they run in the park?
+- How often does she have dinner at home?
