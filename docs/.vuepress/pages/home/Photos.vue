@@ -33,7 +33,23 @@
 
 <script setup>
 import { onMounted, ref, reactive } from 'vue';
-import { throttle } from 'lodash';
+function throttle(func, wait, options) {
+  var leading = true,
+    trailing = true;
+
+  if (typeof func != 'function') {
+    throw new TypeError(FUNC_ERROR_TEXT);
+  }
+  if (isObject(options)) {
+    leading = 'leading' in options ? !!options.leading : leading;
+    trailing = 'trailing' in options ? !!options.trailing : trailing;
+  }
+  return debounce(func, wait, {
+    leading: leading,
+    maxWait: wait,
+    trailing: trailing,
+  });
+}
 
 let tencentOSS = [
   'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E4%B8%9C%E5%B1%B1%E5%B2%9B.jpg',
