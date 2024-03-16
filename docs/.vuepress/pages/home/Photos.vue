@@ -32,37 +32,8 @@
 </template>
 
 <script setup>
-import _ from 'lodash';
-import $ from 'jquery';
 import { onMounted, ref, reactive } from 'vue';
-
-const photos = {
-  w: [
-    'https://s1.ax1x.com/2023/04/13/ppv2wDg.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv26Cq.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fkTI.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fimd.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2rUs.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2dKS.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2Ngf.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2t8P.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2YCt.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2G4I.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv23Ed.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fVtP.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fEkt.md.jpg',
-  ],
-  h: [
-    'https://s1.ax1x.com/2023/04/13/ppv28UA.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2g2V.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2c80.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv20bQ.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2Uv8.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fn1S.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fmp8.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fZff.md.jpg',
-  ],
-};
+import { throttle } from 'lodash';
 
 let tencentOSS = [
   'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E4%B8%9C%E5%B1%B1%E5%B2%9B.jpg',
@@ -83,7 +54,7 @@ let tencentOSS = [
   'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E9%BB%84%E5%B1%B1%E8%87%AA%E5%B7%B1.jpg',
 ];
 
-tencentOSS = tencentOSS.map((a) => (a += '?imageMogr2/thumbnail/!25p'));
+tencentOSS = tencentOSS.map(a => (a += '?imageMogr2/thumbnail/!25p'));
 
 const imgFirstContainer = ref(null);
 const imgSecondContainer = ref(null);
@@ -106,11 +77,11 @@ const calcHeight = () => {
   }
 
   // 图片显示动画效果;
-  $('.img-box').each(function () {
-    if ($(this).css('display') === 'block') {
-      $(this).find('img').css('opacity', '1');
+  document.querySelectorAll('.img-box').forEach(function (element) {
+    if (window.getComputedStyle(element).display === 'block') {
+      element.querySelector('img').style.opacity = '1';
     } else {
-      $(this).find('img').css('opacity', '0');
+      element.querySelector('img').style.opacity = '0';
     }
   });
 };
@@ -118,7 +89,7 @@ const calcHeight = () => {
 onMounted(() => {
   if (typeof window !== 'undefined') {
     calcHeight();
-    window.onresize = _.throttle(() => calcHeight(), 300);
+    window.onresize = throttle(() => calcHeight(), 300);
   }
 });
 </script>
@@ -131,7 +102,6 @@ onMounted(() => {
   img {
     width: 100%;
     height: 100%;
-    // opacity: 0;
     transition: opacity 1.5s ease-in, transform 0.2s linear;
     object-fit: cover;
     cursor: pointer;

@@ -25,6 +25,18 @@ You can ask Lucy to help translate it, because she is proficient in English.
 Thank you very much for sending me the delicious tea.
 No, you're welcome.
 
+この文章の意味が分からないんですが。
+戴さんに訳してもらいましょう。英語が得意ですから。
+
+おいしいお茶を送ってくれて、どうもありがとう。
+いいえ、どういたしまして。
+
+この文章の意味が分からないんですが。
+戴さんに訳してもらいましょう。英語が得意ですから。
+
+おいしいお茶を送ってくれて、どうもありがとう。
+いいえ、どういたしまして。
+
 すてきなマフラーですね。
 ええ、小野さんが誕生日にくれたんです。
 
