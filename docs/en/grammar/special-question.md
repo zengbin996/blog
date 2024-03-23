@@ -303,3 +303,81 @@ how much 可以做定语，修饰不可数名词，注意，一定不能修饰�
 - How often do you go home?
 - How often do they run in the park?
 - How often does she have dinner at home?
+
+## 疑问词作主语
+
+英语有些疑问词可以充当主语，这个时候，是不需要倒装的，也就是不需要用一般疑问句的构成方式，因为本来主语就是放在开头，这个和之前的不一样。
+
+句型：
+
+1. 疑问词 + 谓语 + 宾语？
+2. 疑问词 + be + 表语？
+
+疑问词作主语构成的特殊疑问句跟肯定句的构成方式一样的。不过，不是每一个疑问词都可以充当主语，下面是能作主语的疑问词：
+
+- Which
+- Whose
+- How many/much
+- Who/What
+
+### Which
+
+Watch + 名词单数作主语
+
+句型 1：Watch + 名词单数 + 谓语 + （宾语/状语）
+
+- Which student made a mistake just now?
+- Which student drives a red car every day?
+- Which student will go to Xi'an next year?
+- Which student is talking with others?
+- Which student has finished homework?
+
+句型 2：Which + 名词单数 + be + 形容词/介词短语
+
+- Which girl is the most beautiful in our class?
+- Which student was in Xi'an last mouth?
+
+### Whose
+
+Whose + 名词作主语
+
+句型 1：Whose + 名词 + 谓语 + 宾语 + 状语？
+
+- Whose boss likes my products?
+- Whose students clean the the classroom?
+- Whose child broke the window just now?
+
+句型 2：Whose + 名词 + be + 形容词/介词短语？
+
+- Whose books are useful?
+- Whose daughter was in the hotel last night?
+
+### How much
+
+How much + 不可数名词做主语
+
+句型 1：How much + 不可数名词 + be + 介词短语？
+
+- How much money is in the bag?
+
+句型 2：How much + 不可数名词 + be + there + 地点状语？
+
+- How much money is there in the bag?
+- How much oil is there in the bottle?
+
+### How many
+
+How many + 可数名词复数作主语
+
+句型 1：How many + 名词复数 + 谓语 + 宾语 + 状语
+
+- How many students at attend my class every day?
+- How many boys love you?
+- How many people are learning English in Chian?
+
+句型 2：How many + 名词复数 + be there + 地点状语？
+
+- How many people are there in your house?
+- How many books are there in the box?
+
+句型 3：How many + 名词复数 + be + 表语 + 状语？
