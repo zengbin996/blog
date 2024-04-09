@@ -1,7 +1,18 @@
-It's already 23 o'click, so let's go to bed.
+It's 11:00 pm, let's go to bed.
 I'm going to take a day off from work today.
 I'm thinking of going to the hospital tomorrow.
 The luggage is heavy, so I will send it by courier.
+
+It's already 23 o'click, so Let's go to bed.
+I'm going to take a day off from work today.
+I'm thinking of going to the hospital tomorrow.
+The luggage is heavy, so I will send it by courier.
+
+Let's go for a drink after work.
+Sorry. I have an early day tomorrow, so I can't go with you today.
+
+It's late and I think it's time to go home.
+Thank you for your hard work. Take care.
 
 もう１１時だから寝よう。
 今日、会社を休もうと思います。
@@ -23,11 +34,46 @@ The luggage is heavy, so I will send it by courier.
 明日、病院へ行こうと思っています。
 荷物が重いので、宅配便で送ります。
 
+もう１１時だから寝よう。
+今日、会社を休もうと思います。
+明日、病院へ行こうと思っています。
+荷物が重いので、宅配便で送ります。
+
 仕事が終わってから、飲みに行こうよ。
 ごめん。明日早いから、今日はちょっと。
 
 もう遅いので、そろそろ帰ろうと思います。
 お疲れ様でした。気を付けて。
+
+仕事が終わってから、飲みに行こうよ。
+ごめん、明日早いから、今日はちょっと。
+
+もう遅いので、そろそろ帰ろうと思います。
+お疲れさまでした。気を付けで。
+
+仕事が終わってから、飲みに行こうよ。
+ごめん、明日早いから、今日はちょっと。
+
+もう遅いので、そろそろ帰ろうと思います。
+お疲れさまでした、気を付けて。
+
+仕事が終わってから、飲みに行こうよ。
+ごめん、明日早いから、今日ちょっと。
+
+仕事が終わってから、飲みに行こうよ。
+ごめん、明日早いから、今日ちょっと。
+
+もう遅いので、そろそろ帰ろうと思います。
+お疲れさまでした、気を付けて。
+
+もう遅いので、そろそろ帰ろうと思います。
+お疲れさまでした。気を付けて。
+
+仕事が終わってから、飲みに行こうよ。
+ごめん、明日早いから、今日ちょっと。
+
+もう遅いので、そろそろ帰ろうと思います。
+お疲れさまでした、気を付けて。
 
 もうすぐゴールデンウイークですね。何か予定がありますか。
 長江下りをしようと思っています。
