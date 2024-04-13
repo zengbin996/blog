@@ -14,6 +14,18 @@ Sorry. I have an early day tomorrow, so I can't go with you today.
 It's late and I think it's time to go home.
 Thank you for your hard work. Take care.
 
+It will soon be Golden Week. What are your plans?
+I am planing to go down the Yangtze River.
+
+Will you work this Saturday.
+Yes, I have a guest coming form Hong Kong, so I am going to pick him up at the airport.
+
+もうすぐゴールデンウイークですね。何が予定がありますか。
+長江下りをしようと思います。
+
+土曜日も仕事ですか。
+ええ。香港からお客さんが来るので、空港へ迎えに行きます。
+
 もうすぐゴールデンウイークですね。何が予定がありますか。
 長江下りをしようと思っています。
 
