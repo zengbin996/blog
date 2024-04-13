@@ -237,6 +237,8 @@ export default {
         { text: '第 27 课', link: '/jp/grammar/unit27' },
         { text: '第 28 课', link: '/jp/grammar/unit28' },
         { text: '第 29 课', link: '/jp/grammar/unit29' },
+        { text: '第 30 课', link: '/jp/grammar/unit30' },
+        { text: '第 31 课', link: '/jp/grammar/unit31' },
       ],
     },
   ],

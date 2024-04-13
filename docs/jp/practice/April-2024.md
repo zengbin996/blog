@@ -1,3 +1,10 @@
+Press this button to turn on the power.
+That computer becomes crashed occasionally.
+Nick finished the report excellently.
+Will Jack come here?
+
+---
+
 It's 11:00 pm, let's go to bed.
 I'm going to take a day off from work today.
 I'm thinking of going to the hospital tomorrow.
