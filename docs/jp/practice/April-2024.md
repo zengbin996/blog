@@ -3,6 +3,49 @@ That computer becomes crashed occasionally.
 Nick finished the report excellently.
 Will Jack come here?
 
+Press this button to turn on the power.
+That computer becomes freezed occasionally.
+Nick finished the report excellently.
+Will Jack come here?
+
+Excuse me, Where is the municipal government?
+Straight down this street is a department store. City Hall is next to it.
+Thank you very much.
+
+Do you eat breakfast properly every day?
+Yes, but I occasionally skip a breakfast.
+
+なまぬるい風に吹かれながら　 なまぬるいかぜに　ふかれながら
+東京の空眺めてたら　とうきょうのそら なめてたら
+遠くで暮らしてるあなたの事を　とおくでくらしてる　あなたのことを
+ふっと思い出す元気ですか。　ふっとおもいだす　げんきですか。
+
+すみません、市役所へはどう行くんですか。
+この道をまっすぐ行くと、デパートがあります。市役所はその隣ですよ。
+ありがとうございます。
+
+朝ごはん毎日きちんと食べたいですか。
+ええ。でも、たまに食べないことがあります。
+
+すみません、市役所へはどう行くんですか。
+この道をまっすぐ行くと、デパートがあります。市役所はその隣ですよ。
+ありがとうございます。
+
+朝ごはんは毎日きちんと食べますか。
+ええ。でも、たまに食べないことがあります。
+
+すみません、市役所へはどう行くんですか。
+この道をまっすぐ行くと、デパートがあります。市役所は隣ですよ。
+ありがとうございます。
+
+朝ごはんは毎日きちんと食べますか。
+ええ。でも、たまに食べないことがあります。
+
+このボタンを押すと、電源が入ります。
+そのパソコンは、たまにフリーズすることがあります。
+馬さんはとても上手にレポートをまとめました。
+李さんは来るでしょうか。
+
 このボタンを押すと、電源が入ります。
 そのパソコンは、たまにフリーズすることがあります。
 馬さんはとても上手にレポートをまとめました。
