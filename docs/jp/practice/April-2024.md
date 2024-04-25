@@ -3,6 +3,41 @@ My Friend and I are going to watch the movie tomorrow.
 The boss will give us a pay rise for next mouth.
 Nick's son will join primary school this year.
 
+I'm going to buy a car with my bonus.
+Heh, that's nice.
+
+Will you go to guangzhou by the train?
+No, I will take a plane.
+
+Nick, Will you are on a business trip?
+Yes, I'm going to HongKong on Monday for three days.
+
+According to the news, influenza will be prevalent this winter.
+I see. Let's be careful.
+
+今度の日曜日に遊園地へ行くつもりです。
+明日、友達と映画を見に行くことにしました。
+来月から給料が上がることになりました。
+馬さんの息子さんは今年小学校に入学するそうです。
+
+今度のボーナスで車を買うつもりです。
+へえ、いいですね。
+
+広州へ列車で行くんですか。
+いいえ、飛行機で行くことにしました。
+
+今度のボーナスで車を買うつもりです。
+へえ、いいですね。
+
+広州へは列車で行くんですか。
+いいえ、飛行機で行くことにしました。
+
+李さん、出張ですか。
+ええ、月曜日から３日間、香港へ行くことになりました。
+
+ニュースによると、今年の冬はインフルエンザが流行するそうです。
+そうですか。気を付けましょうね。
+
 今度の日曜日に遊園地へ行くつもりです。
 明日、友達と映画を見に行くことにしました。
 来月から給料が上がることになりました。
