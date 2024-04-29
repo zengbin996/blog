@@ -1,3 +1,34 @@
+Turn off the lights.
+Read the following passage and answer the questions.
+Don't park your car here.
+This symbol means "Do npt smoke".
+
+What did the manager say just now?
+He said "Submit your documents quickly."
+
+Nick, please take the a bath quickly.
+I'm doing my homework right now. Mon, please come in first.
+
+Excuse me, how do you read this?
+It's pronounced "たちいりきんし（立入禁止）". It means "Don't come in here."
+
+電気を消せ。
+次の文書を読んで、質問に答えなさい。
+ここに車を止めるな。
+このメークは「タバコを吸うな」という意味です。
+
+さっき部長は何と言いましたか。
+「書類を早く提出しろ」と言いました。
+
+誠、早くお風呂に入りなさい。
+今宿題しているんだ。お母さん先に入ってよ。
+
+すみません、これは何と読みますか。
+「たちいりきんし（立入禁止）」と読みます。「ここに入るな」という意味です。
+
+この花の名前を知っていますか。
+ええ、それはフジという花です。
+
 It's already 11 o'clock, so let's go to bed.
 I'm going to take a day off form work today.
 I will go to the hospital tomorrow.
