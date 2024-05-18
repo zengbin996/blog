@@ -15,7 +15,7 @@
 1. vuepress2 ：为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。主要用于一些技术文章的展示功能。文章主要分为三大部分，第一部分为 IT 部分，主要用于记录自己平时工作中所遇到的一些问题解决方案和自己对一些新的知识的记录；第二部分和第三部分分别是日语和英语，主要用于记录自己学习这两门语言的一些笔记。
 2. tailwindCSS + echarts ：这两个库主要用于自定义首页内容。首页包括了我的足迹，地图的展示，和自己日常拍摄的作品展示。
 3. 腾讯 OSS ：用于首页图片和一些文档的图片存放，项目以及集成 OSS 上传功能，可以直接访问 `/utils` 路径上传图片获取在线链接。
-4. GitHub Actions：当代码推送至 master 分支后，GitHub 会自动进行打包。并吧打包后的文件推送至 gh-pages 分支，该分支使用了 Github Pages 静态资源托管，可以直接在线访问。由于 GitHub pages 在国内访问较慢，该项目也在 腾讯云 oss 上面部署，加快国内访问速度，执行 `/serve/cos-deploy.js` 文件即可自动发布部署。腾讯 oss 访问地址 [https://blog-1258070316.cos.ap-nanjing.myqcloud.com/index.html](https://blog-1258070316.cos.ap-nanjing.myqcloud.com/index.html)。
+4. GitHub Actions：当代码推送至 master 分支后，GitHub 会自动进行打包。并吧打包后的文件推送至 gh-pages 分支，该分支使用了 Github Pages 静态资源托管，可以直接在线访问。由于 GitHub pages 在国内访问较慢，该项目也在 腾讯云 oss 上面部署，加快国内访问速度，执行 `/serve/cos-deploy.js` 文件即可自动发布部署。腾讯 oss 访问地址 [https://blog-1258070316.cos-website.ap-nanjing.myqcloud.com/](https://blog-1258070316.cos-website.ap-nanjing.myqcloud.com/)。
 5. `cross-env` 在不用系统设置环境变量。`vuepress build docs` 打包时，无法直接通过 `--base` 来设置基础路径，但是由于 GitHub 部署时需要加上基础路径，而腾讯云 OSS 不需要，为了防止每次打包都要修改 vuepress 的配置，这里使用了环境变量来解决这个问题。直接使用 `cross-env base=/blog/ vuepress build docs` 来设置环境变量。
 
 ## 项目展示
