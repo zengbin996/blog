@@ -35,55 +35,11 @@
 import _ from 'lodash';
 import $ from 'jquery';
 import { onMounted, ref, reactive } from 'vue';
+import imgs from './imgs.json';
 
-const photos = {
-  w: [
-    'https://s1.ax1x.com/2023/04/13/ppv2wDg.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv26Cq.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fkTI.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fimd.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2rUs.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2dKS.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2Ngf.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2t8P.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2YCt.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2G4I.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv23Ed.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fVtP.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fEkt.md.jpg',
-  ],
-  h: [
-    'https://s1.ax1x.com/2023/04/13/ppv28UA.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2g2V.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2c80.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv20bQ.md.jpg',
-    'https://s1.ax1x.com/2023/04/13/ppv2Uv8.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fn1S.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fmp8.md.jpg',
-    'https://s1.ax1x.com/2022/04/19/L0fZff.md.jpg',
-  ],
-};
-
-let tencentOSS = [
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E4%B8%9C%E5%B1%B1%E5%B2%9B.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E4%B8%9C%E5%B1%B1%E5%B2%9B%E6%A1%A5.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E4%BA%91%E6%B4%9E%E5%B2%A9.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E5%8C%97%E6%B5%B7.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E5%8E%A6%E9%97%A8.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E5%8E%A6%E9%97%A8%E5%A4%9C%E6%99%9A%E5%9F%8E%E5%A0%A1.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E5%A4%AA%E7%99%BD%E5%B1%B1.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E5%BE%B7%E5%A4%A9%E7%80%91%E5%B8%83.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E7%A7%8B%E5%A4%A9%E8%90%BD%E5%8F%B6.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E9%9B%AA%E5%90%8E.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E9%9D%92%E5%B2%9B-%E8%87%AA%E5%B7%B1.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E9%9D%92%E5%B2%9B%E4%BF%A1%E5%8F%B7%E5%A1%94.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E9%9D%92%E5%B2%9B%E6%B5%AA%E8%8A%B1.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E9%9D%92%E5%B2%9B%E6%B5%B7%E5%B2%9B.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E9%BB%84%E5%B1%B1.jpg',
-  'https://blog-zengbin-1258070316.cos.ap-chengdu.myqcloud.com/%E9%BB%84%E5%B1%B1%E8%87%AA%E5%B7%B1.jpg',
-];
-
-tencentOSS = tencentOSS.map(a => (a += '?imageMogr2/thumbnail/!25p'));
+const tencentOSS = _.shuffle(
+  imgs.map(a => `https://images-1258070316.cos.ap-nanjing.myqcloud.com/${a}?imageMogr2/thumbnail/!25p`)
+);
 
 const imgFirstContainer = ref(null);
 const imgSecondContainer = ref(null);
