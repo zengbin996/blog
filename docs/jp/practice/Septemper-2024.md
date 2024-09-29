@@ -1,5 +1,22 @@
 # September-2024
 
+李さんは部長にほめられました。
+馬さんは森さんにカメラを壊されました。
+陳さんは飼っていた小鳥に逃げられました。
+2010 年に上海で万博が開かれます。
+
+Mr.Li was praised by his manager.
+Jack's camera was broken by Nick.
+The fowl that was fed by Jack fly away.
+The world Expo will be held in Shanghai in 2010.
+
+壊す　壊します　壊する　こわします
+飼います　飼う　かいます
+小鳥　ことり
+逃げます　逃げる　にげます
+万博　ばんぱく
+開きます　開く　ひらきます
+
 I'm about to go out to dinner with my friends.
 Nick is preparing the materials for the meeting.
 Mr. Nick has just arrived at the airport.
