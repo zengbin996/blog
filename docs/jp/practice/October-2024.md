@@ -3,15 +3,54 @@ Jack's camera was broken by Nick.
 The fowl that was fed by Jack fly away.
 The world Expo will be held in Shanghai in 2010.
 
+Mr.Li was praised by his manager.
+Jack's camera was broken by Nick.
+The fowl that was fed by Jack fly away.
+The world Expo will be held in Shanghai in 2010.
+
+Nick was praised by his manager.
+Jack's camera was broken by Nick.
+The fowl that was fed by Jack fly away.
+The world Expo will be held in Shanghai in 2010.
+
+開きます
+開きます
+開きます
+開きます
+開きます
+
 李さんは部長にほめられました。
 馬さんは森さんにカメラを壊されました。
-陳さんは飼ってい小鳥逃げられました。
+陳さんは飼っていた小鳥逃げられました。
 2010 年に上海で万博が開かれます。
 
 李さんは部長にほめられました。
 馬さんは森さんにカメラを壊されました。
 陳さんは飼っていた小鳥に逃げられました。
 2010 年に上海で万博が開かれます。
+
+李さんは部長にほめられました。
+馬さんは森さんにカメラを壊されました。
+陳さんは飼っていた小鳥に逃げられました。
+2010 年に上海で万博が開かれます。
+
+李さんは部長にほめられました。
+馬さんは森さんにカメラを壊されました。
+陳さんは飼っていた小鳥に逃げられました。
+2010 年に上海で万博が開かれます。
+
+太田君、どうしたんですか。元気がないね。
+ええ。部長にしかられたんです。
+
+李さん、どうしたんですか。
+昨日犬に手をかまれたんです。
+
+週末にキャンプに行きました。
+へえ。楽しかったです。
+２日とも雨に降られて、大変でしたよ。
+
+この車のデザインはとてもいいですね。
+ええ。日本の有名なデザイナーによって設計されました。
 
 太田君、どうしたんだ。元気がないね。
 ええ。部長にしかられたんです。
