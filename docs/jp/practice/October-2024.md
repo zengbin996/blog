@@ -1,3 +1,29 @@
+What's wrong, Ota? You don't look well.
+Yes, My manager scolded me.
+
+What happened to you, Li?
+My hand was bitten of a dog yesterday.
+
+I went to camp last week.
+Wow. Did you have fun?
+It rained both days, which was tough.
+
+The design of this car is very good.
+Yes, it was designed by a famous Japanese designer.
+
+太田君、どうしたんですか。元気がないね。
+ええ。部長にしかられたんです。
+
+李さん、どうしたんですか。
+昨日犬に手をかまれたんです。
+
+週末にキャンプに行きました。
+へえ。楽しかったですか。
+２日とも雨に降られて、大変でしたよ。
+
+この車のデザインはとてもいいですね。
+ええ。日本の有名なデザイナーによって設計されました。
+
 Mr.Li was praised by his manager.
 Jack's camera was broken by Nick.
 The fowl that was fed by Jack fly away.
@@ -12,6 +38,11 @@ Nick was praised by his manager.
 Jack's camera was broken by Nick.
 The fowl that was fed by Jack fly away.
 The world Expo will be held in Shanghai in 2010.
+
+李さんは部長にほめられました。
+馬さんは森さんにカメラを壊されました。
+陳さんは飼っていたことに逃げられました。
+2010 年に上海で万博が開かれます。
 
 開きます
 開きます
