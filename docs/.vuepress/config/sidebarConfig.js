@@ -114,6 +114,9 @@ export default {
         { text: 'There be 句型', link: '/en/grammar/unit15' },
         { text: '情态动词', link: '/en/grammar/unit16' },
         { text: '特殊疑问句', link: '/en/grammar/unit17' },
+        { text: '动词不定式', link: '/en/grammar/unit18' },
+        { text: '动名词', link: '/en/grammar/unit19' },
+        { text: '被动语态', link: '/en/grammar/unit20' },
       ],
     },
   ],
@@ -248,6 +251,15 @@ export default {
         { text: '第 40 课', link: '/jp/grammar/unit40' },
         { text: '总结 10', link: '/jp/grammar/unit40-2' },
         { text: '第 41 课', link: '/jp/grammar/unit41' },
+        { text: '第 42 课', link: '/jp/grammar/unit42' },
+        { text: '第 43 课', link: '/jp/grammar/unit43' },
+        { text: '第 44 课', link: '/jp/grammar/unit44' },
+        { text: '总结 11', link: '/jp/grammar/unit44-2' },
+        { text: '第 45 课', link: '/jp/grammar/unit45' },
+        { text: '第 46 课', link: '/jp/grammar/unit46' },
+        { text: '第 47 课', link: '/jp/grammar/unit47' },
+        { text: '第 48 课', link: '/jp/grammar/unit48' },
+        { text: '总结 12', link: '/jp/grammar/unit48-2' },
       ],
     },
   ],
@@ -263,12 +275,44 @@ export default {
       collapsible: false,
       children: [
         {
-          text: 'March-2024',
-          link: '/jp/practice/March-2024',
+          text: 'December-2024',
+          link: '/jp/practice/December-2024',
+        },
+        {
+          text: 'November-2024',
+          link: '/jp/practice/November-2024',
+        },
+        {
+          text: 'October-2024',
+          link: '/jp/practice/October-2024',
+        },
+        {
+          text: 'September-2024',
+          link: '/jp/practice/September-2024',
+        },
+        {
+          text: 'August-2024',
+          link: '/jp/practice/August-2024',
+        },
+        {
+          text: 'July-2024',
+          link: '/jp/practice/July-2024',
+        },
+        {
+          text: 'June-2024',
+          link: '/jp/practice/June-2024',
+        },
+        {
+          text: 'May-2024',
+          link: '/jp/practice/May-2024',
         },
         {
           text: 'April-2024',
           link: '/jp/practice/April-2024',
+        },
+        {
+          text: 'March-2024',
+          link: '/jp/practice/March-2024',
         },
         {
           text: 'February-2024',
