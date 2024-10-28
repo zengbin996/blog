@@ -10,6 +10,11 @@ Even though I set the alarm, I couldn't wake up this morning.
 The meeting I lasts until 5 o'clock, so it should be over soon.
 Since Zhang is in the hospital, there is no way he can go on a trip.
 
+テレビをつけたまま、出かけでしまいました。
+目覚ましたかけておいたのに、今朝は起きられませんでした。
+会議は５時までですから、もうすぐ終わるはずです。
+張さんは入院中ですから、旅行に行くはずがありません。
+
 テレビをつけたまま、出かけてしまいました。
 目覚ましたかけておいたのに、今朝は起きられませんでした。
 会議は５時までですから、もうすぐ終わるはずです。
