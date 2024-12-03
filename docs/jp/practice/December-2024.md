@@ -4,6 +4,31 @@ A man may well bring a horse to the water, but he cannot make him drink.
 A man may well bring a horse to the water, but he cannot make him drink.
 A man may well bring a horse to the water, but he cannot make him drink.
 
+Mistakes are an essential part of education.
+Mistakes are an essential part of education.
+Mistakes are an essential part of education.
+
+少子化が進んで、日本の人口はだんだん減っていくでしょう。
+ずっと本を読んでいたのに、目が疲れてきました。
+おいしいし、手軽だし、わたしは冷凍食品をよく食べます。
+
+少子化が進んで、日本の人口はだんだん減っていくでしょう。
+ずっと本を読んでいたので、目が疲れてきました。
+おいしいし、手軽だし、わたしは冷凍食品をよく食べます。
+この本は読めば読むほどおもしろいです。
+
+最近、中国へ旅行に行く日本人が増えちてきましたね。
+ええ、ホテルや交通の便がよくなりんしたからね。
+
+お母さん、雨が降ってきたよ。
+あら、大変。誠、洗濯物入れてよ。
+
+休みだし、天気もいいし、どこかに出かけませんか。
+いいですね。わたしはパイキングに行きたいです。
+
+商品は安ければ安いほど売れるんでしょう？
+いいえ。品質が悪いと、安くても売れません。
+
 少子化が進んで、日本の人口はだんだん減っていくでしょう。
 ずっと本を読んでいたので、目が疲れてきました。
 おいしいし、手軽だし、わたしは冷凍食品をよく食べます。
@@ -25,3 +50,23 @@ A man may well bring a horse to the water, but he cannot make him drink.
 ずっと本を読んでいたので、目が疲れてきました。
 おいしいし、手軽だし、わたしは冷凍食品をよく食べます。
 この本は読めば読むほどおもしろいです。
+
+少子化が進んで、日本の人口はだんだん減っていくでしょう。
+ずっと本を読んでいたので、目が疲れてきました。
+おいしいし、手軽だし、わたしは冷凍食品をよく食べます。
+この本は読めば読むほどおもしろいです。
+
+しょうしか　少子化
+すすむ　進
+じんこう　人口
+へる　減る
+てがる　手軽
+れいとうしょくひん　冷凍食品
+さいきん　最近
+こうつう　交通
+べん　便
+せんたくもの　洗濯物
+
+しょうひん　商品
+ひんしつ　品質
+わるい　悪い
