@@ -8,6 +8,25 @@ Mistakes are an essential part of education.
 Mistakes are an essential part of education.
 Mistakes are an essential part of education.
 
+I think probably kindness is my number on attribute in a human being. I'll put it before any of the things like courage or generosity or anything else.
+
+少子化が進んで、日本の人口はだんだん減っていくでしょう。
+ずっと本を読んでいたので、目が疲れてきました。
+おいしいし、手軽だし、わたしは冷凍商品をよく食べます。
+この本は読めば読むほどおもしろいです。
+
+最近、中国へ旅行に行く日本人が増えってきましたね。
+ええ、ホテルや交通の便がよくなりましたからね。
+
+お母さん、雨が降ってきたよ。
+あら、大変。誠、洗濯物入れてよ。
+
+休みだし、天気もいいし、どこかに出かけませんか。
+いいですね。私はハイキングに行きたいです。
+
+商品は安ければ安ほど売れるんでしょう？
+いいえ。品質が悪いと、安くても売れません。
+
 少子化が進んで、日本の人口はだんだん減っていくでしょう。
 ずっと本を読んでいたのに、目が疲れてきました。
 おいしいし、手軽だし、わたしは冷凍商品をよく食べます。
