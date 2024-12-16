@@ -1,5 +1,27 @@
 # December-2024
 
+周先生は明日日本へ行かれます。
+お客様はもうお帰りになりました。
+どうぞお座りください。
+先生、何を召し上がりますか。
+
+周先生は明日日本へ行かれます。
+お客様はもうお帰りになりました。
+どうぞお座りください。
+先生、何を召し上がりますか。
+
+お土産はもう買われましたか。
+はい、買いました。
+
+もうその資料をご覧になりましたか。
+家、まだです。忙しくて、読むひまがありませんでした。
+
+あのう、靴売り場は何階ですか。
+４階です。エスカレーターをご利用ください。
+
+小野さん、木村部長、何時に戻るっておっしゃいましたか。
+木村部長ですか。先ほど戻っていらっしゃいましたよ。
+
 The most efficient way to live reasonably is every morning to make a plan of one's day and every night to examine the results obtained.
 Heaven has made us talents, we're not made in vain. A thousand gold coins spent, more will turn yp again.
 
