@@ -1,5 +1,69 @@
 # December-2024
 
+Don't you want me like I want you, baby
+Don't you need me like I need you now
+Sleep tomorrow but tonight go crazy All
+you gotta do is just meet me at the
+
+Don't you want me like I want you, baby
+Don't you need me like I need you now
+Sleep tomorrow but tonight go crazy ALl
+you gotta do is just meet me at the
+
+Don't you want me like I want you, baby
+Don't you need me like I need you now
+Sleep tomorrow but tonight go crazy All
+you gotta do is just meet me at the
+
+Don't you want me lick I want you, baby
+Don't you need me like I need you now
+Sleep tomorrow but tonight go crazy All
+you gotta do si just meet me at the
+
+明日　みょうにち
+伺う　うかがう
+黄教授　こうきょうじゅ
+昨日　さくじつ
+送る　おくる
+拝見する　はいけんする
+返事　へんじ
+参りる　まいる
+
+お荷物は私がお持ちします。
+明日、私がそちらへ伺います。
+コピーは私がいたします。
+黄教授に論文を見ていただきました。
+
+お荷物は私がお持ちします。
+明日、私がそちらへ伺います。
+コピーは私がいたします。
+黄教授に論文を見ていただきました。
+
+昨日、メールをお送りしたんですが。
+ええ、拝見しました。先ほど返事をお出ししました。
+
+どちらからいらっしゃったんですか。
+中国の北京から参りました。
+
+そろそろ失礼いたします。
+どうもお邪魔いたしました。何の構いもしませんで。
+
+この服、ちょっと小さいので、取り替えていただけますか。
+承知いたしました。少々お待ちください。
+
+お荷物は私が持ちします。
+明日、私がそちらへ伺います。
+コピーは私がいたします。
+黄教授に論文を見ていただきました。
+
+昨日、メールをお送りしたんですが。
+ええ、拝見しました。先ほど返事を出ししました。
+
+どちらからいらっしゃっとんですか。
+中国の北京から参りました。
+
+Christmas in not a time nor a season, but a state of mind. To cherish peace and goodwill, to be plenteous in mercy, is to have the real spirit of Christmas.
+
 What is tragedy? Tragedy is th collision of goods.
 
 周先生は明日日本へ行かれます。
