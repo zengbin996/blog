@@ -20,6 +20,11 @@ Don't you need me like I need you now
 Sleep tomorrow but tonight go crazy All
 you gotta do si just meet me at the
 
+Don't you want me like I want you, baby
+Don't you need me like I need you now
+Sleep tomorrow but tonight go crazy All
+you gotta do is just meet me at the
+
 明日　みょうにち
 伺う　うかがう
 黄教授　こうきょうじゅ
@@ -28,6 +33,11 @@ you gotta do si just meet me at the
 拝見する　はいけんする
 返事　へんじ
 参りる　まいる
+
+お荷物は私がお持ちします。
+明日、私がそちらへ伺います。
+コピーは私がいたします。
+黄教授に論文を見ていただきました。
 
 お荷物は私がお持ちします。
 明日、私がそちらへ伺います。
