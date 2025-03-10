@@ -37,3 +37,18 @@ How can I get here?
 
 ここは遠いですか？
 Is this place far?
+
+空港に行きたいです。
+I need to go to the airport.
+
+この電車は市内に行きますか？
+Does this train go to the city center?
+
+チケットはいくらですか？
+How much is the ticket?
+
+何時に出発しますか？
+When does it depart?
+
+片道切符をください。
+I need a one-way ticket.
