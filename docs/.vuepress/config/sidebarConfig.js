@@ -5,7 +5,6 @@ export default {
       text: '前端',
       children: [
         '/it/before/',
-
         {
           text: '微信授权登录',
           link: '/it/before/weixin-login',
@@ -149,30 +148,28 @@ export default {
       text: '每周一词',
       collapsible: true,
       children: [
-        { text: 'For', link: '/en/practice/word-for' },
-        { text: 'Great', link: '/en/practice/word-great' },
-        { text: 'Kind', link: '/en/practice/word-kind' },
-        { text: 'This', link: '/en/practice/word-this' },
-        { text: 'Head', link: '/en/practice/word-head' },
-        { text: 'Field', link: '/en/practice/word-field' },
-        { text: 'Subject', link: '/en/practice/word-subject' },
-        { text: 'Right', link: '/en/practice/word-right' },
-        { text: 'Common', link: '/en/practice/word-common' },
-        { text: 'Potential', link: '/en/practice/word-potential' },
-        { text: 'Engage', link: '/en/practice/word-engage' },
-        { text: 'Live', link: '/en/practice/word-live' },
-        { text: 'Address', link: '/en/practice/word-address' },
+        { text: 'For', link: '/en/word/word-for' },
+        { text: 'Great', link: '/en/word/word-great' },
+        { text: 'Kind', link: '/en/word/word-kind' },
+        { text: 'This', link: '/en/word/word-this' },
+        { text: 'Head', link: '/en/word/word-head' },
+        { text: 'Field', link: '/en/word/word-field' },
+        { text: 'Subject', link: '/en/word/word-subject' },
+        { text: 'Right', link: '/en/word/word-right' },
+        { text: 'Common', link: '/en/word/word-common' },
+        { text: 'Potential', link: '/en/word/word-potential' },
+        { text: 'Engage', link: '/en/word/word-engage' },
+        { text: 'Live', link: '/en/word/word-live' },
+        { text: 'Address', link: '/en/word/word-address' },
       ],
     },
 
     {
-      text: '文章练习',
+      text: '学唱歌',
       collapsible: true,
       children: [
-        {
-          text: 'The Garden Fairy',
-          link: '/en/practice/the-garden-fairy',
-        },
+        { text: 'Wark', link: '/en/music/wark' },
+        { text: 'See You Again', link: '/en/music/seeyouagain' },
       ],
     },
   ],
@@ -198,7 +195,7 @@ export default {
     },
 
     {
-      text: '新标日课文',
+      text: '新标日初级',
       children: [
         { text: '第 1 课', link: '/jp/grammar/unit1' },
         { text: '第 2 课', link: '/jp/grammar/unit2' },
@@ -262,6 +259,16 @@ export default {
         { text: '总结 12', link: '/jp/grammar/unit48-2' },
       ],
     },
+
+    {
+      text: '新标日中级',
+      children: [
+        { text: '第 1 课', link: '/jp/grammar/unit49' },
+        { text: '第 2 课', link: '/jp/grammar/unit50' },
+        { text: '第 3 课', link: '/jp/grammar/unit51' },
+        { text: '第 4 课', link: '/jp/grammar/unit52' },
+      ],
+    },
   ],
 
   '/jp/practice/': [
@@ -277,66 +284,6 @@ export default {
         {
           text: 'December-2024',
           link: '/jp/practice/December-2024',
-        },
-        {
-          text: 'November-2024',
-          link: '/jp/practice/November-2024',
-        },
-        {
-          text: 'October-2024',
-          link: '/jp/practice/October-2024',
-        },
-        {
-          text: 'September-2024',
-          link: '/jp/practice/September-2024',
-        },
-        {
-          text: 'August-2024',
-          link: '/jp/practice/August-2024',
-        },
-        {
-          text: 'July-2024',
-          link: '/jp/practice/July-2024',
-        },
-        {
-          text: 'June-2024',
-          link: '/jp/practice/June-2024',
-        },
-        {
-          text: 'May-2024',
-          link: '/jp/practice/May-2024',
-        },
-        {
-          text: 'April-2024',
-          link: '/jp/practice/April-2024',
-        },
-        {
-          text: 'March-2024',
-          link: '/jp/practice/March-2024',
-        },
-        {
-          text: 'February-2024',
-          link: '/jp/practice/February-2024',
-        },
-        {
-          text: 'January-2024',
-          link: '/jp/practice/January-2024',
-        },
-        {
-          text: 'December-2023',
-          link: '/jp/practice/December-2023',
-        },
-        {
-          text: 'November-2023',
-          link: '/jp/practice/November-2023',
-        },
-        {
-          text: 'October-2023',
-          link: '/jp/practice/October-2023',
-        },
-        {
-          text: 'August-2023',
-          link: '/jp/practice/August-2023',
         },
       ],
     },
