@@ -279,22 +279,43 @@ export default {
 
     {
       text: '每日练习',
-      collapsible: false,
+      collapsible: true,
       children: [
-        {
-          text: 'December-2024',
-          link: '/jp/practice/December-2024',
-        },
+        { text: '2025-May', link: '/jp/practice/2025-05' },
+        { text: '2025-April', link: '/jp/practice/2025-04' },
+        { text: '2025-March', link: '/jp/practice/2025-03' },
+        { text: '2025-February', link: '/jp/practice/2025-02' },
+        { text: '2025-January', link: '/jp/practice/2025-01' },
+        { text: '2024-December', link: '/jp/practice/2024-12' },
+        { text: '2024-November', link: '/jp/practice/2024-11' },
+        { text: '2024-October', link: '/jp/practice/2024-10' },
+        { text: '2024-September', link: '/jp/practice/2024-09' },
+        { text: '2024-August', link: '/jp/practice/2024-08' },
+        { text: '2024-July', link: '/jp/practice/2024-07' },
+        { text: '2024-June', link: '/jp/practice/2024-06' },
+        { text: '2024-May', link: '/jp/practice/2024-05' },
+        { text: '2024-April', link: '/jp/practice/2024-04' },
+        { text: '2024-March', link: '/jp/practice/2024-03' },
+        { text: '2024-February', link: '/jp/practice/2024-02' },
+        { text: '2024-January', link: '/jp/practice/2024-01' },
+        { text: '2023-December', link: '/jp/practice/2023-12' },
+        { text: '2023-November', link: '/jp/practice/2023-11' },
+        { text: '2023-October', link: '/jp/practice/2023-10' },
+        { text: '2023-August', link: '/jp/practice/2023-08' },
       ],
     },
 
     {
-      text: '日语歌曲',
+      text: '学唱歌',
       collapsible: true,
       children: [
         {
           text: '未来へ',
-          link: '/jp/practice/music-future',
+          link: '/jp/music/miraie',
+        },
+        {
+          text: '　ありがとう',
+          link: '/jp/music/arigatou',
         },
       ],
     },
