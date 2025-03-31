@@ -1,110 +1,72 @@
 <template>
-  <div class="foreign-exchange">
-    <div class="other-banner">
-      <div class="other-banner-text">
-        <h1>{{ $t('acts') }}</h1>
-        <p>Promotion Activity</p>
-      </div>
-    </div>
-    <div class="active-list">
-      <template v-if="activityList.length > 0">
-        <div v-for="item in activityList" :key="item.url" class="activity_item" @click="goBack(item.url)">
-          <div class="item-left">
-            <img :src="item.imgUrl" />
-          </div>
-          <div class="item-right">
-            <div class="item-name">{{ item.name }}</div>
-            <div class="item-time">
-              <span>{{ item.remarks }}</span>
-            </div>
-          </div>
-        </div>
-      </template>
-      <!-- 空数据状态 -->
-      <div v-show="isNoData" class="no-data">
-        <img src="../assets/images/new_images/noData.png" />
-        <p style="text-align: center; font-size: 16px; margin-top: 30px">
-          {{ $t('lessmore') }}
-        </p>
-      </div>
-    </div>
-  </div>
+  <el-form :model="form" label-width="auto" label-position="top" style="max-width: 600px" class="p-3">
+    <el-form-item label="Account">
+      <el-input v-model="formData.account" />
+    </el-form-item>
+    <el-form-item label="Password">
+      <el-input v-model="formData.password" />
+    </el-form-item>
+    <el-form-item label="Code">
+      <el-input v-model="formData.code" />
+    </el-form-item>
+
+    <el-form-item>
+      <el-button type="primary" @click="onSubmit" :loading="loading">Submit</el-button>
+      <el-button type="primary" @click="onSend" :loading="loading">SendCode</el-button>
+    </el-form-item>
+  </el-form>
 </template>
-<script>
-import { getFindAllActivity } from '@/api/info';
-export default {
-  name: 'ActiveList',
-  data() {
-    return {
-      activityList: [],
-      isNoData: false,
-      ipflag: '1',
-    };
-  },
-  watch: {
-    '$i18n.locale': {
-      handler(n, o) {
-        this.activityList = [];
-        if (n === 'zh') {
-          this.ipflag = '1';
-        } else if (n === 'en') {
-          this.ipflag = '5';
-        } else if (n === 'tw') {
-          this.ipflag = '4';
-        }
-        this.getActivityList();
-      },
-    },
-  },
-  mounted() {
-    if (this.$i18n.locale === 'zh') {
-      this.ipflag = '1';
-    } else if (this.$i18n.locale === 'en') {
-      this.ipflag = '5';
-    } else if (this.$i18n.locale === 'tw') {
-      this.ipflag = '4';
-    }
-    this.getActivityList();
-  },
-  methods: {
-    getActivityList() {
-      getFindAllActivity({
-        type: '26',
-        languageidentification: this.getLangF(),
-        region: this.ipflag,
-        brandId: 2,
-      }).then(async res => {
-        if (res.IsSuccess) {
-          if (res.Data.length > 0) {
-            this.activityList = res.Data;
-            this.isNoData = false;
-          } else {
-            this.isNoData = true;
-          }
-        } else {
-          this.isNoData = false;
-        }
-      });
-    },
-    goBack(url) {
-      const reg = /(http:\/\/|https:\/\/)((\w|=|\?|\.|\/|&|-)+)/g;
-      const href = url.replace(reg, url);
-      window.open(href, '_blank');
-    },
-    getLangF() {
-      let flag = '';
-      if (this.$i18n.locale === 'zh') {
-        flag = '1';
-      } else if (this.$i18n.locale === 'en') {
-        flag = '2';
-      } else if (this.$i18n.locale === 'tw') {
-        flag = '3';
-      }
-      return flag;
-    },
-  },
+
+<script setup>
+function generateRandomPhoneNumber() {
+  var phoneNumber = '13'; // 手机号码以"13"开头
+
+  // 生成剩余的9位数字
+  for (var i = 0; i < 9; i++) {
+    phoneNumber += Math.floor(Math.random() * 10); // 生成0到9之间的随机数字
+  }
+
+  return phoneNumber;
+}
+
+const formData = ref({
+  account: generateRandomPhoneNumber(),
+  password: 'www123',
+  code: '',
+});
+
+const loading = ref(false);
+
+const onSend = () => {
+  loading.value = true;
+  validateSendCode({
+    mobile: formData.value.account,
+    ticket: '',
+    randstr: '',
+  }).then(res => {
+    loading.value = false;
+    showToast(res.data.Data);
+  });
+};
+
+const onSubmit = () => {
+  loading.value = true;
+
+  postRegister({
+    mobile: formData.value.account,
+    pwd: formData.value.password,
+    code: formData.value.code,
+    fromType: '1',
+    type: '2',
+    issueCountry: '1',
+    clientid: 'adb7675fb4c53138c05dd480242ece73',
+    ip: '127.0.0.1',
+    appcode: '',
+    fromurl: '',
+  }).then(res => {
+    loading.value = false;
+
+    showFailToast(res.data.Data);
+  });
 };
 </script>
-<style scoped lang="less">
-@import './activeList.less';
-</style>
