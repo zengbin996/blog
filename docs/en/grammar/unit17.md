@@ -381,3 +381,77 @@ How many + 可数名词复数作主语
 - How many books are there in the box?
 
 句型 3：How many + 名词复数 + be + 表语 + 状语？
+
+### Who 谁
+
+“who”做主语是单数概念，也就是属于第三人称单数，因此时态结构需要注意。
+
+句型 1：Who + 谓语动词第三人称单数格式+（宾语）+（状语）？(一般现在时态)
+
+- Who loves me?
+- Who hates me?
+- Who believes me?
+- Who talks about me every day?
+- Who runs in the park every morning?
+
+句型 2：Who + 动词过去式 + （宾语） + 时间状语？（一般将来时态）
+
+- Who helped you yesterday?
+- Who took my book just now?
+
+句型 3：Who + is going to + 动词原形 + （宾语） + 时间状语？
+
+- Who is going to bake the duck?
+- Who is going to clean the classroom after school?
+
+句型 4：Who + is + 动词现在分词 + （宾语）+（地点状语）？（现在进行时态）
+
+- Who is knocking my door?
+- Who is eating my watermelon?
+- Who is crying in the room?
+
+句型 5：Who + has + 动词过去分词+（宾语）+（状语）?
+
+- Who has finished the task?
+- Who has learned English for the years?
+
+句型 6：Who + be + 形容词或介词短语（表语）+（状语）？(主系表)
+
+- Who is the most beautiful in our class?
+- Who is the fattest in your family?
+- Who is the richest in the world?
+- Who was in my room last night?
+
+### What 作主语
+
+“what”作主语是单数概念，也就是第三人称单数，因此时态结构要注意。
+
+句型 1：What + 谓语动词 + （宾语）+ （状语）？
+
+- What makes you sad?
+- What brings you here?
+- What made you angry just now?
+- What will change you in the future?
+- What has changed you?
+- What is killing you?
+
+这个句型里面的 what 一般指抽象概念，所以要注意逻辑问题。
+
+句型 2：What（主语） + be + 形容词/介词短语（表语）+ 状语
+
+- What is in your pocket?
+- What is the most important in life?
+
+注意，这个句型 be 后面的词语如果是名词或人称代词主格，那 what 就是属于表语，而不是主语。
+
+### what 做定语
+
+what 也可以跟 whose 一样做前置定语，修饰一个名词，然后，what+名词=复合疑问词，当然这个复合疑问词也可以作主语，宾语，表语等，比如：
+
+- What computer is the smallest?
+- What color do you like?
+- What kind of person is she?
+
+注意，“what”一般不能直接修饰表人的名词，所以用“what kind of + 表示人的名词”，另外，根据冠词规则，如果名词前面有了形容词性物主代词，疑问词，不定代词等修饰，名词前面不能用冠词。
+
+- What kind of girl is she？
