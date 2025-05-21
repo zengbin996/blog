@@ -29,6 +29,16 @@ function generateRandomPhoneNumber() {
   return phoneNumber;
 }
 
+const a = `
+What time does the next bus leave?
+次のバス何時ですか？
+
+It will leave at 2:35 pm
+午後2:35です
+
+
+`;
+
 const formData = ref({
   account: generateRandomPhoneNumber(),
   password: 'www123',
