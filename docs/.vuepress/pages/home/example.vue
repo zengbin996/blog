@@ -30,18 +30,8 @@ function generateRandomPhoneNumber() {
 }
 
 const a = `
-|りゅうこしゅぞう|竜子酒造||
-|なんと|||
-|キャブテン|||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+
+
 `;
 
 const formData = ref({
