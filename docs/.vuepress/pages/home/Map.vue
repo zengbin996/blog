@@ -8,8 +8,6 @@
 import { onMounted, ref } from 'vue';
 import { IsMedia } from '../../utils/index';
 import china from './china.json';
-import * as echarts from 'echarts';
-echarts.registerMap('china', china);
 
 const chartDomRef = ref(null);
 
@@ -73,7 +71,10 @@ let footprint = [
 
 footprint = footprint.map(([longitude, latitude]) => [latitude, longitude]);
 
-const echartsDraw = () => {
+const echartsDraw = async () => {
+  const echarts = await import('echarts'); // 👈 这里动态引入
+  echarts.registerMap('china', china);
+
   const chartDom = chartDomRef.value;
   const myChart = echarts.init(chartDom);
   chartDom.removeAttribute('_echarts_instance_');
