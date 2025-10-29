@@ -34,7 +34,7 @@ const a = `
 
 const formData = ref({
   account: generateRandomPhoneNumber(),
-  password: 'www123',
+  password: '',
   code: '',
 });
 
