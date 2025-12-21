@@ -102,3 +102,42 @@ to buy, to kill, to sleep, to run, to be
 of sb ：更强调“我们”自身的品质，带有一种内在的评价，像是说“我们选择这样做体现了我们的智慧”。语气上可能稍显正式或主观。
 
 for sb ：更强调行为对“我们”的好处，像是说“对我们而言，这是一个明智的做法”。语气上更中立、更常见，适用性更广。
+
+## 动词不定式短语做表语
+
+句型：主语+be+动词不定式短语
+
+主语不能是表示人或动物的词语，也不能是表示具体事物的词语，必须是某特定的抽象名词。这些特殊的抽象名词，没有什么规则，一般来说，符合逻辑即可。
+
+- Our goal is to finish our course in three mouths.
+- Her wish is to become a pop singer.
+- My wish is to be a boss.
+- My plan is to buy a villa next year.
+
+## 动词不定式短语作宾语
+
+句型：主语 + 及物动词 + 动词不定式短语（宾语）
+
+注意：动词不定式短语是一个独立的结构，本身没有人称和数的变化，不受整句话主语人称的影响，也不受位于动词的时态变化。
+
+可以跟动词不定式短语作宾语的动词
+
+want need like wish hate prefer hope continue manage try offer start forget remember begin decide
+
+agree choose learn pretend promise plan expect desire refuse claim
+
+错误示例：I wanted to bought a house last year.
+
+虽然，动词不定式短语作宾语是独立的，不受谓语动词影响。但是英语每句话都要考虑时态问题，所以，必须考虑谓语动词的时态问题。
+
+I pretended to read book just now.
+
+My fans have decided to come to Tokyo.
+
+I chose to be a teacher 15 years ago.
+
+The girl tries to be happy every day.
+
+My leader refused to drink beer last night.
+
+## 动词不定式短语做后置定语
