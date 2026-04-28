@@ -1,12 +1,12 @@
 # SQL 语句
 
-SQL 语句主要分为四类
+SQL 语句主要分为五类
 
-- DQL（数据查询语言）: 查询语句，凡是 select 语句都是 DQL。
-- DML（数据操作语言）：insert delete update，对表当中的数据进行增删改。
-- DDL（数据定义语言）：create drop alter，对表结构的增删改。
-- TCL（事务控制语言）：commit 提交事务，rollback 回滚事务。(TCL 中的 T 是 Transaction)
-- DCL（数据控制语言）: grant 授权、revoke 撤销权限等。
+- DQL（数据查询语言）：查询语句，凡是 select 语句都是 DQL。
+- DML（数据操作语言）：insert、delete、update，对表中的数据进行增删改。
+- DDL（数据定义语言）：create、drop、alter，对表结构进行增删改。
+- TCL（事务控制语言）：commit 提交事务，rollback 回滚事务（TCL 中的 T 是 Transaction）。
+- DCL（数据控制语言）：grant 授权、revoke 撤销权限等。
 
 ## 查询 （DQL）
 
@@ -252,7 +252,7 @@ ORDER BY
 > max 最大值
 > min 最小值
 
-所有的分组函数都是对“某一组”数据进行操作的。所有的分组函数都是对“某一组”数据进行操作的。
+所有的分组函数都是对”某一组”数据进行操作的。
 
 ```sql
 -- 找出工资总和？

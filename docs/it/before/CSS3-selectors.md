@@ -1,19 +1,19 @@
 # CSS3 选择器
 
-###属性选择器
+### 属性选择器
 
-- [attr^=vlaue] 选择器
-  指定属性名，且属性值必须以 value 开头
+- `[attr^=value]` 选择器
+  指定属性名，且属性值必须以 value **开头**
   ![](https://upload-images.jianshu.io/upload_images/19038988-9c0a5ada000aa676.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- [attr@=vlaue] 选择器
-  指定属性名，且属性值必须以 value 结尾
+- `[attr$=value]` 选择器
+  指定属性名，且属性值必须以 value **结尾**
   ![](https://upload-images.jianshu.io/upload_images/19038988-2d5ea45bba589a10.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- [attr*=vlaue] 选择器
-  指定属性名，且属性值只要包括 value 即可
+- `[attr*=value]` 选择器
+  指定属性名，且属性值只要**包含** value 即可
 
-###伪类结构选择器
+### 伪类结构选择器
 
 - :first-child 选择器
   :first-child 选择器用于选取属于其父元素的首个子元素的指定选择器。
@@ -42,8 +42,8 @@
   n 可以是数字、关键词或公式。
   ![](https://upload-images.jianshu.io/upload_images/19038988-0e3041e48f7a3c45.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- nth-of-type(n) 选择器
-  :nth-of-type(n) 选择器匹配属于父元素的特定类型的第 N 个子元素的每个元素.
+- `:nth-of-type(n)` 选择器
+  `:nth-of-type(n)` 选择器匹配属于父元素的特定类型的第 N 个子元素。
   n 可以是数字、关键词或公式。
   ![](https://upload-images.jianshu.io/upload_images/19038988-66d12d543d751c7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

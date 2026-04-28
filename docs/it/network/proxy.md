@@ -23,7 +23,7 @@ git config --global --unset http.proxy
 git config --global --unset https.proxy
 ```
 
-设置尽在连接`github.com`时有效
+仅在连接 `github.com` 时使用代理
 
 ```bash
 git config --global http.https://github.com.proxy socks5://127.0.0.1:10808

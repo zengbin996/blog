@@ -5,7 +5,6 @@
 ```javascript
 /**
  * 表格内容自动滚动方法
- * 2022年7月7日
  * @param {Object} table - el-table 的 ref 对象
  * @param {Number} speed - 每次滚动的间隔时间（毫秒），默认 30ms 滚动 1px
  */

@@ -21,11 +21,11 @@ function selectionSort(arr) {
 
 ### 冒泡排序
 
-是一种计算解学领域的较简单的排序算法。
+是一种计算机科学领域中较简单的排序算法。
 
 它重复地走访过要排序的元素列，依次比较两个相邻的元素，如果他们的顺序（如从大到小、首字母从 A 到 Z）错误就把他们交换过来。走访元素的工作是重复地进行直到没有相邻元素需要交换，也就是说该元素已经排序完成。
 
-```
+```javascript
 function bubbleSort(arr) {
     for (let i = 0; i < arr.length; i++) {
         for (let j = 0; j < arr.length - i; j++) {

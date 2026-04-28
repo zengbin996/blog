@@ -26,17 +26,19 @@ export { name1, name2, name3 };
 import { name1, name2, name3 } from './test.js';
 ```
 
-取别名
+取别名（导出时重命名，导入时用 `* as` 整体引入）
 
 ```js
-//导出
+// 导出时取别名
 let name1 = 'zhangsan';
 let name2 = 'lisi';
 let name3 = 'wangwu';
 export { name1 as n1, name2 as n2, name3 as n3 };
 
-//导入
+// 导入全部（通过别名对象访问）
 import * as name from './test.js';
+console.log(name.n1); // 'zhangsan'
+console.log(name.n2); // 'lisi'
 ```
 
 默认导出，一个模块只能有一个默认导出，对于默认导出，导入的名称可以和导出的名称不一致

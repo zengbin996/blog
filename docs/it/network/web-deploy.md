@@ -2,13 +2,13 @@
 
 ### 前期准备
 
-1. 购买一台云服务器(一下操作基于腾讯云轻量级服务器,系统为 CentOS7.6)
-2. 设置防火墙，如无特殊寻求，设置为全部开放即可
+1. 购买一台云服务器（以下操作基于腾讯云轻量级服务器，系统为 CentOS7.6）
+2. 设置防火墙，如无特殊需求，设置为全部开放即可
    ![](https://upload-images.jianshu.io/upload_images/19038988-54b57c27b6523aaa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 3. 重置密码
    ![](https://upload-images.jianshu.io/upload_images/19038988-f31bfdf9c371cade.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-4. 登录(默认基于 root 用户,其他用户可能存在权限问题)
-   可以使用 XShell 或者其他的工具进行登录, 考虑到很多前端人员对 linux 操作不够熟悉, 本教程使用 vscod 登录
+4. 登录（默认使用 root 用户，其他用户可能存在权限问题）
+   可以使用 XShell 或其他工具进行登录，考虑到很多前端人员对 Linux 操作不够熟悉，本教程使用 VSCode 登录
    首先安装`Remote - SSH`插件, 安装完成后会在左侧工具栏生成一个选项, 点击进入插件, 配置 ssh; 输入 `ssh 用户名@服务器地址 -A`, 例如 `ssh root@192.168.1.1 -A`
    ![](https://upload-images.jianshu.io/upload_images/19038988-c9c4270e454d550c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
    点击回车会让你选择配置文件保存位置, 随便选择一个即可, 接下来就可以连接服务器了, 进去会让你选择主机, 选择 Linux 即可
@@ -27,7 +27,7 @@
 
 ##### 安装必要的软件
 
-安装软件主要有三种方式, 一下用三种安装方式分别安装一个软件
+安装软件主要有三种方式，以下分别用三种方式各安装一个软件作为示例
 
 > NGINX yum 安装
 
@@ -97,33 +97,33 @@ wget https://www.kernel.org/pub/software/scm/git/git-2.38.1.tar.gz
 
 2. 解压源码
 
-```base
-tar -zxvf git-2.38.1
+```bash
+tar -zxvf git-2.38.1.tar.gz
 ```
 
-3. 安装编译环境
+3. 安装编译依赖
 
-```base
+```bash
 yum install curl-devel expat-devel openssl-devel zlib-devel gcc-c++
 yum install perl-ExtUtils-MakeMaker automake autoconf libtool make
 ```
 
 4. 编译安装
 
-```base
+```bash
 cd git-2.38.1
 make configure
 ./configure --prefix=/usr/local/git
-make profix=/usr/local/git
+make prefix=/usr/local/git
 make install
 ```
 
-6. 配置环境变量, 在文件`/etc/profile`末尾添加如下两行代码, 并执行`source /etc/profile`让配置生效
+5. 配置环境变量，在文件 `/etc/profile` 末尾添加如下两行代码，并执行 `source /etc/profile` 让配置生效
 
-```base
+```bash
 export GIT_HOME=/usr/local/git
 export PATH=$PATH:$GIT_HOME/bin
 ```
 
-7.测试
+6. 测试
 ![](https://upload-images.jianshu.io/upload_images/19038988-39a2e3312cc9bc14.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

@@ -265,16 +265,19 @@ export default function App() {
 `A.js`
 
 ```javascript
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import store from './store';
 
 export default function A() {
   const [count, setCount] = useState(store.getState().value);
 
-  store.subscribe(() => {
-    const { value } = store.getState();
-    setCount(value);
-  });
+  useEffect(() => {
+    // 组件挂载时订阅，卸载时取消订阅，避免内存泄漏
+    const unsubscribe = store.subscribe(() => {
+      setCount(store.getState().value);
+    });
+    return unsubscribe;
+  }, []);
 
   return <div>A 组件：{count}</div>;
 }
@@ -283,23 +286,27 @@ export default function A() {
 `B.js`
 
 ```javascript
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import store from './store';
 
 export default function B() {
   const [count, setCount] = useState(store.getState().value);
 
-  store.subscribe(() => {
-    const { value } = store.getState();
-    setCount(value);
-  });
+  useEffect(() => {
+    const unsubscribe = store.subscribe(() => {
+      setCount(store.getState().value);
+    });
+    return unsubscribe;
+  }, []);
 
   return <div>B 组件：{count}</div>;
 }
 ```
 
+> **注意：** `store.subscribe()` 必须在 `useEffect` 中调用，并在清理函数中调用返回的 `unsubscribe`，否则每次组件重新渲染都会注册新的订阅，导致内存泄漏。
+
 [在线打开 - CodeSandbox](https://codesandbox.io/s/react-reduxchuan-can-u8rrhr)
 
 Redux 详细使用方法请参考官方文档：[入门 Redux | Redux 中文官网](https://cn.redux.js.org/introduction/getting-started)
 
-> **提示：** 在实际项目中，推荐使用 **Redux Toolkit**（RTK）代替原生 Redux，它大幅简化了配置和样板代码。
+> **提示：** `createStore` 在 Redux 4.x 中已标记为废弃。在实际项目中，推荐使用 **Redux Toolkit**（RTK）代替原生 Redux，它内置了 `configureStore`、`createSlice` 等工具，大幅简化了配置和样板代码。

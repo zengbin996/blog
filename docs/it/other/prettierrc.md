@@ -11,7 +11,7 @@ module.exports = {
   tabWidth: 2, //缩进
   trailingComma: 'es5', //后置逗号，多行对象、数组在最后一行增加逗号
   arrowParens: 'avoid', //箭头函数只有一个参数的时候可以忽略括号
-  bracketSpacing: true, //括号内部不要出现空格
+  bracketSpacing: true, //对象字面量花括号内部两侧添加空格，如 { foo: bar }
   proseWrap: 'preserve', //换行方式 默认值。因为使用了一些折行敏感型的渲染器（如GitHub comment）而按照markdown文本样式进行折行
   parser: 'babylon', //格式化的解析器，默认是babylon
   endOfLine: 'auto', // 结尾是 \n \r \n\r auto

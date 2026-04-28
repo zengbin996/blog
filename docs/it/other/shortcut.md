@@ -27,12 +27,12 @@
 - Ctrl + Z 撤销
 - Ctrl + Y 重做（反撤销）
 - Ctrl + Tab 切换窗口
-- Ctrl + Shift + Esc / Ctrl + Alt + Dle 任务管理器
+- Ctrl + Shift + Esc / Ctrl + Alt + Del 任务管理器
 - Ctrl + E 显示搜索框
   **Win 组合键**
 
 - Win + S 打开搜索
-- Win + Tab 打开任务试图
+- Win + Tab 打开任务视图
 - Win + E 打开资源管理器
 - Win + I 打开设置
 - Win + D 显示桌面
@@ -49,9 +49,8 @@
 
 ---
 
-- Ctrl + T 新建页面
-- Ctrl + W / Ctrl + F4 关闭当前页面
-- Ctrl + Z 恢复关闭的窗口
+- Ctrl + T 新建标签页
+- Ctrl + W / Ctrl + F4 关闭当前标签页
 - Ctrl + N 新建窗口
 - Ctrl + H 历史记录
 - Ctrl + R / F5 刷新

@@ -112,3 +112,28 @@ for (let [key, value] of map) {
   console.log(key, value);
 }
 ```
+
+### WeakSet
+
+`WeakSet` 与 `Set` 类似，但有两点区别：
+1. **成员只能是对象**，不能是基本类型值；
+2. 对成员的引用是**弱引用**，如果对象在其他地方没有被引用，GC 会自动回收，`WeakSet` 不会阻止垃圾回收。
+
+因此 `WeakSet` 不可遍历，适合存储 DOM 节点等需要自动清理的场景。
+
+### WeakMap
+
+`WeakMap` 与 `Map` 类似，但**键只能是对象**，且同样是弱引用。当键对象被回收后，对应的键值对也会自动消失。
+
+常见用途：为 DOM 元素或组件实例附加元数据，无需手动清理。
+
+```javascript
+let weakMap = new WeakMap();
+let obj = {};
+weakMap.set(obj, '附加数据');
+console.log(weakMap.get(obj)); // '附加数据'
+```
+
+### TypedArray
+
+`TypedArray`（类型化数组）是操作二进制数据的一组视图类型，如 `Int8Array`、`Uint8Array`、`Float32Array` 等，常用于 WebGL、音视频处理、网络协议解析等场景，性能优于普通 `Array`。
