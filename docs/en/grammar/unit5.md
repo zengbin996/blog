@@ -12,7 +12,7 @@
 
 - I buy a book.
 
-不及物动词就是不能用实义动词
+不及物动词就是不需要宾语的实义动词
 
 - I work.
 
@@ -25,28 +25,28 @@
 - I will be a teacher.
 - I am a teacher.
 - She is a teacher.
-- Your are a thacher.
-- He was a thacher before.
-- They were thachers bofore.
-- I have been a thacher for three yaras.
-- being a thacher.
+- You are a teacher.
+- He was a teacher before.
+- They were teachers before.
+- I have been a teacher for three years.
+- being a teacher.
 
 be 用于将来时态，am/is/are 用于一般现在时态，was/were 用于一般过去时态，been 用于完成时态和被动语态。
 
-除了“be”，还有一些其他的系动词，但这些系动词不是专门的，而是从实义动词借过来临时充当系动词用的。当这个实习用词被用来偶系动词的时候，原本意思就发生变化，并且只能跟形容词做表语。
+除了“be”，还有一些其他的系动词，但这些系动词不是专门的，而是从实义动词借过来临时充当系动词用的。当这个实义动词被用来充当系动词的时候，原本意思就发生变化，并且只能跟形容词做表语。
 
 例如：“look”原本意思是“看”，有时候可以充当一个系动词，表示“看起来”。
 
-- You look beauriful.
+- You look beautiful.
 
-常见的系动词：keep/look/smell/taste/sound/fell/seem/become/get
+常见的系动词：keep/look/smell/taste/sound/feel/seem/become/get
 
 3. 助动词：也叫结构助动词，帮助实义动词和系动词构成符合谓语结构，一般没有意思。也没有专门的助动词，他都是从其他动词里面借过来的。
 
-- I am working now. (“am”就使从系动词借过来的助动词，没有意思，构成现在进行时态)
+- I am working now. (“am”就是从系动词借过来的助动词，没有意思，构成现在进行时态)
 - Do you love me? (do 构成一般疑问句)
 - I do not love you. (do 构成否定句)
-- I have learned English for the years. (have 构成现在完成时态)
+- I have learned English for ten years. (have 构成现在完成时态)
 
 4. 情态动词：跟实义动词原型和系动词原型构成复合谓语，有意义。并且有专门的情态动词。情态动词必须跟实义动词和系动词原型，不能跟其他格式。
 

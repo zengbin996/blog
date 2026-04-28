@@ -36,7 +36,7 @@
 3. 人称代词主格 + is/are/am + 名词
 
 - I am a student.
-- You are teacher.
+- You are a teacher.
 - She is a nurse .
 - He is my teacher.
 - It is my room.
@@ -72,7 +72,7 @@
 3. 主语 + 双宾动词 + 间接宾语 + 直接宾语
 4. 主语 + 及物动词 + 宾语 + 宾补
 
-主谓宾的句型的主语又分为两种情况，第三人称单数和非第三人称单数，他们对应的谓语动词会有所不同，下面分来来讲。
+主谓宾句型的主语分为两种情况：第三人称单数和非第三人称单数，它们对应的谓语动词形式有所不同，下面分开来讲。
 
 ### 非第三人称单数
 
@@ -110,7 +110,7 @@
 
 - Do they walk every day?
 - Do you work every day?
-- Do the secretaries?
+- Do the secretaries drink coffee every day?
 
 变否定句，在谓语动词原型前面加助动词“do”的否定格式“do not”或者缩写格式“don't”。
 
@@ -178,10 +178,10 @@ second 秒 / minute 分钟 / hour 小时 / morning 早上
 
 noon 中午 / afternoon 下午 / evening 晚上 / night 夜晚
 
-day 天 / year 天 / week 周 / month 月 / season 季度
+day 天 / year 年 / week 周 / month 月 / season 季度
 
 2. 频度副词
 
-always 总是 / often 经常 / usually 通常 / something 有时候
+always 总是 / often 经常 / usually 通常 / sometimes 有时候
 
 seldom 很少 / occasionally 偶尔 / never 从不

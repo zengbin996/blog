@@ -21,7 +21,7 @@
 - My teacher will be busy tomorrow.
 - Her boyfriend will be tired tonight.
 - The house will be cheap next year.
-- There girls will be famous in the future.
+- These girls will be famous in the future.
 
 3. 人称代词主格 + will + be + 名词 + 将来时间状语
 
@@ -78,7 +78,7 @@
 - My fans will not help me tomorrow.
 - I won't clean my desk tomorrow.
 
-变一般疑问句，直接把助动词 will 移到句首，句尾加问好即可。
+变一般疑问句，直接把助动词 will 移到句首，句尾加问号即可。
 
 - Will they buy beef tomorrow?
 - Will you clean your desk tomorrow?

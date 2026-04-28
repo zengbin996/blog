@@ -1,264 +1,292 @@
 # 网页常用布局方式
 
-#### 两列布局（左边固定，右边自适应）
+## 两列布局（左边固定，右边自适应）
 
 ![两列布局](https://upload-images.jianshu.io/upload_images/19038988-c188a4a94090ef3a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-html 结构
+HTML 结构：
 
-```
+```html
 <div class="box">
-	<div class="left">左边</div>
-	<div class="right">右边</div>
+  <div class="left">左边</div>
+  <div class="right">右边</div>
 </div>
 ```
 
-1.浮动
+### 方法 1：浮动
 
-```
+```css
 .left {
-    width: 200px;
-    float: left;
-    background-color: green;
+  width: 200px;
+  float: left;
+  background-color: green;
 }
 
 .right {
-    background-color: blue;
-    overflow: hidden;/*方法一*/
-    margin-left: 200px;/*方法二*/
+  background-color: blue;
+  overflow: hidden;   /* 方法一：触发 BFC */
+  /* margin-left: 200px; */ /* 方法二：设置左外边距 */
 }
 ```
 
-2. inline-block 布局
+### 方法 2：inline-block 布局
 
-```
+```css
 .box {
-	font-size: 0;/*解决空格对inline-block元素的影响*/
+  font-size: 0; /* 消除 inline-block 元素之间的空格影响 */
 }
 
 .left {
-	background-color: green;
-	display: inline-block;
-	width: 200px;
-	font-size: 16px;
+  background-color: green;
+  display: inline-block;
+  width: 200px;
+  font-size: 16px;
 }
 
 .right {
-	background-color: blue;
-	display: inline-block;
-	width: calc(100% - 200px);
-	font-size: 16px;
+  background-color: blue;
+  display: inline-block;
+  width: calc(100% - 200px);
+  font-size: 16px;
 }
 ```
 
-3. 绝对定位
+### 方法 3：绝对定位
 
-```
+```css
 .box {
-	position: relative;
+  position: relative;
 }
 
 .left {
-	position: absolute;
-	width: 200px;
-	background-color: green;
+  position: absolute;
+  width: 200px;
+  background-color: green;
 }
 
 .right {
-    background-color: blue;
+  background-color: blue;
+  margin-left: 200px;      /* 方法一：设置左外边距 */
 
-    margin-left: 200px; /*方法一*/
-
-    position: absolute;/*方法二*/
-    left: 200px;/*方法二*/
-    right: 0;/*方法二*/
+  /* 方法二：绝对定位充满右侧 */
+  /* position: absolute; */
+  /* left: 200px; */
+  /* right: 0; */
 }
 ```
 
-4. 表格布局
+### 方法 4：表格布局
 
-```
+```css
 .box {
-	display: table;
-	width: 100%;
+  display: table;
+  width: 100%;
 }
 
 .left {
-	width: 200px;
-	background-color: green;
-	display: table-cell;
+  width: 200px;
+  background-color: green;
+  display: table-cell;
 }
 
 .right {
-	background-color: blue;
+  background-color: blue;
+  display: table-cell;
 }
 ```
 
-5. 弹性盒子布局
+### 方法 5：弹性盒子布局（推荐）
 
-```
+```css
 .box {
-	display: flex;
+  display: flex;
 }
 
 .left {
-	width: 200px;
-	background-color: green;
+  width: 200px;
+  background-color: green;
 }
 
 .right {
-	flex: 1;
-	background-color: blue;
+  flex: 1;
+  background-color: blue;
 }
 ```
 
-6. 网格布局
+### 方法 6：网格布局
 
-```
+```css
 .box {
-	display: grid;
-	grid-template-rows: auto;
-	grid-template-columns: 200px auto;
+  display: grid;
+  grid-template-columns: 200px auto;
 }
 
 .left {
-	background-color: green;
+  background-color: green;
 }
 
 .right {
-	background-color: blue;
+  background-color: blue;
 }
 ```
 
-#### 三列布局（左右固定，中间自适应）
+---
+
+## 三列布局（左右固定，中间自适应）
 
 ![三列布局](https://upload-images.jianshu.io/upload_images/19038988-becc4d014354f6ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-在三列布局中，考虑浏览器性能及网速问题，应该把中间的主题部分优先显示出来，然后在显示两边的。在写的时候把中间的标签写在两边的上面
-两列布局很多也适用于三列布局，此处只描述两种最经典的。
 
-1. 圣杯布局
+> **注意：** 出于性能和用户体验考虑，应将中间主体内容的标签写在左右两侧之前，使其优先加载和渲染。
 
-html 部分
+### 方法 1：圣杯布局
 
-```
+HTML 部分：
+
+```html
 <div class="parent">
-	<div class="center">1</div>
-	<div class="left">2</div>
-	<div class="right">3</div>
+  <div class="center">中间</div>
+  <div class="left">左边</div>
+  <div class="right">右边</div>
 </div>
 ```
 
-css 部分
+CSS 部分：
 
-```
-.column {
-	float: left;
-	}
+```css
+.center,
+.left,
+.right {
+  float: left;
+}
 
-.left, .right{
-	width: 200px;
-	background-color: red;
+.left,
+.right {
+  width: 200px;
+  background-color: red;
 }
 
 .left {
-	margin-left: -100%;
+  margin-left: -100%;
 }
 
 .right {
-	margin-left: -200px;
+  margin-left: -200px;
 }
 
 .center {
-	width: 100%;
-	padding: 0 200px;
-	box-sizing: border-box;
-	background-color: green;
+  width: 100%;
+  padding: 0 200px;
+  box-sizing: border-box;
+  background-color: green;
 }
-
 ```
 
-2. 双飞翼布局
+### 方法 2：双飞翼布局
 
-html 部分
+HTML 部分：
 
-```
+```html
 <div class="parent">
-	<div class="box column">
-		<div class="center">中间</div>
-	</div>
-	<div class="left column">左边</div>
-	<div class="right column">右边</div>
+  <div class="box column">
+    <div class="center">中间</div>
+  </div>
+  <div class="left column">左边</div>
+  <div class="right column">右边</div>
 </div>
 ```
 
-css 部分
+CSS 部分：
 
-```
+```css
 .column {
-	float: left;
+  float: left;
 }
 
-.right, .left {
-	width: 200px;
-	background-color: red;
+.left,
+.right {
+  width: 200px;
+  background-color: red;
 }
 
 .box {
-	width: 100%;
+  width: 100%;
 }
 
 .left {
-	margin-left: -100%;
+  margin-left: -100%;
 }
 
 .right {
-	margin-left: -200px;
+  margin-left: -200px;
 }
 
 .center {
-	margin: 0 200px;
-	background: green;
+  margin: 0 200px;
+  background: green;
 }
 ```
 
-#### 等高布局
+---
+
+## 等高布局
 
 ![等高布局](https://upload-images.jianshu.io/upload_images/19038988-95f60c9c94df895d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-1. 内外边距相消法（模拟等高）
+### 方法 1：内外边距相消法（模拟等高）
 
-HTML 部分
+利用 `padding-bottom` 设置超大正值、`margin-bottom` 设置相同负值相互抵消，配合父元素 `overflow: hidden` 裁剪多余区域，产生视觉等高效果。
 
-```
+HTML 部分：
+
+```html
 <div class="container">
-	<div class="box1">
-		<p>中</p>
-		<p>国</p>
-	</div>
-	<div class="box2">
-		<p>中国</p>
-	</div>
-	<div class="box3">
-		<p>中国</p>
-	</div>
+  <div class="box1">
+    <p>内容一</p>
+    <p>内容二</p>
+  </div>
+  <div class="box2">
+    <p>内容</p>
+  </div>
+  <div class="box3">
+    <p>内容</p>
+  </div>
 </div>
 ```
 
-css 部分
+CSS 部分：
 
-```
+```css
 .container {
-	overflow: hidden;
+  overflow: hidden;
 }
 
-.box1, .box2, .box3 {
-	float: left;
-	margin-left: 20px;
-	padding-bottom: 9999px;
-	margin-bottom: -9999px;
-	width: 300px;
-	background: skyblue;
+.box1,
+.box2,
+.box3 {
+  float: left;
+  margin-left: 20px;
+  padding-bottom: 9999px;
+  margin-bottom: -9999px;
+  width: 300px;
+  background: skyblue;
 }
 ```
 
-_以下方法在横向布局中都有描述，不在细述_ 2. 表格布局 3. 弹性盒子布局 4. 网格布局
+### 方法 2：表格布局
+
+使用 `display: table` 和 `display: table-cell`，单元格默认等高。
+
+### 方法 3：弹性盒子布局（推荐）
+
+Flex 容器的 `align-items` 默认值为 `stretch`，子元素会自动拉伸到相同高度。
+
+```css
+.container {
+  display: flex;
+  align-items: stretch; /* 默认值，可省略 */
+}
+```
+
+### 方法 4：网格布局
+
+Grid 布局同一行内的子元素默认等高。

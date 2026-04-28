@@ -1,6 +1,6 @@
 # 一般过去时态
 
-用法：一般过去时态表示过去发生的动作或者状态。一般过去时态专门用来做一些记录或者尽力。例如故事，小说，新闻等，都需要用一般过去时态。
+用法：一般过去时态表示过去发生的动作或者状态。一般过去时态专门用来做一些记录或者叙述，例如故事、小说、新闻等，都需要用一般过去时态。
 
 ## 主系表
 
@@ -75,7 +75,7 @@
 - I bought a book yesterday.
 - She helped an old man just now.
 - They cooked beef this morning.
-- It are my peanuts last night.
+- It ate my peanuts last night.
 - My fans bought many gifts yesterday.
 - Her father killed a fish just now.
 - His wife called him last night.

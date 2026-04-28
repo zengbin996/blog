@@ -1,12 +1,14 @@
-# 关于异步编程数据传递问题
+# JavaScript 异步编程
 
-在传统的观念里，我们要解决异步编程的数据传递往往是使用回调函数来解决。但是当我们的数据越来越多时，回调函数也会变得越来越多，这样使得代码杂乱无章，不利于我们的阅读和维护。因此在 ES6 中给我们提供了几种不用回调函数也能解决异步编程的数据传递。
+在传统写法中，解决异步编程的数据传递往往依赖**回调函数**。但当异步操作层层嵌套时，回调函数也随之层层嵌套，形成"回调地狱"，代码难以阅读和维护。ES6 起提供了多种更优雅的异步解决方案。
 
-### Generator 函数
+---
 
-Generator 函数相当于一个状态机，封装了多个内部状态。执行 Generator 函数会返回一个遍历器对象，可以依次的遍历 Generator 函数内部的每一个状态。
+## Generator 函数
 
-#### 使用方法
+**Generator 函数**相当于一个状态机，封装了多个内部状态。调用 Generator 函数不会立即执行，而是返回一个**遍历器对象**（Iterator），通过调用 `next()` 方法可以依次执行函数内部的每个状态。
+
+### 基本语法
 
 ```javascript
 function* generatorFn() {
@@ -16,68 +18,81 @@ function* generatorFn() {
 }
 
 var gen = generatorFn();
-console.log(gen.next());
-console.log(gen.next());
-console.log(gen.next());
+console.log(gen.next()); // {value: "hello",     done: false}
+console.log(gen.next()); // {value: "Generator", done: false}
+console.log(gen.next()); // {value: "ending",    done: true}
 ```
 
-定义时`function`和函数名字中间有一个`*`，`yield`相当于阻断器，每当函数执行到这里时都会阻断去执行`yield`后面的代码，`next()`方法会执行下一步，并且返回`yield`执行的结果
+- 定义时在 `function` 关键字后加 `*`。
+- `yield` 是"暂停点"，函数执行到 `yield` 时暂停，并将 `yield` 后的表达式值作为返回值。
+- 调用 `next()` 方法恢复执行，直到下一个 `yield` 或 `return`。
 
-##### next()方法
+### next() 方法返回值
 
-`next()`方法会执行`generator`的代码，然后，每次遇到`yield x`;就返回一个对象`{value: x, `done`: true/false}`，然后“暂停”。返回的`value`就是`yield`的返回值，`done`表示这个`generator`是否已经执行结束了。如果`done`为`true`，则`value`就是`return`的返回值。当执行到`done`为`true`时，这个`generator`对象就已经全部执行完毕，不要再继续调用`next()`了。
+每次调用 `next()` 返回一个对象 `{ value, done }`：
 
-### Promise 对象
+- `value`：当前 `yield` 表达式的值；若已执行完毕则为 `return` 的值。
+- `done`：`false` 表示 Generator 未执行完，`true` 表示已执行结束。
 
-Promise 对象代表了未来将要发生的事件，用来传递异步操作的消息。
+当 `done` 为 `true` 后，不应再调用 `next()`。
 
-Promise 对象有两个特点:
+---
 
-1. 对象的状态不受外界影响。Promise 对象代表一个异步操作，有三种状态：
+## Promise 对象
 
-- pending: 初始状态，不是成功或失败状态。
-- fulfilled: 意味着操作成功完成。
-- rejected: 意味着操作失败。
-  <br>
-  <br>
-  只有异步操作的结果，可以决定当前是哪一种状态，任何其他操作都无法改变这个状态。这也是 Promise 这个名字的由来，它的英语意思就是「承诺」，表示其他手段无法改变。
+**Promise** 代表一个异步操作最终完成或失败的结果，用于解决回调地狱问题。
 
-2. 一旦状态改变，就不会再变，任何时候都可以得到这个结果。Promise 对象的状态改变，只有两种可能：从 Pending 变为 Resolved 和从 Pending 变为 Rejected。只要这两种情况发生，状态就凝固了，不会再变了，会一直保持这个结果。就算改变已经发生了，你再对 Promise 对象添加回调函数，也会立即得到这个结果。这与事件（Event）完全不同，事件的特点是，如果你错过了它，再去监听，是得不到结果的。
-3.
+### 两个核心特点
 
-#### 使用方法
+1. **状态不受外界影响**：Promise 有三种状态，只有异步操作的结果才能决定当前状态：
+   - `pending`：初始状态，等待中
+   - `fulfilled`：操作成功完成
+   - `rejected`：操作失败
+
+2. **状态一旦改变，不可逆转**：只存在两种变化路径：`pending → fulfilled` 或 `pending → rejected`。状态凝固后，再添加回调也能立即得到结果（与事件监听不同，错过了事件就拿不到结果）。
+
+### 基本用法
 
 ```javascript
-let promis = new Promise(function (resolve, reject) {
+let promise = new Promise(function (resolve, reject) {
   setTimeout(function () {
-    if (1) {
-      resolve('成功');
+    if (true) {
+      resolve('成功'); // 将 Promise 状态改为 fulfilled
     } else {
-      reject('失败');
+      reject('失败');  // 将 Promise 状态改为 rejected
     }
   }, 1000);
 });
 
-//一下方法可以捕获成功和失败后返回的数据
-promis.then(function (onFulfilled, onRejected) {
-  console.log(onFulfilled, onRejected);
+// 写法一：then 接收两个回调（第一个处理成功，第二个处理失败）
+promise.then(function (value) {
+  console.log('成功：', value);
+}, function (reason) {
+  console.log('失败：', reason);
 });
 
-//以上代码也可以这样写
-promis
+// 写法二：then + catch（推荐，链式调用更清晰）
+promise
   .then(function (value) {
-    console.log(value);
+    console.log('成功：', value);
   })
-  .catch(function (value) {
-    console.log(value);
+  .catch(function (reason) {
+    console.log('失败：', reason);
   });
 ```
 
-### async 函数
+> **注意**：原文中 `then(function(onFulfilled, onRejected))` 的写法有误——`then` 接收的是两个**独立的回调函数**作为参数，而非将两个回调合并为一个函数的参数。
 
-async 是 ES7 才有的与异步操作有关的关键字，和 Promise ， Generator 有很大关联的。他相当于 Generator 的语法糖。
+---
 
-#### 使用方法
+## async / await
+
+**async/await** 是 ES2017（ES8）引入的异步语法糖，基于 Promise 实现，让异步代码写起来像同步代码，大幅提升可读性。
+
+- `async` 声明的函数总是返回一个 Promise。
+- `await` 只能在 `async` 函数内部使用，用于等待一个 Promise 完成，并取出其 resolved 值。
+
+### 基本用法
 
 ```javascript
 function fn() {
@@ -89,10 +104,35 @@ function fn() {
 }
 
 async function asyncPrint() {
-  let first = await fn();
-  console.log(first);
+  let result = await fn(); // 等待 fn() 的 Promise 完成
+  console.log(result);     // 1 秒后输出：成功
 }
 
 asyncPrint();
-//延迟1秒后输出 成功
 ```
+
+### 错误处理
+
+使用 `try...catch` 捕获 `await` 中可能抛出的错误：
+
+```javascript
+async function fetchData() {
+  try {
+    let result = await fn();
+    console.log(result);
+  } catch (err) {
+    console.error('请求失败：', err);
+  }
+}
+```
+
+---
+
+## 三种方案对比
+
+| 方案 | 引入版本 | 特点 |
+|------|----------|------|
+| 回调函数 | ES5 及之前 | 简单，但嵌套多时产生"回调地狱" |
+| Generator | ES6 | 可暂停函数，需配合执行器（如 `co`）使用 |
+| Promise | ES6 | 链式调用，解决回调地狱，但链较长时仍繁琐 |
+| async/await | ES8 | 最简洁直观，基于 Promise，推荐使用 |

@@ -5,7 +5,7 @@
 - alone 单独的
 - angry 生气的
 - bad 严重的
-- beautify 漂亮的
+- beautiful 漂亮的
 - big 大的
 - black 黑色的
 - blue 蓝色的
@@ -42,7 +42,7 @@
 - friendly 友好的
 - full 满的, 饱的
 - glad 高兴地,乐意的
-- good 有的, 良好的
+- good 好的, 良好的
 - great 伟大的, 重要的
 - green 绿色的
 - happy 高兴的

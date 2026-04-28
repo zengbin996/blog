@@ -76,7 +76,7 @@
 - leave 离开
 - lend 借出
 - like 喜欢
-- lock 丢失
+- lose 丢失
 - love 爱
 - make 制造
 - need 需要

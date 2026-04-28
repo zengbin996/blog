@@ -89,7 +89,7 @@
 - in Asia
 - in the world
 
-- We live in Chian.
+- We live in China.
 - I am happy in Xi'an.
 - The people in Asia are poor.
 - We are in Shaanxi.
@@ -142,11 +142,11 @@
 
 - at the bus stop
 - at the door
-- at the front dest
+- at the front desk
 
 - She met her classmate at the bus stop.
 - The dog is at the door.
-- The umbrella at the front dest in mine.
+- The umbrella at the front desk is mine.
 
 2. at + 基数词，表示“在几点”。
 
@@ -192,7 +192,7 @@
 - about buying a ship
 
 - The story is about me.
-- The stroy about me is not true.
+- The story about me is not true.
 
 2. about + 数词，表示“大概，大约”。
 
@@ -219,6 +219,6 @@
 1. as + 名词，意思是“作为...”
 
 - as an old teacher, I am tired every day.
-- an Chinese, we are so lucky.
+- As Chinese, we are so lucky.
 - I chose her as my wife.
 - I chose the novel as my textbook.
