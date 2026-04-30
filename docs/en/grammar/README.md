@@ -13,7 +13,7 @@
 如下例句：
 
 1. Lily is a student 莉莉是学生
-2. Xi An is beautiful 西安市美丽的
+2. Xi An is beautiful 西安是美丽的
 3. The book is expensive 这本书很贵
 4. English is easy 英语很容易
 5. China is very large 中国很大
@@ -28,7 +28,7 @@
 2. She is beautiful 她很漂亮
 3. You are rich 你是有钱的
 4. He is very handsome 他很帅
-5. It is cheap 他便宜
+5. It is cheap 它便宜
 6. We are busy 我们忙
 7. They are happy 他们是快乐的
 
@@ -48,11 +48,11 @@
 如下例句：
 
 1.  The first is important 第一很重要
-2.  Eight is a lucky number 8 是一个星宇号码
+2.  Eight is a lucky number 8 是一个幸运数字
 
 #### 动词不定式或短语做主语
 
-说到动词不定式做主语，先要了解什么叫非谓语动词，动词不定式和动名词都叫非谓语动词。在英语里面，动词原型不能直接做主语。例如：eat 是一个动词原型。如果你要表达吃很重要（民以食为天），不能直接说 “Eat is important”，而要说“Eating is important” 或者 “To eat is important”。“To eat”就是动词不定式，“eating”及时动名词，他们的意思都是一样的，只是形式不一样，在英语中就要遵守这种变化规则。
+说到动词不定式做主语，先要了解什么叫非谓语动词，动词不定式和动名词都叫非谓语动词。在英语里面，动词原型不能直接做主语。例如：eat 是一个动词原型。如果你要表达吃很重要（民以食为天），不能直接说 “Eat is important”，而要说“Eating is important” 或者 “To eat is important”。“To eat”就是动词不定式，”eating”就是动名词，它们的意思都是一样的，只是形式不一样，在英语中就要遵守这种变化规则。
 
 #### 句子做主语
 
@@ -80,7 +80,7 @@
 2. I run every day 我每天跑步
 3. I love you 我爱你
 4. I speak Chinese 我讲中文
-5. She looks after her brother 她照顾他的弟弟（looks after 是第三人称单数格式）
+5. She looks after her brother 她照顾她的弟弟（looks after 是第三人称单数格式）
 6. I get up at six 我六点起床
 
 ##### **复合谓语**
@@ -99,12 +99,12 @@
 
 3. 助动词+其他的动词形式，例如：
 
-- I an working now 我现在正在工作（现在进行时态）
+- I am working now 我现在正在工作（现在进行时态）
 - I have learned English for 10 years 我已经学了 10 年英语了（现在完成时态）
 
 #### 状态型谓语
 
-状态型谓语是由“系动词+表语”构成。从某种意义上讲，“系动词+表语”也是一种复位谓语。系动词及连系动词，一般分为两种：“be”和特殊的系动词，生活中大部分的系动词都是由“be”充当。
+状态型谓语是由”系动词+表语”构成。从某种意义上讲，”系动词+表语”也是一种复合谓语。系动词即连系动词，一般分为两种：“be”和特殊的系动词，生活中大部分的系动词都是由“be”充当。
 
 “be”是一个非常重要，也非常特殊的词语。“be”有八种格式，分别是：“be/am/is/are/was/were/being/been”，但是他们的意思都相同。“be”一般表示“是”的意思，有时候在中文里面不用翻译出来。例如：“I am happy”，一般会翻译成“我高兴”，而不是翻译成“我是高兴的”，不符合中文表达习惯。我们最熟悉的就是“is are am”，如下例句：
 
@@ -121,12 +121,12 @@
 形容词做表语：
 
 1. I am rich 我有钱
-2. You are busy 他忙绿
+2. You are busy 你忙碌
 3. He is rich 他有钱
 4. We are happy 我们是快乐的
 5. They are lucky 他们是幸运的
-6. It is beautify 她漂亮
-7. She is beautify 她漂亮
+6. It is beautiful 它漂亮
+7. She is beautiful 她漂亮
 8. The house is big 这个房子大
 
 名词作表语：
@@ -151,7 +151,7 @@
 
 宾语就是动作的对象或者承受者。英语的实义动词分为及物动词和不及物动词。
 
-及物动词后面一定要跟一个动作的对象或者承受者，也就是了宾语。因为如果没有宾语，这些及物动词就没有意义或者意思不完整了。比如“buy”（买）就是一个典型的需要加宾语的动词，你去商店买东西的时候，你一定要给人说你要买什么。否则别人没有办法理解你的意思。
+及物动词后面一定要跟一个动作的对象或者承受者，也就是宾语。因为如果没有宾语，这些及物动词就没有意义或者意思不完整了。比如“buy”（买）就是一个典型的需要加宾语的动词，你去商店买东西的时候，你一定要给人说你要买什么。否则别人没有办法理解你的意思。
 
 可以做宾语的成分：可以做主语的成分都可以做宾语，唯一的区别就是人称代词主格做主语，宾格做宾语，这个从命名上也能联想到。首先了解最简单的名词、代词、数词做宾语，如下例句：
 
@@ -166,7 +166,7 @@
 7. I borrowed a pen from him 我从他那里借了一支钢笔
 8. I found my key 我找到我的钥匙了
 
-人称代词作宾语。人称代词宾格：me（我）、you（你/你们）、her（她）、him（他）、it（它）、then（他们/她们/它们）、us（我们）
+人称代词作宾语。人称代词宾格：me（我）、you（你/你们）、her（她）、him（他）、it（它）、them（他们/她们/它们）、us（我们）
 
 1. I believe her 我相信她
 2. You believe me 你相信我
@@ -181,8 +181,8 @@
 
 双宾结构：有一些及物动词后面可以跟两个宾语。这两个宾语，一个是叫直接宾语，一个叫间接宾语。一般来说，表示人的叫间接宾语，表示物的叫直接宾语。例如：
 
-1. I gave her a book 他给她一本书（her 间接宾语，book 直接宾语）
-2. I gave a book to her 他给她一本书（例句 1 的另一种写法）
+1. I gave her a book 我给她一本书（her 间接宾语，book 直接宾语）
+2. I gave a book to her 我给她一本书（例句 1 的另一种写法）
 3. I gave Jack a book 我给杰克一本书
 
 ## 五、宾语补足语
@@ -204,7 +204,7 @@
 
 1. I call her Mary 我叫她玛丽
 2. You can call me Jack 你们可以叫我杰克
-3. I will make her a happy woman 我会让它成为一个幸福的女人
+3. I will make her a happy woman 我会让她成为一个幸福的女人
 
 数词做宾补：
 
@@ -230,13 +230,13 @@
 12. I speak English slowly 我说英语慢
 13. She reads English loudly 她大声地朗读英语
 14. She looked at him angrily 她生气的看着他
-15. I usually go home after work 我通常下班后回家（频度副词做时间状语，和中文语序一直，放中间）
-16. He ofter plays basketball after school 他放学后经常打篮球
+15. I usually go home after work 我通常下班后回家（频度副词做时间状语，和中文语序一致，放中间）
+16. He often plays basketball after school 他放学后经常打篮球
 17. I teach English in Beijing now 我在北京教英语（该句中出现了两个状语，“in Beijing” 和 “now”）
 
 ## 七、定语
 
-修饰或者限定名词的词语叫定语。定语之和名词有关系，和其他任何成分都没有关系（特殊情况除外）。哪里有名词，哪里就有定语。不管什么了语言，名词都需要定语修饰。如果没有定语，就成了泛指，无法表达清楚意思。比如说，你帮我去买苹果。这句话就有问题，因为苹果这个概念太广了，表示世间所有的苹果。所以需要加一个定语，买一斤苹果，这里一斤就是定语。在英语中定语根据位置不同分为前置定语和后置定语，放在名词前面的叫前置定语，放在名词后面的叫后置定语。
+修饰或者限定名词的词语叫定语。定语只和名词有关系，和其他任何成分都没有关系（特殊情况除外）。哪里有名词，哪里就有定语。不管什么了语言，名词都需要定语修饰。如果没有定语，就成了泛指，无法表达清楚意思。比如说，你帮我去买苹果。这句话就有问题，因为苹果这个概念太广了，表示世间所有的苹果。所以需要加一个定语，买一斤苹果，这里一斤就是定语。在英语中定语根据位置不同分为前置定语和后置定语，放在名词前面的叫前置定语，放在名词后面的叫后置定语。
 
 注意，在英语里面，普通名词才能带定语。一般情况下，专有名词是不能带定语的。
 
@@ -248,7 +248,7 @@
 2. 形容词做前置定语：expensive book 贵的书；good book 好的书；happy girl 快乐的女孩
 3. 名词所有格做前置定语：Nick's house 尼克的房子
 4. 数词做前置定语：three books 三本书；Ten apples 十个苹果
-5. 名字做前置定语：English book 英语书；room number 房间号码
+5. 名词做前置定语：English book 英语书；room number 房间号码
 6. 量词做前置定语：a bottle of water 一瓶水
 7. 指示代词做前置定语：this book 这本书；that girl 那个女孩
 

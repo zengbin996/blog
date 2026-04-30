@@ -58,12 +58,12 @@
 - dancer 跳舞者
 - engineer 工程师,技师
 - farmer 农民
-- film 导演
+- director 导演
 - lawyer 律师
 - manager 经理
 - nanny 保姆
 - reporter 记者
-- sailor 手上,船员
+- sailor 水手,船员
 - scientist 科学家
 - soldier 士兵
 - teacher 教师
@@ -117,10 +117,10 @@
 - brother 兄弟
 - brush 刷子
 - bus 汽车
-- bake 蛋糕
+- cake 蛋糕
 - camera 照相机
-- digital 数码相机
-- bandy 糖果
+- digital camera 数码相机
+- candy 糖果
 - cap 帽子
 - car 小车
 - card 卡片
@@ -212,7 +212,7 @@
 - island 岛屿
 - jacket 夹克
 - jeans 牛仔裤
-- jib 工作
+- job 工作
 - juice 果汁
 - key 钥匙
 - kid 小孩
@@ -236,7 +236,7 @@
 - life 生活
 - light 灯
 - line 线路
-- line 狮子
+- lion 狮子
 - lip 嘴唇
 - list 名单
 - living 客厅
@@ -259,7 +259,7 @@
 - money 钱
 - monkey 猴子
 - month 月份
-- moon 月份
+- moon 月亮
 - morning 早上
 - mountain 山
 - mouse 老鼠,鼠标

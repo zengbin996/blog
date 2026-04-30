@@ -1,73 +1,91 @@
-# Node.js 和 NPM
+# Node.js、NVM 与 NRM
 
-阿里镜像站地址: [https://npmmirror.com](https://npmmirror.com/)
+## Node.js 简介
 
-Node.js 是能够在服务器端运行 JavaScript 的开放源代码、跨平台执行环境。 它采用 Google 开发的 V8 执行代码，使用事件驱动、非阻塞和异步输入输出模型等技术来提高性能。NPM 是 Node.js 默认的软件包管理系统，一般情况下，我们在安装 Node.js 会默认安装上 NPM。
+**Node.js** 是能够在服务器端运行 JavaScript 的开源、跨平台运行环境。它采用 Google 开发的 **V8** 引擎执行代码，使用事件驱动、非阻塞 I/O 模型来提高性能，非常适合构建高并发的网络应用。
 
-[Node.js 下载地址](https://nodejs.org/)
+**NPM**（Node Package Manager）是 Node.js 默认的包管理工具，安装 Node.js 时会同步安装 NPM。
 
-## Node.js 的常用命令
+[Node.js 官网下载](https://nodejs.org/)
 
-1. `node`：启动 Node.js，进入交互式命令行模式。
-2. `node app.js`：运行一个 Node.js 应用程序，其中 `app.js` 是应用程序的主文件名。
-3. `npm`：Node.js 的包管理工具，用于安装、更新、卸载、搜索和管理 Node.js 包文件。
-4. `npm install package-name`：安装一个 Node.js 模块（包）。
-5. `npm remove package-name`：卸载一个 Node.js 模块（包）。
-6. `npm update package-name`：更新一个 Node.js 模块（包）。
-7. `npm init`：创建一个新的 Node.js 应用程序，并生成一个 `package.json` 文件。
-8. `npm start`：启动一个 Node.js 应用程序的入口点 `server.js`。
-9. `npm test`：运行 Node.js 应用程序的测试脚本。
-10. `npm run-script script-name`：运行 Node.js 应用程序 `package.json` 文件中的自定义脚本。
+## Node.js 常用命令
 
-## nvm
+| 命令 | 说明 |
+|---|---|
+| `node` | 进入 Node.js 交互式命令行（REPL）模式 |
+| `node app.js` | 运行指定的 Node.js 脚本文件 |
+| `npm init` | 初始化项目，生成 `package.json` 文件 |
+| `npm install <package-name>` | 安装指定包（缩写：`npm i <package-name>`） |
+| `npm install` | 根据 `package.json` 安装所有依赖 |
+| `npm uninstall <package-name>` | 卸载指定包 |
+| `npm update <package-name>` | 更新指定包 |
+| `npm start` | 运行 `package.json` 中定义的 `start` 脚本 |
+| `npm test` | 运行 `package.json` 中定义的测试脚本 |
+| `npm run <script-name>` | 运行 `package.json` 中定义的自定义脚本 |
+| `npm list` | 查看已安装的包列表 |
 
-NVM 是 Node.js 版本管理器的缩写。它使您可以轻松地在同一台计算机上安装和管理多个 Node.js 版本。您可以通过 NVM 随时切换 Node.js 版本，而不会影响系统中其他应用程序的运行。
+## NVM — Node.js 版本管理器
 
-[NVM Windows 下载地址 ](https://github.com/coreybutler/nvm-windows/releases)
+**NVM**（Node Version Manager）是 Node.js 的版本管理工具，可在同一台计算机上安装和切换多个 Node.js 版本，方便在不同项目中使用不同版本的 Node.js。
 
-常用的 NVM 命令：
+- [NVM（Linux/macOS）GitHub 地址](https://github.com/nvm-sh/nvm)
+- [NVM-Windows 下载地址](https://github.com/coreybutler/nvm-windows/releases)
 
-1. `nvm install <version>`：安装指定版本的 Node.js。例如，nvm install 12.18.2 将安装 Node.js 版本 12.18.2。
-2. `nvm use <version>`：切换到指定版本的 Node.js。例如，nvm use 12.18.2 将切换到 Node.js 版本 12.18.2。
-3. `nvm ls`：列出所有已经安装的 Node.js 版本。
-4. `nvm current`：查看当前正在使用的 Node.js 版本。
-5. `nvm alias <name> <version>`：为特定版本的 Node.js 创建别名。例如，nvm alias default 12.18.2 将为 Node.js 版本 12.18.2 创建别名"default"，以便以后可以通过 nvm use default 命令轻松切换到这个版本。
-6. `nvm uninstall <version>`：删除指定版本的 Node.js。
-7. `nvm version`：查看 NVM 的版本号。
+### 常用 NVM 命令
+
+| 命令 | 说明 |
+|---|---|
+| `nvm install <version>` | 安装指定版本，如 `nvm install 18.16.0` |
+| `nvm install --lts` | 安装最新的 LTS（长期支持）版本 |
+| `nvm use <version>` | 切换到指定版本 |
+| `nvm ls` | 列出本地已安装的所有版本 |
+| `nvm ls-remote` | 列出远程可用的所有版本 |
+| `nvm current` | 查看当前正在使用的版本 |
+| `nvm alias default <version>` | 设置默认版本（新终端窗口生效） |
+| `nvm uninstall <version>` | 删除指定版本 |
+| `nvm version` | 查看 NVM 自身的版本号 |
 
 ## 修改 NPM 源
 
-NPM 的默认源为官方源，对于国内用户来说，下载速度可能较慢。可以切换为国内的源来加快下载速度。
+NPM 默认使用官方源，国内访问速度可能较慢，可切换为国内镜像源加速下载。
 
-1. 查看当前使用的地址
+阿里镜像站：[https://npmmirror.com](https://npmmirror.com/)
+
+### 查看当前源
 
 ```shell
 npm config get registry
 ```
 
-2. 使用阿里源
+### 切换为阿里源
 
 ```bash
 npm config set registry https://registry.npmmirror.com/
 ```
 
-3. 恢复官方源
+### 恢复官方源
 
 ```bash
 npm config set registry https://registry.npmjs.org/
 ```
 
-### nrm
+## NRM — NPM 源管理工具
 
-nrm 是一个 Node.js 的包管理工具，用于切换和管理不同的 NPM 注册源。nrm 可以帮助我们切换到国内的源，提高下载速度。
+**nrm**（NPM Registry Manager）是专门用于管理 NPM 源的工具，可以快速切换不同的镜像源，无需手动输入完整的源地址。
 
-可以用命令直接安装 nrm `npm install -g nrm`
+### 安装 nrm
 
-常用的 nrm 命令：
+```bash
+npm install -g nrm
+```
 
-1. `nrm ls`：列出可用的 NPM 源列表。
-2. `nrm use registry-name`：切换到指定的 NPM 源。
-3. `nrm add registry-name registry-url`：添加一个新的 NPM 源。
-4. `nrm del registry-name`：删除指定的 NPM 源。
-5. `nrm test registry-name`：测试指定 NPM 源的响应时间。
-6. `nrm current`：显示当前正在使用的 NPM 源。
+### 常用 nrm 命令
+
+| 命令 | 说明 |
+|---|---|
+| `nrm ls` | 列出所有可用的 NPM 源 |
+| `nrm use <registry-name>` | 切换到指定源，如 `nrm use taobao` |
+| `nrm current` | 显示当前正在使用的源 |
+| `nrm add <name> <url>` | 添加自定义源 |
+| `nrm del <name>` | 删除指定源 |
+| `nrm test <name>` | 测试指定源的响应速度 |

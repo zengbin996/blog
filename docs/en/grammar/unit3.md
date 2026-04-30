@@ -13,13 +13,13 @@
 | 主格             | I    | You   | He  | She  | It  | We   | They           |
 | 宾格             | me   | you   | him | her  | it  | us   | them           |
 | 形容词性物主代词 | my   | your  | his | her  | its | our  | their          |
-| 名词词性物主代词 | mine | yours | his | hers | its | ours | theirs         |
+| 名词性物主代词   | mine | yours | his | hers | its | ours | theirs         |
 
 ## 人称代词
 
 人称代词一般代替表示人的名词，例如“Newton”是一个表示人的名词，为了避免重复出现这个名字就可以用“He”来代替人名“Newton”。在英语中，如果出现大量相同的名词，必须使用代词。
 
-例如：“Nick is a teacher, Nick is form Xi'an, Nick is very old”，这种情况下必须使用“Nick is a teacher, He is form Xi'an, He is very old”。
+例如：“Nick is a teacher, Nick is from Xi'an, Nick is very old”，这种情况下必须使用“Nick is a teacher, He is from Xi'an, He is very old”。
 
 人称代词在句子中的作用：
 
@@ -33,7 +33,7 @@
 
 ## 物主代词
 
-物主代词分为两种：形容词性物主代词和名词性物主代词，它们两个在中文意思上都是“什么的”，例如“my”和“mine”都表示我的，但是在用法上缺截然不同。这里用一句中文来解释一些它们。“我的房子很大”，这里“我的”在英语中就是形容词性物主代词，它是用来作定语的。“这个房子是我的”，这里的“我的”就是名词性物主代词，它是用来指代名词，表示“我的房子”。
+物主代词分为两种：形容词性物主代词和名词性物主代词，它们两个在中文意思上都是”什么的”，例如”my”和”mine”都表示我的，但是在用法上却截然不同。这里用一句中文来解释一些它们。“我的房子很大”，这里“我的”在英语中就是形容词性物主代词，它是用来作定语的。“这个房子是我的”，这里的“我的”就是名词性物主代词，它是用来指代名词，表示“我的房子”。
 
 1. 形容词性物主代词，表示所属关系或者所有关系，主要用来作前置定语
 
@@ -59,7 +59,7 @@
 
 作用：
 
-1. 作前置定语，“this”和“that”修饰可数名词单数或者不可数名词（用法较少），例如：This house、That house、This girl、That girl；“these”和“those”修饰可数名词复数，例如 these hoses、those girl
+1. 作前置定语，“this”和“that”修饰可数名词单数或者不可数名词（用法较少），例如：This house、That house、This girl、That girl；“these”和”those”修饰可数名词复数，例如 these houses、those girls
 
 2. 作主语、宾语、表语，这个时候是一个真正意义上的名词，例如：
 
@@ -68,4 +68,4 @@
 - I want this（作宾语，这个时候“this”一定要是大家都知道是什么的情况下）
 - It is this（作表语，就是这个，同上）
 
-注意：受到中文发音习惯的影响，很多人会将代词的主格和形容词性物主代词搞混淆。例如大家唱说“我哥”、“我姐”、“你爸”这种，在中文口语中这么表达没有问题，但是如果直接翻译英语“I brother”就是错误的。我中我们想要表达的意识应该是“我的哥哥”，翻译成英语应该是“My brother”，英语中人称代词主格是不能作定语的。
+注意：受到中文表达习惯的影响，很多人会将人称代词主格和形容词性物主代词搞混淆。例如大家常说”我哥”、”我姐”、”你爸”，在中文口语中这么表达没有问题，但如果直接翻译成英语”I brother”就是错误的。我们想要表达的意思应该是”我的哥哥”，翻译成英语应该是”My brother”，英语中人称代词主格是不能作定语的。

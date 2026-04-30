@@ -1,4 +1,8 @@
-# 在网页中实现截屏粘贴的功能
+# 在网页中实现截图粘贴功能
+
+利用 `clipboardData` API，监听输入框的 `paste` 事件，当用户将截图粘贴到输入框时，自动读取剪贴板中的图片数据，通过 `FileReader` 转为 Base64 格式，并将图片插入到页面中。
+
+**使用方法**：先使用系统截图工具（如 Windows 的 `Win + Shift + S`）截图，然后在输入框内按 `Ctrl + V` 粘贴即可。
 
 ```html
 <!DOCTYPE html>

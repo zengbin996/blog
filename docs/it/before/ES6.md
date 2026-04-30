@@ -1,100 +1,139 @@
-# ES6 新增
+# ES6 新增特性
 
-### 新增数据作用域
+---
 
-在 ES6 之前，JavaScript 只有两种作用域：全局变量与函数内的局部变量。ES6 中新增了块级作用域，使用`let`和`const`关键词定义。
+## 块级作用域（let / const）
 
-#### 特点
+在 ES6 之前，JavaScript 只有两种作用域：**全局作用域**与**函数作用域**。ES6 新增了**块级作用域**，使用 `let` 和 `const` 关键字声明。
 
-1. 在同一作用作用域内，变量不能重复定义
-2. 必须先声明，才能使用（暂时性死区），看如下代码
+### 特点
+
+1. **不可重复声明**：在同一作用域内，变量不能重复定义。
+2. **暂时性死区（TDZ）**：必须先声明，才能使用。
 
 ```javascript
 let x = 10;
 {
-  console.log(x);
+  console.log(x); // ReferenceError: Cannot access 'x' before initialization
   let x = 5;
 }
 ```
 
-以上代码会`Uncaught ReferenceError: Cannot access 'x' before initialization`错误，因为`console.log(x)`执行时会先在当前作用域找`x`，如果有`x`，则不会去上级作用域找，但是在`console.log(x)`语句执行时，`x`还没有定义。 3. 声名的变量不绑定到 window 对象上。 4. 在一对大括号中{}，声名变量时，会产生块级作用域，变量仅在此块级作用域中有效。 5. const 定义一个常量，它一旦定义，值就无法改变，所以在定义时必须赋值。
+以上代码会抛出 `ReferenceError`，因为 `console.log(x)` 执行时会先在当前块级作用域中查找 `x`，找到了（块内有 `let x`），但此时 `x` 尚未初始化，处于暂时性死区，因此报错。
 
-#### 应用
+3. **不挂载到 `window`**：`let` / `const` 声明的变量不会成为全局对象 `window` 的属性（`var` 声明的会）。
+4. **块级作用域生效范围**：在一对花括号 `{}` 内声明的变量，仅在该块内有效。
+5. **`const` 声明常量**：`const` 声明后值不可重新赋值，且声明时必须立即赋值。对于对象/数组，`const` 约束的是引用地址，内部属性仍可修改。
 
-解决闭包问题
+### 应用：解决经典闭包问题
 
 ```javascript
+// 使用 var：输出 10 个 10（因为 var 没有块级作用域，循环结束后 i === 10）
 for (var i = 0; i < 10; i++) {
   setTimeout(function () {
     console.log(i);
   }, 1);
 }
 
-//以上代码会输出10个10
-
+// 使用 let：输出 0~9（每次迭代都有独立的块级作用域）
 for (let i = 0; i < 10; i++) {
   setTimeout(function () {
     console.log(i);
   }, 1);
 }
-
-//输出0-9
 ```
 
-### 新增数据类型
+---
 
-在 ES6 中新增了一下 6 中数据类型
+## 新增数据类型
 
-- Symbol 类型（基本数据类型）
-- Set 类型
-- Map 类型
-- weakSet 类型
-- WeakMap 类型
-- TypedArray 类型
+ES6 新增了以下 6 种数据类型：
 
-#### Symbol(）用法
+| 类型 | 分类 | 说明 |
+|------|------|------|
+| `Symbol` | 基本数据类型 | 表示唯一值 |
+| `Set` | 引用类型 | 类似数组，元素不重复 |
+| `Map` | 引用类型 | 键值对集合，键可为任意类型 |
+| `WeakSet` | 引用类型 | 弱引用 Set，成员只能为对象 |
+| `WeakMap` | 引用类型 | 弱引用 Map，键只能为对象 |
+| `TypedArray` | 引用类型 | 类型化数组，用于操作二进制数据 |
 
-`Symbol()`类型表示独一无二的值，最大的用法是用来定义对象的唯一属性名。Symbol 函数栈不能用 new 命令，因为 Symbol 是原始数据类型，不是对象。可以接受一个字符串作为参数，为新创建的 Symbol 提供描述，用来显示在控制台或者作为字符串的时候使用，便于区分。
+### Symbol
+
+`Symbol()` 表示独一无二的值，常用于定义对象的唯一属性名，避免属性名冲突。`Symbol` 是基本数据类型，不能使用 `new` 调用。可传入字符串作为描述信息，便于调试区分。
 
 ```javascript
 let sy = Symbol('abc');
-console.log(sy); //Symbol(abc)
-console.log(typeof sy); //symbol
+console.log(sy);         // Symbol(abc)
+console.log(typeof sy);  // "symbol"
 
-// 相同参数 Symbol() 返回的值不相等
+// 相同描述的 Symbol() 返回值也不相等
 let sy1 = Symbol('abc');
-console.log(sy == sy1); //false
+console.log(sy === sy1); // false
 ```
 
-#### Set() 用法
+### Set
 
-`Set`类型对象允许你存储任何类型的唯一值，无论是原始值或者是对象引用。它类似于数组，但是他的一大特性就是所有元素都是唯一的，没有重复。可以利用这一点为数组去重
+`Set` 对象存储任意类型的**唯一值**，类似数组但不允许重复元素。常用于数组去重。
 
 ```javascript
 let set = new Set([1, 4, 5, 6, 6, 5]);
-console.log(set); //Set(4) {1, 4, 5, 6}
+console.log(set); // Set(4) {1, 4, 5, 6}
 
-//数组转Set
-let arr2 = [12, 3, 43, 2, 3];
-let set2 = new Set(arr2);
-console.log(set2); //Set(4) {12, 3, 43, 2}
+// 数组转 Set
+let arr = [12, 3, 43, 2, 3];
+let set2 = new Set(arr);
+console.log(set2); // Set(4) {12, 3, 43, 2}
 
-//使用for...of可以用拉力遍历Set
+// Set 转数组（数组去重常用写法）
+let unique = [...new Set(arr)]; // [12, 3, 43, 2]
+
+// 使用 for...of 遍历 Set
 for (let i of set) {
-  console.log(i);
+  console.log(i); // 1  4  5  6
 }
-//1 4 5 6
 ```
 
-#### Map() 用法
+### Map
 
-`Map`Map 对象保存键值对，任何值(原始值或对象)都可以作为一个键或一个值。Map 是一组键值对，有 key 也有 value。
+`Map` 对象保存键值对，与普通对象不同的是，**键可以是任意类型**（包括对象、函数等），而不仅限于字符串。
 
 ```javascript
 let map = new Map();
 map.set('keystr', 'mymap');
-console.log(map); //Map(1) {"keystr" => "mymap"}
-console.log(map.get('keystr')); //mymap
+map.set(1, 'number key');
 
-//for...of也可以遍历Map
+console.log(map);               // Map(2) {"keystr" => "mymap", 1 => "number key"}
+console.log(map.get('keystr')); // "mymap"
+console.log(map.size);          // 2
+
+// 使用 for...of 遍历 Map
+for (let [key, value] of map) {
+  console.log(key, value);
+}
 ```
+
+### WeakSet
+
+`WeakSet` 与 `Set` 类似，但有两点区别：
+1. **成员只能是对象**，不能是基本类型值；
+2. 对成员的引用是**弱引用**，如果对象在其他地方没有被引用，GC 会自动回收，`WeakSet` 不会阻止垃圾回收。
+
+因此 `WeakSet` 不可遍历，适合存储 DOM 节点等需要自动清理的场景。
+
+### WeakMap
+
+`WeakMap` 与 `Map` 类似，但**键只能是对象**，且同样是弱引用。当键对象被回收后，对应的键值对也会自动消失。
+
+常见用途：为 DOM 元素或组件实例附加元数据，无需手动清理。
+
+```javascript
+let weakMap = new WeakMap();
+let obj = {};
+weakMap.set(obj, '附加数据');
+console.log(weakMap.get(obj)); // '附加数据'
+```
+
+### TypedArray
+
+`TypedArray`（类型化数组）是操作二进制数据的一组视图类型，如 `Int8Array`、`Uint8Array`、`Float32Array` 等，常用于 WebGL、音视频处理、网络协议解析等场景，性能优于普通 `Array`。
